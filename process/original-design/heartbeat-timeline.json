@@ -1,0 +1,521 @@
+{
+  "schema": "heartbeat-storyboard-1",
+  "status": "design_only_not_rendered",
+  "title": "心跳",
+  "form": "original_abstract_music_short",
+  "duration_seconds": 90,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "audio_sample_rate": 48000,
+  "frame_count": 2700,
+  "clock": {
+    "bpm": 96,
+    "meter": [
+      4,
+      4
+    ],
+    "seconds_per_beat": 0.625,
+    "seconds_per_bar": 2.5,
+    "bar_count": 36,
+    "bar_numbering": "one_based",
+    "interval_convention": "start_inclusive_end_exclusive"
+  },
+  "motif": {
+    "primary_notes": [
+      "A3",
+      "E4",
+      "B4"
+    ],
+    "usual_cycle_beats": 2,
+    "double_hit_spacing_seconds": 0.16,
+    "phase_difference_seconds": 0.3125,
+    "node_count": 9
+  },
+  "phases": [
+    {
+      "id": "P01",
+      "name": "第一次脉动",
+      "start": 0,
+      "end": 10,
+      "bar_start": 1,
+      "bar_end": 4
+    },
+    {
+      "id": "P02",
+      "name": "痕迹成为材料",
+      "start": 10,
+      "end": 22.5,
+      "bar_start": 5,
+      "bar_end": 9
+    },
+    {
+      "id": "P03",
+      "name": "脉动可以传播",
+      "start": 22.5,
+      "end": 35,
+      "bar_start": 10,
+      "bar_end": 14
+    },
+    {
+      "id": "P04",
+      "name": "两种节律",
+      "start": 35,
+      "end": 47.5,
+      "bar_start": 15,
+      "bar_end": 19
+    },
+    {
+      "id": "P05",
+      "name": "等待",
+      "start": 47.5,
+      "end": 57.5,
+      "bar_start": 20,
+      "bar_end": 23
+    },
+    {
+      "id": "P06",
+      "name": "回声返回",
+      "start": 57.5,
+      "end": 72.5,
+      "bar_start": 24,
+      "bar_end": 29
+    },
+    {
+      "id": "P07",
+      "name": "共同呼吸",
+      "start": 72.5,
+      "end": 82.5,
+      "bar_start": 30,
+      "bar_end": 33
+    },
+    {
+      "id": "P08",
+      "name": "回到近处",
+      "start": 82.5,
+      "end": 90,
+      "bar_start": 34,
+      "bar_end": 36
+    }
+  ],
+  "shots": [
+    {
+      "id": "S01",
+      "start": 0,
+      "end": 5,
+      "start_frame": 0,
+      "end_frame": 150,
+      "phase": "P01",
+      "subject": "主微核特写",
+      "carrier": "pulse.origin",
+      "handoff": "缓慢拉开，显示缺口与纤维"
+    },
+    {
+      "id": "S02",
+      "start": 5,
+      "end": 10,
+      "start_frame": 150,
+      "end_frame": 300,
+      "phase": "P01",
+      "subject": "微核运动并留下弧线",
+      "carrier": "trace.main",
+      "handoff": "曲线端点继续进入下一段"
+    },
+    {
+      "id": "S03",
+      "start": 10,
+      "end": 17.5,
+      "start_frame": 300,
+      "end_frame": 525,
+      "phase": "P02",
+      "subject": "弧线弯成开口环",
+      "carrier": "trace.main",
+      "handoff": "跟随端点，保持点序"
+    },
+    {
+      "id": "S04",
+      "start": 17.5,
+      "end": 22.5,
+      "start_frame": 525,
+      "end_frame": 675,
+      "phase": "P02",
+      "subject": "薄膜从环边生长",
+      "carrier": "membrane.main",
+      "handoff": "保留边界点，相机降低视角"
+    },
+    {
+      "id": "S05",
+      "start": 22.5,
+      "end": 30,
+      "start_frame": 675,
+      "end_frame": 900,
+      "phase": "P03",
+      "subject": "波前沿表面传播",
+      "carrier": "membrane.main",
+      "handoff": "跟随单个波峰"
+    },
+    {
+      "id": "S06",
+      "start": 30,
+      "end": 35,
+      "start_frame": 900,
+      "end_frame": 1050,
+      "phase": "P03",
+      "subject": "远端微核被揭示",
+      "carrier": "pulse.reply",
+      "handoff": "前景折边掠过并露出接收者"
+    },
+    {
+      "id": "S07",
+      "start": 35,
+      "end": 40,
+      "start_frame": 1050,
+      "end_frame": 1200,
+      "phase": "P04",
+      "subject": "两个微核各自发声",
+      "carrier": "pulse.origin+pulse.reply",
+      "handoff": "青色声部错开半拍"
+    },
+    {
+      "id": "S08",
+      "start": 40,
+      "end": 45,
+      "start_frame": 1200,
+      "end_frame": 1350,
+      "phase": "P04",
+      "subject": "波前相遇与错开",
+      "carrier": "membrane.main",
+      "handoff": "交汇区域近景"
+    },
+    {
+      "id": "S09",
+      "start": 45,
+      "end": 47.5,
+      "start_frame": 1350,
+      "end_frame": 1425,
+      "phase": "P04",
+      "subject": "关系暂时错开",
+      "carrier": "pulse.origin",
+      "handoff": "折边引回主微核"
+    },
+    {
+      "id": "S10",
+      "start": 47.5,
+      "end": 52.5,
+      "start_frame": 1425,
+      "end_frame": 1575,
+      "phase": "P05",
+      "subject": "外围受光收回",
+      "carrier": "trace.main",
+      "handoff": "退去外围运动，保留旧路径"
+    },
+    {
+      "id": "S11",
+      "start": 52.5,
+      "end": 55,
+      "start_frame": 1575,
+      "end_frame": 1650,
+      "phase": "P05",
+      "subject": "建立一次脉动预期",
+      "carrier": "pulse.origin",
+      "handoff": "相机停住"
+    },
+    {
+      "id": "S12",
+      "start": 55,
+      "end": 57.5,
+      "start_frame": 1650,
+      "end_frame": 1725,
+      "phase": "P05",
+      "subject": "等待并出现远端先声",
+      "carrier": "pulse.reply",
+      "handoff": "56.875秒回声开始沿旧路径移动"
+    },
+    {
+      "id": "S13",
+      "start": 57.5,
+      "end": 65,
+      "start_frame": 1725,
+      "end_frame": 1950,
+      "phase": "P06",
+      "subject": "回声到达并再次传播",
+      "carrier": "pulse.origin",
+      "handoff": "到达处只触发一次形变"
+    },
+    {
+      "id": "S14",
+      "start": 65,
+      "end": 72.5,
+      "start_frame": 1950,
+      "end_frame": 2175,
+      "phase": "P06",
+      "subject": "其余七节点被唤起",
+      "carrier": "membrane.main",
+      "handoff": "总计九节点，由波峰逐次显出"
+    },
+    {
+      "id": "S15",
+      "start": 72.5,
+      "end": 77.5,
+      "start_frame": 2175,
+      "end_frame": 2325,
+      "phase": "P07",
+      "subject": "完整表面与共同呼吸",
+      "carrier": "membrane.main",
+      "handoff": "抬高视点，放慢相机"
+    },
+    {
+      "id": "S16",
+      "start": 77.5,
+      "end": 82.5,
+      "start_frame": 2325,
+      "end_frame": 2475,
+      "phase": "P07",
+      "subject": "由全景返回微核",
+      "carrier": "pulse.origin",
+      "handoff": "通过前景折边确认纵深"
+    },
+    {
+      "id": "S17",
+      "start": 82.5,
+      "end": 85,
+      "start_frame": 2475,
+      "end_frame": 2550,
+      "phase": "P08",
+      "subject": "主体让出标题留白",
+      "carrier": "title.heartbeat",
+      "handoff": "两级显影，85秒完全可读"
+    },
+    {
+      "id": "S18",
+      "start": 85,
+      "end": 90,
+      "start_frame": 2550,
+      "end_frame": 2700,
+      "phase": "P08",
+      "subject": "标题停留与最后双击",
+      "carrier": "pulse.origin",
+      "handoff": "88.75秒双击，保留远端回应"
+    }
+  ],
+  "events": [
+    {
+      "id": "first_pulse",
+      "t": 0,
+      "audio_sample": 0,
+      "nearest_frame": 0,
+      "frame_quantization_error_ms": 0,
+      "sound": "干燥双击",
+      "visual": "主微核形变"
+    },
+    {
+      "id": "trace_material",
+      "t": 10,
+      "audio_sample": 480000,
+      "nearest_frame": 300,
+      "frame_quantization_error_ms": 0,
+      "sound": "三音动机进入",
+      "visual": "曲线受光边缘显出"
+    },
+    {
+      "id": "membrane_wave",
+      "t": 22.5,
+      "audio_sample": 1080000,
+      "nearest_frame": 675,
+      "frame_quantization_error_ms": 0,
+      "sound": "延迟声部展开",
+      "visual": "第一个完整波前"
+    },
+    {
+      "id": "reply_phase",
+      "t": 35,
+      "audio_sample": 1680000,
+      "nearest_frame": 1050,
+      "frame_quantization_error_ms": 0,
+      "sound": "青色声部错开0.3125秒",
+      "visual": "两个节律暂不重合"
+    },
+    {
+      "id": "withdraw",
+      "t": 47.5,
+      "audio_sample": 2280000,
+      "nearest_frame": 1425,
+      "frame_quantization_error_ms": 0,
+      "sound": "按层撤去配器",
+      "visual": "受光收回"
+    },
+    {
+      "id": "pulse_gap_start",
+      "t": 55,
+      "audio_sample": 2640000,
+      "nearest_frame": 1650,
+      "frame_quantization_error_ms": 0,
+      "sound": "不触发新的双击",
+      "visual": "稳定相机，保留旧路径"
+    },
+    {
+      "id": "reply_departure",
+      "t": 56.875,
+      "audio_sample": 2730000,
+      "nearest_frame": 1706,
+      "frame_quantization_error_ms": -8.333333,
+      "sound": "远端轻音",
+      "visual": "青色回声开始回程"
+    },
+    {
+      "id": "reply_arrival",
+      "t": 57.5,
+      "audio_sample": 2760000,
+      "nearest_frame": 1725,
+      "frame_quantization_error_ms": 0,
+      "sound": "强拍与动机回答",
+      "visual": "到达主微核，局部形变"
+    },
+    {
+      "id": "node_expansion_start",
+      "t": 65,
+      "audio_sample": 3120000,
+      "nearest_frame": 1950,
+      "frame_quantization_error_ms": 0,
+      "sound": "开始七个节点的轻音",
+      "visual": "依次唤起节点"
+    },
+    {
+      "id": "space_reveal",
+      "t": 72.5,
+      "audio_sample": 3480000,
+      "nearest_frame": 2175,
+      "frame_quantization_error_ms": 0,
+      "sound": "完整和声展开",
+      "visual": "揭示共同呼吸表面"
+    },
+    {
+      "id": "title_start",
+      "t": 82.5,
+      "audio_sample": 3960000,
+      "nearest_frame": 2475,
+      "frame_quantization_error_ms": 0,
+      "sound": "逐步收去配器",
+      "visual": "两级排字"
+    },
+    {
+      "id": "title_readable",
+      "t": 85,
+      "audio_sample": 4080000,
+      "nearest_frame": 2550,
+      "frame_quantization_error_ms": 0,
+      "sound": "脉动逐渐成为主要声音",
+      "visual": "完整标题保持至片尾"
+    },
+    {
+      "id": "final_primary",
+      "t": 88.75,
+      "audio_sample": 4260000,
+      "nearest_frame": 2663,
+      "frame_quantization_error_ms": 16.666667,
+      "sound": "最后双击第一击",
+      "visual": "微核收紧"
+    },
+    {
+      "id": "final_secondary",
+      "t": 88.91,
+      "audio_sample": 4267680,
+      "nearest_frame": 2667,
+      "frame_quantization_error_ms": -10,
+      "sound": "最后双击第二击",
+      "visual": "边缘回弹"
+    }
+  ],
+  "hold_windows": [
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 55,
+      "end": 57.5
+    },
+    {
+      "start": 85,
+      "end": 90
+    }
+  ],
+  "no_new_double_hit_window": {
+    "start": 55,
+    "end": 56.875,
+    "note": "Existing audio tails may continue. The remote pickup is a separate event."
+  },
+  "handoffs": [
+    {
+      "t": 10,
+      "carrier": "trace.main",
+      "logical_anchor": [
+        1260,
+        540
+      ],
+      "contract": "shared traceTip(t); rightward tangent; match projected velocity"
+    },
+    {
+      "t": 22.5,
+      "carrier": "membrane.main",
+      "logical_anchor": [
+        960,
+        540
+      ],
+      "ellipse_radii": [
+        300,
+        135
+      ],
+      "contract": "same boundary vertices, common camera projection"
+    },
+    {
+      "t": 35,
+      "carrier": "pulse.reply",
+      "logical_anchor": [
+        1370,
+        410
+      ],
+      "contract": "same identity, scale, lighting and motion"
+    },
+    {
+      "t": 47.5,
+      "carrier": "pulse.origin",
+      "logical_anchor": [
+        680,
+        575
+      ],
+      "contract": "retain old trace path through pause"
+    },
+    {
+      "t": 57.5,
+      "carrier": "pulse.origin",
+      "logical_anchor": [
+        680,
+        575
+      ],
+      "contract": "reply arrives at origin; camera stable from 55 to 58"
+    },
+    {
+      "t": 82.5,
+      "carrier": "pulse.origin",
+      "logical_anchor": [
+        960,
+        620
+      ],
+      "contract": "same original material and notch; title above"
+    }
+  ],
+  "proof_windows": [
+    {
+      "start": 17.5,
+      "end": 22.5,
+      "purpose": "curve to membrane"
+    },
+    {
+      "start": 55,
+      "end": 65,
+      "purpose": "pause, reply departure, arrival and propagation"
+    }
+  ],
+  "delivery_stage": "Research and design only. Audio composition, renderer, stills, preview and final video remain future production work."
+}
