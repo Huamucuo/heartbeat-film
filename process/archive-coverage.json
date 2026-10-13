@@ -12,7 +12,10 @@
   "uniqueBinaryBytes": 19028741224,
   "conversationMessages": 382,
   "toolCalls": 570,
-  "releaseBytes": 17891845601,
-  "releaseAssets": 17,
-  "additionalOriginalDesignDocuments": 2
+  "releaseBytes": 1053853016,
+  "releaseAssets": 4,
+  "additionalOriginalDesignDocuments": 2,
+  "inventoryScope": "Original local inventory before publication was narrowed; files/uniqueBinary fields describe that inventory, not downloadable media.",
+  "publicMediaPaths": 54,
+  "publicationScope": "Final v16 project + production documentation + selected iterations; historical source snapshots retained, historical full videos not distributed."
 }

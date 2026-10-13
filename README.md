@@ -2,7 +2,7 @@
 
 一部关于「活着的意义」的原创图形音乐短片。没有旁白，画面、文字与音乐共同讲述。制作：**Huamucuo × Codex**。
 
-**v16 成片：161.7 秒，30 fps，原生 4K 与 1080p。** 从早期抽象图形，到生活物件、迷宫、并行的日常与代码心脏，这里公开实际留下的制作过程、源码、样片、关键帧、音乐分轨、封面和最终视频。
+**v16 成片：161.7 秒，30 fps，原生 4K 与 1080p。** 从早期抽象图形，到生活物件、迷宫、并行的日常与代码心脏，这里公开实际留下的制作过程、最终源码、精选样片与关键帧、音乐分轨、封面和最终视频。
 
 ![封面](covers/bilibili-cover.jpg)
 
@@ -10,19 +10,20 @@
 
 - [1080p 成片](https://github.com/Huamucuo/heartbeat-film/releases/download/v16.0.0/heartbeat-v16-1080p.mp4)
 - [4K 成片](https://github.com/Huamucuo/heartbeat-film/releases/download/v16.0.0/heartbeat-v16-4k.mp4)
-- [完整媒体档案与运行素材](https://github.com/Huamucuo/heartbeat-film/releases/tag/v16.0.0)
+- [运行素材与精选迭代案例](https://github.com/Huamucuo/heartbeat-film/releases/tag/v16.0.0)
 
-视频和大量中间文件存放在 Releases；源码与过程记录在仓库中。媒体采用内容去重，`media-manifest.json` 保留原来的版本、路径、大小与 SHA-256，提供脚本还原。首次只运行当前工程时只需下载运行素材包，不必下载全部历史视频。
+本次公开“最终版完整工程＋制作过程说明＋精选迭代案例”。最终视频与运行素材存放在 Releases；源码和过程记录在仓库中。全部旧版完整视频、重复截图与中间音频保留本地，不重复上传。`media-manifest.json` 只列本次发布媒体，提供路径与 SHA-256。
 
 ## 从哪里开始学习
 
 | 入口 | 内容 |
 |---|---|
 | [制作过程](docs/PRODUCTION.md) | 主题如何变成场景、实际迭代及重要取舍 |
+| [精选案例](docs/ITERATIONS.md) | 少量原始片段、截图及对照时间位置 |
 | [实际对话](process/conversation.md) | 可用的用户反馈与助手公开回复，按发生顺序排列 |
 | [实际工具指令](process/tool-calls.jsonl) | 与制作有关的实际工具输入；不是模型内部推理 |
 | [历史源码](history/) | 从第一版到 v16 的现存源码快照，非事后编造的 Git 提交历史 |
-| [运行与复现](docs/REPRODUCE.md) | 预览、局部渲染、整片绘制和成片拼接还原 |
+| [运行与复现](docs/REPRODUCE.md) | 预览、局部渲染、整片绘制及原导出方式说明 |
 | [许可和素材](THIRD_PARTY.md) | 原创内容许可及字体、钢琴、心电数据的独立许可 |
 | [归档范围](docs/ARCHIVE.md) | 保存范围、脱敏和现有记录的局限 |
 
@@ -47,7 +48,7 @@ npm run sample
 npm run render
 ```
 
-**原成片包含此前版本保留的画面。** 当前源码全片重绘不承诺逐像素等同历史拼接成片；要还原当时的保留画面与导出方式，请按 [复现说明](docs/REPRODUCE.md) 使用 `npm run reproduce`。最终原文件的哈希见 `release-assets.json`。
+**原成片包含此前版本保留的画面。** 当前源码全片重绘不承诺逐像素等同历史拼接成片；原文件可直接下载；要修改作品，请按 [复现说明](docs/REPRODUCE.md) 使用当前源码重绘。精简发行不要求下载旧版完整视频。最终原文件的哈希见 `release-assets.json`。
 
 ## 创作与许可
 

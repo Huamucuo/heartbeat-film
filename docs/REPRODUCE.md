@@ -22,31 +22,27 @@ npm run render
 
 支持 1920 或 3840 宽度，30 fps，1–4 个曝光采样，1–3 个浏览器工作进程。内存紧张时使用一个工作进程。渲染直接使用还原的最终混音，音频和画面按同一播放秒数截取。
 
-## 还原当时最终导出方式
+## 原成片与源码重绘的区别
 
-原 v16 成片保留 v15 的 0–93 秒和 96 秒以后的画面，仅替换三秒过场。要按相同方式重新导出：
+当时的 v16 成片保留 v15 的 0–93 秒和 96 秒以后的画面，仅重新绘制并替换三秒过场。原操作脚本保留在 `history/heartbeat-film-v16/tools/`，用于说明真实制作方式。此次精简不分发 v15 完整视频，因此不提供依赖它的拼接复现命令。
 
-```sh
-python tools/restore-media.py
-python tools/restore-media.py --only heartbeat-film-v15/output/heartbeat-v15-4k.mp4
-npm run reproduce
-```
-
-此命令读取已还原的 v15 4K 文件，重新绘制当前心电区间，再使用相同分段与混音导出 1080p 和 4K。它依赖已公开的历史中间视频，这是原实际制作流程的一部分。不同浏览器或编码器版本可能改变像素和压缩结果；原视频文件的 SHA-256 是原始发行物的依据，不承诺跨平台逐字节再现。
+下载 Release 中的 v16 MP4 可获得未经改动的原成片。`npm run render` 则使用当前完整源码和最终混音，从零绘制全片，不需要旧版成片；部分画面可能与历史保留区间不同。不同浏览器或编码器也可能改变像素与压缩结果，不承诺逐字节再现。原视频哈希见 `release-assets.json`。
 
 ## 音乐与分轨
 
 `audio/score.json` 保存实际事件与配器；`audio/synthesize.py` 保存从采样和振荡器合成分轨的方法。Python 依赖在 `audio/requirements.txt`。使用 `python -m pip install -r audio/requirements.txt` 后可研究并重新合成；执行前保留原混音，因为该脚本写入 audio/generated。
 
-最终音频实际保留了旧版的部分 PCM，再局部修补心搏。简单重新运行当前合成器不会逐字节等同最终修补文件。原有分轨、混音、增益报告及各版本修补脚本均归档。需要研究严格修补链时还原 v13、v15、v16 历史目录并读相应 README 与工具脚本。旧脚本中的环境路径只代表当时机器配置，需要改成自己的 FFmpeg／浏览器路径；这些历史快照不冒充跨平台一键工具。
+最终音频实际保留旧版部分 PCM 并局部修补心搏。当前合成器可用于学习与重新编曲，但单独运行它不会逐字节等同最终修补的混音。运行包提供最终混音和分轨，使当前画面渲染不依赖旧音频版本。历史修补源码保留供理解流程，其依赖的全部中间音频不在本次发行内。
 
-## 全部历史
+## 精选案例和历史源码
+
+精选片段可直接下载、解压 `selected-iterations.zip`；具体文件和对照时间见 [ITERATIONS.md](ITERATIONS.md)。也可按媒体清单恢复已公开的版本案例：
 
 ```sh
-python tools/restore-media.py --history --edition heartbeat-film-v13
+python tools/restore-media.py --history --edition heartbeat-film-v05
 python tools/restore-media.py --all
 ```
 
-源码及媒体恢复到 `archive/workspace/heartbeat-film...`。全部历史体积较大，执行前查看 `release-assets.json` 和磁盘容量。归档采用内容去重，同一媒体可能恢复到多个原始版本路径。下载 ZIP 的 SHA-256 和每个恢复文件的 SHA-256 均会检查。
+第一条只恢复该版本被选中的媒体和历史源码，不是完整旧工程媒体。`--all` 恢复本次 Release 清单内的所有文件至 `archive/workspace/`，不代表全部历史版本。默认不带这些参数时，运行素材恢复到根目录，供当前预览与渲染使用。`--only` 只接受本次 `media-manifest.json` 内列出的原始路径。
 
-不要批量执行历史工具：部分为旧版一次性修补、打包或当时的检查脚本。学习其参数与前提后再操作副本。公开整理只增加便携入口与文档，没有改变已发布的原视频。
+不要批量执行历史脚本：一些是一次性修补、打包或检查入口，会依赖未公开的旧版媒体。当前可运行入口以根目录 package.json 为准。此次整理不改变原成片。

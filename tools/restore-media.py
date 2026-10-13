@@ -10,12 +10,12 @@ def sha(path):
 
 def main():
     p=argparse.ArgumentParser(description=__doc__)
-    p.add_argument('--history',action='store_true',help='Restore historical source and media into archive/workspace')
+    p.add_argument('--history',action='store_true',help='Restore historical source and the media included in this release into archive/workspace')
     p.add_argument('--edition',default='heartbeat-film-v16',help='History folder name, e.g. heartbeat-film-v15')
-    p.add_argument('--all',action='store_true',help='Restore ALL historical media; requires substantial disk space')
+    p.add_argument('--all',action='store_true',help='Restore all media INCLUDED in this release (not all historical versions)')
     p.add_argument('--film',action='store_true',help='Also restore the final 1080p MP4 into output/')
     p.add_argument('--local-dir',type=pathlib.Path,help='Use locally downloaded release assets')
-    p.add_argument('--only',help='Restore one original path, useful for a previous export')
+    p.add_argument('--only',help='Restore one original path, must be listed in media-manifest.json')
     args=p.parse_args()
     manifest=json.loads((ROOT/'media-manifest.json').read_text(encoding='utf8'))
     assets={a['name']:a for a in json.loads((ROOT/'release-assets.json').read_text(encoding='utf8'))}
