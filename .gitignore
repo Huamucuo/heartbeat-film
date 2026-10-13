@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+__pycache__/
+.cache/
+/archive/
+/output/
+assets/fonts/*.ttf
+assets/ecg/*.dat
+assets/ecg/*.atr
+audio/instruments/**/Samples/
+audio/generated/*.wav
+audio/generated/*.mp3
+*.rendering.mp4
+.env
+.env.*

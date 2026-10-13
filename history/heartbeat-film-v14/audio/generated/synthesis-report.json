@@ -1,0 +1,21 @@
+{
+  "seconds": 161.7,
+  "sampleRate": 48000,
+  "samples": 7761600,
+  "channels": 2,
+  "events": 1167,
+  "gain": 2.5,
+  "seed": 261012,
+  "stems": [
+    "pulse",
+    "melody",
+    "harmony",
+    "percussion",
+    "detail",
+    "build"
+  ],
+  "sampleLibrary": "Salamander Grand Piano v3 / Alexander Holm / CC BY 3.0",
+  "processing": "New compact 132\u2013248 BPM maze accelerando, 4-second acoustic release beneath three clear heartbeats, exact 95.9\u201398 s silent pause, soft life-piano entry, fixed 1000 Hz terminal flatline with 8 ms release. Original retuned acoustic pitches; life and ending retain natural acoustic lengths.",
+  "scoreSha256": "564c6d4f6d8190583b4eb75702dfb52e524436b98592dea5d9994638b47236eb",
+  "listening": "Not reviewed or auditioned, per user instruction."
+}

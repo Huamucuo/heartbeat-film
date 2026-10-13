@@ -1,0 +1,36 @@
+{
+  "seedContinuity": [
+    {
+      "time": 54.5,
+      "distance": 1.3056392469032744e-8
+    },
+    {
+      "time": 58.8,
+      "distance": 0.00005052157756034901
+    },
+    {
+      "time": 59.375,
+      "distance": 0.00005052471147988595
+    },
+    {
+      "time": 60.7,
+      "distance": 0.000054250992704582135
+    }
+  ],
+  "subjectMotion": {
+    "samples": 177,
+    "minMean": 0.2736574074074074,
+    "minChangedFraction": 0.014135802469135803
+  },
+  "motionSheets": [
+    "motion-live-ecg-sheet.png",
+    "motion-space-sheet.png",
+    "motion-memory-sheet.png",
+    "motion-unfold-sheet.png",
+    "motion-weave-sheet.png",
+    "motion-release-sheet.png"
+  ],
+  "errors": [],
+  "note": "Subject-only rendering excludes starfield, grain, titles and subtitles. Half-second differences reveal held geometry; aesthetic motion still requires visual review.",
+  "passed": true
+}

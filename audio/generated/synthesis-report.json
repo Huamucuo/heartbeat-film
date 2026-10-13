@@ -1,0 +1,24 @@
+{
+  "seconds": 161.7,
+  "sampleRate": 48000,
+  "samples": 7761600,
+  "channels": 2,
+  "events": 676,
+  "gain": 2.5,
+  "seed": 261012,
+  "stems": [
+    "pulse",
+    "melody",
+    "harmony",
+    "percussion",
+    "detail",
+    "build",
+    "bridge"
+  ],
+  "sampleLibrary": "Salamander Grand Piano v3 / Alexander Holm / CC BY 3.0",
+  "processing": "Only the dry isolated bridge heartbeat is shortened: 94.25 s primary lasts 450 ms; 94.39 s secondary lasts 260 ms. Original oscillator, pitches, attacks, amplitudes and fixed mastering gain retained. No other music or audio edits.",
+  "scoreSha256": "b736703bf832967d908200bbd64f325cbcbb889b1ad5e97ab9f96b758285bdd3",
+  "listening": "Not reviewed or auditioned, per user instruction.",
+  "edition": "v16",
+  "regeneration": "Only bridge stem and matching source-mix span were replaced; other v15 stems retained."
+}

@@ -1,0 +1,18 @@
+{
+  "output": "benchmark-v04-4k.mp4",
+  "width": 3840,
+  "height": 2160,
+  "crf": 15,
+  "fps": 30,
+  "frames": 30,
+  "start": 72.5,
+  "end": 73.5,
+  "seconds": 1,
+  "samples": 2,
+  "workers": 2,
+  "frameTransfer": "lossless PNG; bounded ordered batches",
+  "shutter": "half-frame / display-space Canvas accumulation",
+  "renderSeconds": 25.717,
+  "bytes": 3455106,
+  "errors": []
+}

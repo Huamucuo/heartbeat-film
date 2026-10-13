@@ -1,0 +1,6314 @@
+{
+  "returns": [
+    {
+      "index": 0,
+      "time": 69.4111715921027,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 69.31117159210271,
+      "precedingHead": {
+        "point": [
+          960,
+          536.177969160834
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 3.8220308391660183,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 1,
+      "time": 72.551841771715,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 72.45184177171501,
+      "precedingHead": {
+        "point": [
+          973.8245445506973,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 13.824544550697283,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 2,
+      "time": 75.44652528807312,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 75.34652528807312,
+      "precedingHead": {
+        "point": [
+          960,
+          542.6443673041535
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 2.6443673041535476,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 3,
+      "time": 78.11751519062771,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 78.01751519062772,
+      "precedingHead": {
+        "point": [
+          960,
+          551.5132120960143
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 11.513212096014286,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 4,
+      "time": 80.585084175176,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 80.485084175176,
+      "precedingHead": {
+        "point": [
+          960,
+          532.2339022682979
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 7.766097731702075,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 5,
+      "time": 82.86766768258467,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 82.76766768258467,
+      "precedingHead": {
+        "point": [
+          960,
+          529.7371645724265
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 10.262835427573464,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 6,
+      "time": 84.98203040381287,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 84.88203040381288,
+      "precedingHead": {
+        "point": [
+          960,
+          553.3360011877667
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 13.33600118776667,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 7,
+      "time": 86.9434176950736,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 86.84341769507361,
+      "precedingHead": {
+        "point": [
+          945.355564790613,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 14.644435209386984,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 8,
+      "time": 88.76569327068327,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 88.66569327068328,
+      "precedingHead": {
+        "point": [
+          960,
+          520.2598741010897
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 19.740125898910264,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 9,
+      "time": 90.46146441721243,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 90.36146441721243,
+      "precedingHead": {
+        "point": [
+          981.6482213234758,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 21.64822132347581,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 10,
+      "time": 92.04219585984539,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 91.9421958598454,
+      "precedingHead": {
+        "point": [
+          927.7084762978948,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 32.29152370210522,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 11,
+      "time": 93.51831330936594,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 93.41831330936594,
+      "precedingHead": {
+        "point": [
+          960,
+          566.9765112642067
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 26.976511264206692,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 12,
+      "time": 94.89929762498339,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 94.7992976249834,
+      "precedingHead": {
+        "point": [
+          960,
+          530.2986904596439
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 9.701309540356078,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 13,
+      "time": 96.19377044345823,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 96.09377044345824,
+      "precedingHead": {
+        "point": [
+          982.0078316293025,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 22.007831629302473,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 14,
+      "time": 97.40957204791127,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 97.30957204791127,
+      "precedingHead": {
+        "point": [
+          960,
+          573.1472791168835
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 33.14727911688351,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 15,
+      "time": 98.5538321796111,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 98.45383217961111,
+      "precedingHead": {
+        "point": [
+          899.811665214922,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 80.86183057661158,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 16,
+      "time": 99.6330344322972,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 99.5330344322972,
+      "precedingHead": {
+        "point": [
+          960,
+          482.57917115304735
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 57.420828846952645,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 17,
+      "time": 100.65307481063427,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 100.55307481063427,
+      "precedingHead": {
+        "point": [
+          919.254080071004,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 40.745919928996045,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 18,
+      "time": 101.61931498168593,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 101.51931498168594,
+      "precedingHead": {
+        "point": [
+          906,
+          493.8414353698822
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 71.03951779617286,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 19,
+      "time": 102.53663070036347,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 102.43663070036348,
+      "precedingHead": {
+        "point": [
+          998.8351138246599,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 66.51440494941143,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 20,
+      "time": 103.40945584621831,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 103.30945584621831,
+      "precedingHead": {
+        "point": [
+          908.9345645313213,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 51.06543546867874,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 21,
+      "time": 104.24182246930918,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 104.14182246930919,
+      "precedingHead": {
+        "point": [
+          906,
+          507.9621287250184
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 62.78873462518808,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 22,
+      "time": 105.03739720682994,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 104.93739720682994,
+      "precedingHead": {
+        "point": [
+          953.0297228860436,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 54.448000542217756,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 23,
+      "time": 105.79951439940518,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 105.69951439940519,
+      "precedingHead": {
+        "point": [
+          907.1030613528287,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 75.59157438658494,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 24,
+      "time": 106.53120620615323,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 106.43120620615323,
+      "precedingHead": {
+        "point": [
+          892.990022982367,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 86.06007796826412,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 25,
+      "time": 107.23522999050925,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 107.13522999050926,
+      "precedingHead": {
+        "point": [
+          860.1352256494583,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 113.5296135644115,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 26,
+      "time": 107.91409322415173,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 107.81409322415173,
+      "precedingHead": {
+        "point": [
+          960,
+          571.6999837043243
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 31.699983704324268,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 27,
+      "time": 108.57007613395898,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 108.47007613395898,
+      "precedingHead": {
+        "point": [
+          851.6594217030497,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 121.05238909545577,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 28,
+      "time": 109.2052522965386,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 109.10525229653861,
+      "precedingHead": {
+        "point": [
+          1010.6790105325717,
+          648
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 119.2994639910864,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 29,
+      "time": 109.82150736633511,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 109.72150736633512,
+      "precedingHead": {
+        "point": [
+          906,
+          457.0463661812255
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 98.98133846205218,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 30,
+      "time": 110.42055610646408,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 110.32055610646408,
+      "precedingHead": {
+        "point": [
+          797.3564715742136,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 171.37361914480763,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 31,
+      "time": 111.00395787609186,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 110.90395787609187,
+      "precedingHead": {
+        "point": [
+          693.5993816503997,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 271.81848623125217,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 32,
+      "time": 111.57313071423943,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 111.47313071423943,
+      "precedingHead": {
+        "point": [
+          1020.7882043970928,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 81.30932169082914,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 33,
+      "time": 112.1293641472125,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 112.0293641472125,
+      "precedingHead": {
+        "point": [
+          852,
+          674.242842028817
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 172.2937626148257,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 34,
+      "time": 112.67383083533176,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 112.5758268314703,
+      "precedingHead": {
+        "point": [
+          1014,
+          624.5683199999894
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 100.33843106019053,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 35,
+      "time": 113.20759716415417,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 113.11151922496613,
+      "precedingHead": {
+        "point": [
+          827.8149120000003,
+          432
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 170.69533528942046,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 36,
+      "time": 113.73163287584293,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 113.63730644773895,
+      "precedingHead": {
+        "point": [
+          1053.8062080000104,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 108.23864679189785,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 37,
+      "time": 114.2468198276747,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 114.15408617634498,
+      "precedingHead": {
+        "point": [
+          798,
+          500.94720000003326
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 166.64069487324335,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 38,
+      "time": 114.75395995678889,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 114.66267473354833,
+      "precedingHead": {
+        "point": [
+          773.8149119999653,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 193.85790412975348,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 39,
+      "time": 115.25378252311526,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 115.16381446117651,
+      "precedingHead": {
+        "point": [
+          672.1981440000009,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 292.82402277996977,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 40,
+      "time": 115.74695069589612,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 115.65818042479556,
+      "precedingHead": {
+        "point": [
+          1122,
+          590.4714240000148
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 169.680183405692,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 41,
+      "time": 116.23406754329137,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 116.14638651076022,
+      "precedingHead": {
+        "point": [
+          746.1012479999808,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 220.60978243760113,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 42,
+      "time": 116.71568147916332,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 116.62899097070637,
+      "precedingHead": {
+        "point": [
+          963.5285759999852,
+          648
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 108.05762744289581,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 43,
+      "time": 117.19229121623519,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 117.10650146356225,
+      "precedingHead": {
+        "point": [
+          1176,
+          349.53292800000054
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 287.98212707779794,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 44,
+      "time": 117.66435027035956,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 117.57937964061718,
+      "precedingHead": {
+        "point": [
+          906,
+          538.5726720000001
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 54.01886027323775,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 45,
+      "time": 118.13227105657815,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 118.0480453150588,
+      "precedingHead": {
+        "point": [
+          718.3875839999791,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 247.5733417906038,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 46,
+      "time": 118.59642861396762,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 118.51288025363752,
+      "precedingHead": {
+        "point": [
+          1068,
+          570.5683199999792
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 112.2426932482517,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 47,
+      "time": 119.05716399291369,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 118.97423162470339,
+      "precedingHead": {
+        "point": [
+          798,
+          452.5770240000006
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 184.08361342796502,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 48,
+      "time": 119.51478733540641,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 119.43241513375771,
+      "precedingHead": {
+        "point": [
+          1068,
+          525.0527999999667
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 109.02944000517014,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 49,
+      "time": 119.96958067617737,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 119.8877178748386,
+      "precedingHead": {
+        "point": [
+          1047.4229759999994,
+          378
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 184.08361342796502,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 50,
+      "time": 120.42180048997807,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 120.34040092349395,
+      "precedingHead": {
+        "point": [
+          801.5285760000161,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 167.41921103798896,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 51,
+      "time": 120.8716800080059,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 120.79070169476088,
+      "precedingHead": {
+        "point": [
+          1275.5155200000263,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 320.10317611808694,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 52,
+      "time": 121.3194313243992,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 121.2388360874484,
+      "precedingHead": {
+        "point": [
+          1033.9031040000052,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 73.90310400000521,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 53,
+      "time": 121.76524731182701,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 121.68500043409,
+      "precedingHead": {
+        "point": [
+          1114.8633599999598,
+          648
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 188.8032316208522,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 54,
+      "time": 122.20930336347428,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 122.12937327417777,
+      "precedingHead": {
+        "point": [
+          856.9559039999888,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 116.33608950132168,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 55,
+      "time": 122.65175897715633,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 122.57211696669356,
+      "precedingHead": {
+        "point": [
+          1122,
+          618.1850880000347
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 179.88026013315962,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 56,
+      "time": 123.09275919586953,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 123.01337915650116,
+      "precedingHead": {
+        "point": [
+          764.5770240000188,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 202.746490841862,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 57,
+      "time": 123.53243591778909,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 123.45329410784356,
+      "precedingHead": {
+        "point": [
+          1000.4801279999747,
+          648
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 115.33707453761056,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 58,
+      "time": 123.97090908754564,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 123.89198391698946,
+      "precedingHead": {
+        "point": [
+          846.2906880000169,
+          432
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 156.82412963415263,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 59,
+      "time": 124.40828777953993,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 124.32955961498097,
+      "precedingHead": {
+        "point": [
+          635.2465920000568,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 329.2123570092374,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 60,
+      "time": 124.84467118307987,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 124.76612217044269,
+      "precedingHead": {
+        "point": [
+          856.9559040000236,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 116.33608950129087,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 61,
+      "time": 125.2801494982374,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 125.20176340150906,
+      "precedingHead": {
+        "point": [
+          1101.4229759999625,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 141.42297599996255,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 62,
+      "time": 125.7148047505167,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 125.63656680510643,
+      "precedingHead": {
+        "point": [
+          801.5285759999692,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 167.4192110380333,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 63,
+      "time": 126.14871153169116,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 126.07060831107977,
+      "precedingHead": {
+        "point": [
+          1230,
+          468.19814400005134
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 279.3841558231915,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 64,
+      "time": 126.58193767350065,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 126.50395696797494,
+      "precedingHead": {
+        "point": [
+          1044.5683199999894,
+          594
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 100.33843106019053,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 65,
+      "time": 127.01454486029348,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 126.93667556667077,
+      "precedingHead": {
+        "point": [
+          823.6124160000209,
+          648
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 173.9700349754272,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 66,
+      "time": 127.44658918614653,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 127.36882120749297,
+      "precedingHead": {
+        "point": [
+          1068,
+          562.0043519999576
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 110.21883462883301,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 67,
+      "time": 127.87812166149506,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 127.80044581593232,
+      "precedingHead": {
+        "point": [
+          773.814911999983,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 193.8579041297364,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 68,
+      "time": 128.3091886738483,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 128.23159661162472,
+      "precedingHead": {
+        "point": [
+          1009.7180160000373,
+          648
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 118.8944116221615,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 69,
+      "time": 128.73983240675162,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 128.66231653482902,
+      "precedingHead": {
+        "point": [
+          736.8633599999803,
+          486
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 229.57778662252673,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 70,
+      "time": 129.17009122077945,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 129.09264463425444,
+      "precedingHead": {
+        "point": [
+          1068,
+          497.33913599998186
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 116.1204087024673,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    },
+    {
+      "index": 71,
+      "time": 129.59999999999997,
+      "origin": [
+        960,
+        540
+      ],
+      "head": [
+        960,
+        540
+      ],
+      "originError": 0,
+      "precedingTime": 129.52261641974027,
+      "precedingHead": {
+        "point": [
+          1122,
+          517.2422399999869
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "precedingPaintError": 0,
+      "precedingDistance": 163.59069545734624,
+      "paintedHead": {
+        "point": [
+          960,
+          540
+        ],
+        "size": 7,
+        "color": "#fff5dd",
+        "immediateRGB": [
+          255,
+          245,
+          221
+        ]
+      },
+      "projectionError": 0,
+      "brightPixels": 9,
+      "finalCoreRGB": [
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221,
+        255,
+        245,
+        221
+      ],
+      "originRegion": {
+        "paintedMarker": true
+      }
+    }
+  ],
+  "stages": [
+    {
+      "time": 70,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 1,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": false,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 0.65
+      },
+      "paintedRouteHeads": 1,
+      "visibleRouteHeads": 1,
+      "counterTextureDrawCalls": 1,
+      "drawnText": [],
+      "headsByZone": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "wallCount": 504,
+      "wallGeometryHash": "3084234b",
+      "routeSamplesByZone": [
+        0,
+        19,
+        2,
+        6,
+        61,
+        0,
+        0,
+        0,
+        0
+      ],
+      "occupiedZones": 4,
+      "visibleRouteSamples": 88,
+      "bounds": [
+        585,
+        270,
+        1338,
+        594
+      ]
+    },
+    {
+      "time": 84,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 4,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": false,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 0.6723932875176765
+      },
+      "paintedRouteHeads": 4,
+      "visibleRouteHeads": 3,
+      "counterTextureDrawCalls": 1,
+      "drawnText": [],
+      "headsByZone": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "wallCount": 507,
+      "wallGeometryHash": "57051792",
+      "routeSamplesByZone": [
+        18,
+        0,
+        0,
+        0,
+        26,
+        28,
+        0,
+        0,
+        40
+      ],
+      "occupiedZones": 4,
+      "visibleRouteSamples": 112,
+      "bounds": [
+        43,
+        56,
+        1664,
+        864
+      ]
+    },
+    {
+      "time": 95,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 47,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": false,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 1.4461555853186565
+      },
+      "paintedRouteHeads": 47,
+      "visibleRouteHeads": 43,
+      "counterTextureDrawCalls": 97,
+      "drawnText": [],
+      "headsByZone": [
+        4,
+        2,
+        1,
+        7,
+        15,
+        4,
+        2,
+        4,
+        4
+      ],
+      "wallCount": 492,
+      "wallGeometryHash": "8f3825fa",
+      "routeSamplesByZone": [
+        55,
+        36,
+        22,
+        117,
+        264,
+        76,
+        17,
+        91,
+        93
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 771,
+      "bounds": [
+        42,
+        2,
+        1771,
+        1025
+      ]
+    },
+    {
+      "time": 106,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 110,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": false,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 2.8524153210468586
+      },
+      "paintedRouteHeads": 110,
+      "visibleRouteHeads": 103,
+      "counterTextureDrawCalls": 97,
+      "drawnText": [],
+      "headsByZone": [
+        5,
+        14,
+        4,
+        12,
+        32,
+        17,
+        5,
+        10,
+        4
+      ],
+      "wallCount": 506,
+      "wallGeometryHash": "73324358",
+      "routeSamplesByZone": [
+        92,
+        241,
+        135,
+        161,
+        722,
+        334,
+        100,
+        252,
+        128
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 2165,
+      "bounds": [
+        9,
+        2,
+        1878,
+        1078
+      ]
+    },
+    {
+      "time": 118,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 193,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": false,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 4.3508940996072205
+      },
+      "paintedRouteHeads": 193,
+      "visibleRouteHeads": 180,
+      "counterTextureDrawCalls": 97,
+      "drawnText": [],
+      "headsByZone": [
+        15,
+        20,
+        17,
+        28,
+        29,
+        23,
+        13,
+        20,
+        15
+      ],
+      "wallCount": 535,
+      "wallGeometryHash": "84841810",
+      "routeSamplesByZone": [
+        517,
+        413,
+        363,
+        580,
+        668,
+        403,
+        257,
+        366,
+        340
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 3907,
+      "bounds": [
+        8,
+        2,
+        1878,
+        1071
+      ]
+    },
+    {
+      "time": 125,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 240,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": false,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 4.88597751013406
+      },
+      "paintedRouteHeads": 240,
+      "visibleRouteHeads": 233,
+      "counterTextureDrawCalls": 2,
+      "drawnText": [],
+      "headsByZone": [
+        19,
+        18,
+        10,
+        35,
+        45,
+        38,
+        17,
+        32,
+        19
+      ],
+      "wallCount": 507,
+      "wallGeometryHash": "25ff43f4",
+      "routeSamplesByZone": [
+        348,
+        333,
+        217,
+        516,
+        1114,
+        718,
+        410,
+        674,
+        412
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 4742,
+      "bounds": [
+        9,
+        2,
+        1879,
+        1071
+      ]
+    },
+    {
+      "time": 128,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 240,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": false,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 4.985585692507354
+      },
+      "paintedRouteHeads": 240,
+      "visibleRouteHeads": 229,
+      "counterTextureDrawCalls": 97,
+      "drawnText": [],
+      "headsByZone": [
+        18,
+        21,
+        15,
+        29,
+        67,
+        21,
+        16,
+        24,
+        18
+      ],
+      "wallCount": 507,
+      "wallGeometryHash": "e6d4dbb8",
+      "routeSamplesByZone": [
+        382,
+        471,
+        275,
+        644,
+        1317,
+        423,
+        254,
+        557,
+        378
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 4701,
+      "bounds": [
+        10,
+        2,
+        1912,
+        1071
+      ]
+    },
+    {
+      "time": 130,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 240,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0,
+        "continuingSearches": true,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 5
+      },
+      "paintedRouteHeads": 240,
+      "visibleRouteHeads": 224,
+      "counterTextureDrawCalls": 1,
+      "drawnText": [],
+      "headsByZone": [
+        19,
+        20,
+        16,
+        38,
+        52,
+        24,
+        12,
+        22,
+        21
+      ],
+      "wallCount": 484,
+      "wallGeometryHash": "7ad89713",
+      "routeSamplesByZone": [
+        482,
+        367,
+        344,
+        656,
+        963,
+        468,
+        233,
+        504,
+        457
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 4474,
+      "bounds": [
+        40,
+        1,
+        1877,
+        1078
+      ]
+    },
+    {
+      "time": 130.8,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 240,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0.336076817558309,
+        "continuingSearches": true,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 5
+      },
+      "paintedRouteHeads": 240,
+      "visibleRouteHeads": 234,
+      "counterTextureDrawCalls": 1,
+      "drawnText": [],
+      "headsByZone": [
+        31,
+        21,
+        20,
+        28,
+        51,
+        18,
+        13,
+        28,
+        24
+      ],
+      "wallCount": 485,
+      "wallGeometryHash": "d25a4cb4",
+      "routeSamplesByZone": [
+        374,
+        346,
+        351,
+        486,
+        942,
+        311,
+        243,
+        457,
+        358
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 3868,
+      "bounds": [
+        41,
+        11,
+        1878,
+        1071
+      ]
+    },
+    {
+      "time": 131.2,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 240,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0.6639231824416909,
+        "continuingSearches": true,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 5
+      },
+      "paintedRouteHeads": 240,
+      "visibleRouteHeads": 240,
+      "counterTextureDrawCalls": 0,
+      "drawnText": [],
+      "headsByZone": [
+        32,
+        30,
+        20,
+        24,
+        44,
+        21,
+        17,
+        31,
+        21
+      ],
+      "wallCount": 487,
+      "wallGeometryHash": "ccbf6eb",
+      "routeSamplesByZone": [
+        180,
+        166,
+        155,
+        159,
+        336,
+        140,
+        110,
+        220,
+        137
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 1603,
+      "bounds": [
+        204,
+        162,
+        1716,
+        1026
+      ]
+    },
+    {
+      "time": 131.55,
+      "authored": {
+        "projection": "fixed-planar",
+        "grid": [
+          43,
+          25
+        ],
+        "cellSize": 54,
+        "origin": [
+          960,
+          540
+        ],
+        "activeStreams": 240,
+        "streamCount": 240,
+        "waveStreams": 0,
+        "primaryMorph": 0,
+        "handoff": 0.9012774348422538,
+        "continuingSearches": true,
+        "counterBounds": [
+          630,
+          312,
+          660,
+          410
+        ],
+        "speedFactor": 5
+      },
+      "paintedRouteHeads": 240,
+      "visibleRouteHeads": 192,
+      "counterTextureDrawCalls": 0,
+      "drawnText": [],
+      "headsByZone": [
+        29,
+        27,
+        13,
+        18,
+        40,
+        16,
+        10,
+        25,
+        14
+      ],
+      "wallCount": 487,
+      "wallGeometryHash": "db47be83",
+      "routeSamplesByZone": [
+        148,
+        139,
+        85,
+        89,
+        305,
+        53,
+        54,
+        174,
+        60
+      ],
+      "occupiedZones": 9,
+      "visibleRouteSamples": 1107,
+      "bounds": [
+        254,
+        270,
+        1668,
+        864
+      ]
+    }
+  ],
+  "fixedProjection": [
+    {
+      "time": 70,
+      "wallCount": 504,
+      "wallGeometryHash": "3084234b"
+    },
+    {
+      "time": 84,
+      "wallCount": 507,
+      "wallGeometryHash": "57051792"
+    },
+    {
+      "time": 95,
+      "wallCount": 492,
+      "wallGeometryHash": "8f3825fa"
+    },
+    {
+      "time": 106,
+      "wallCount": 506,
+      "wallGeometryHash": "73324358"
+    },
+    {
+      "time": 118,
+      "wallCount": 535,
+      "wallGeometryHash": "84841810"
+    },
+    {
+      "time": 125,
+      "wallCount": 507,
+      "wallGeometryHash": "25ff43f4"
+    },
+    {
+      "time": 128,
+      "wallCount": 507,
+      "wallGeometryHash": "e6d4dbb8"
+    },
+    {
+      "time": 130,
+      "wallCount": 484,
+      "wallGeometryHash": "7ad89713"
+    }
+  ],
+  "lateSearchMotion": [
+    {
+      "time": 121.3,
+      "matchedHeads": 211,
+      "movedPixelsMean": 138.8182989467616,
+      "movedOverFourPixels": 211
+    },
+    {
+      "time": 122.5,
+      "matchedHeads": 214,
+      "movedPixelsMean": 140.77273173655382,
+      "movedOverFourPixels": 214
+    },
+    {
+      "time": 124,
+      "matchedHeads": 227,
+      "movedPixelsMean": 147.99484816845901,
+      "movedOverFourPixels": 227
+    },
+    {
+      "time": 126,
+      "matchedHeads": 229,
+      "movedPixelsMean": 147.69064768581927,
+      "movedOverFourPixels": 229
+    },
+    {
+      "time": 128,
+      "matchedHeads": 220,
+      "movedPixelsMean": 149.89078102682302,
+      "movedOverFourPixels": 220
+    }
+  ],
+  "independentTiming": {
+    "trackedRouteCount": 218,
+    "uniqueMovementSignatures": 218,
+    "samplesPerRoute": 7
+  },
+  "handoff": [
+    {
+      "time": 130.8,
+      "paintedRoutes": 240,
+      "visibleHeads": 234,
+      "headsNearAssignedModule": [
+        32,
+        29,
+        20,
+        24,
+        44,
+        20,
+        16,
+        30,
+        21
+      ],
+      "routeSegments": 1720
+    },
+    {
+      "time": 131.2,
+      "paintedRoutes": 240,
+      "visibleHeads": 240,
+      "headsNearAssignedModule": [
+        32,
+        30,
+        20,
+        24,
+        44,
+        21,
+        17,
+        31,
+        21
+      ],
+      "routeSegments": 1526
+    },
+    {
+      "time": 131.55,
+      "paintedRoutes": 240,
+      "visibleHeads": 236,
+      "headsNearAssignedModule": [
+        32,
+        30,
+        20,
+        24,
+        44,
+        21,
+        17,
+        31,
+        21
+      ],
+      "routeSegments": 1242
+    }
+  ]
+}

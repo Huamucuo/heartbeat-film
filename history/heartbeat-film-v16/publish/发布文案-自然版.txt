@@ -1,0 +1,24 @@
+《心跳》发布文案 · 自然版
+
+【通用介绍 / B站简介】
+一开始只是想做个关于心跳的视频，后来慢慢变成了现在这样。光迷宫那段就来回改了好多遍，前面的版本总觉得不太对。想聊聊「活着的意义」，做完也没找到答案。片子有点悲观，两分多钟，想听听你们看完是什么感觉。
+
+用了 AI 辅助，前前后后改了很多版。
+
+【抖音短版】
+做了个关于心跳的小短片，光迷宫那段就改了好多遍。想聊聊活着的意义，结果有点悲观。用了 AI 辅助，大家随便看看。
+
+[参考学习内容已按作者要求省略。]
+
+【素材署名：可附在B站简介末尾、抖音作品的补充说明或评论中】
+钢琴采样：Salamander Grand Piano v3 — Alexander Holm，CC BY 3.0。采样经选取、变调、滤波、混响与混音，用于本片编配。
+素材：https://github.com/sfzinstruments/SalamanderGrandPiano
+许可：https://creativecommons.org/licenses/by/3.0/
+
+实测心电数据：MIT-BIH Arrhythmia Database v1.0.0，record 100 / MLII — George Moody、Roger Mark（2005），PhysioNet，ODC-By 1.0。单次心搏经截取、基线处理与加速视觉呈现；心搏声音为另行合成。
+数据：https://doi.org/10.13026/C2F305
+许可：https://opendatacommons.org/licenses/by/1-0/
+This work contains information from the MIT-BIH Arrhythmia Database, which is made available under the Open Data Commons Attribution License (ODC-By) v1.0.
+
+影片字体：Noto Serif SC，SIL Open Font License。
+上述素材作者并未参与或为本片背书。

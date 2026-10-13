@@ -1,0 +1,479 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "samples": 2,
+  "refreshExisting": true,
+  "sourceSHA256": {
+    "code-maze.mjs": "cfe60337483ce23ecdf8fc94067623ec2a57a9ed13b886deb01988bf4fd84ce5",
+    "code-direction.mjs": "bda4e92a147f16e38fc4dd3c77cc2b73bcd29bb36a6f2c280e4d708e4632e3f1",
+    "code-lives.mjs": "3b04d3afda8b7112b5c2c796b0664e66bb73ba12424f6f4b26fd1f7b53db6ea3",
+    "code-ending.mjs": "ec316f64ad25b4c6a5877378c7d5a5e6a07cf4b6c856a20699237d772414219c",
+    "scenes.mjs": "b25d32aba11c979c4246c251c3a9683f396abb924a35dd5c437ddfdb3466fcd1",
+    "timeline.mjs": "c07d1169a4c8fa5aba13719238c9221898698e31cbd99430f9065b7b6c81ee7f",
+    "film.mjs": "9bb5b3d5c8ea501f342d7986095c98283ee8ef890244bb615e2cfc66d7954c9b",
+    "drawing.mjs": "8772de75c62aa955f1d16f4a1e6d7e1833203faeddf13a025f7845f37d82f992"
+  },
+  "errors": [],
+  "frames": [
+    {
+      "time": 3.5,
+      "name": "t03-500.png",
+      "chapter": 0
+    },
+    {
+      "time": 14,
+      "name": "t14-000.png",
+      "chapter": 1
+    },
+    {
+      "time": 23,
+      "name": "t23-000.png",
+      "chapter": 1
+    },
+    {
+      "time": 37,
+      "name": "t37-000.png",
+      "chapter": 2
+    },
+    {
+      "time": 54,
+      "name": "t54-000.png",
+      "chapter": 3
+    },
+    {
+      "time": 63,
+      "name": "t63-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 68,
+      "name": "t68-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 70,
+      "name": "t70-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 75,
+      "name": "t75-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 76,
+      "name": "t76-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 82,
+      "name": "t82-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 84,
+      "name": "t84-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 90,
+      "name": "t90-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 95,
+      "name": "t95-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 98,
+      "name": "t98-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 103,
+      "name": "t103-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 104,
+      "name": "t104-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 106,
+      "name": "t106-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 108,
+      "name": "t108-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 110,
+      "name": "t110-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 111,
+      "name": "t111-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 118,
+      "name": "t118-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 118.5,
+      "name": "t118-500.png",
+      "chapter": 4
+    },
+    {
+      "time": 119,
+      "name": "t119-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 121,
+      "name": "t121-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 124,
+      "name": "t124-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 125,
+      "name": "t125-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 127,
+      "name": "t127-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 128,
+      "name": "t128-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 129,
+      "name": "t129-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 129.4,
+      "name": "t129-400.png",
+      "chapter": 5
+    },
+    {
+      "time": 129.433333,
+      "name": "t129-433.png",
+      "chapter": 5
+    },
+    {
+      "time": 129.466667,
+      "name": "t129-467.png",
+      "chapter": 5
+    },
+    {
+      "time": 129.6,
+      "name": "t129-600.png",
+      "chapter": 5
+    },
+    {
+      "time": 130,
+      "name": "t130-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 130.25,
+      "name": "t130-250.png",
+      "chapter": 5
+    },
+    {
+      "time": 130.5,
+      "name": "t130-500.png",
+      "chapter": 5
+    },
+    {
+      "time": 130.64,
+      "name": "t130-640.png",
+      "chapter": 5
+    },
+    {
+      "time": 130.75,
+      "name": "t130-750.png",
+      "chapter": 5
+    },
+    {
+      "time": 131,
+      "name": "t131-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 131.01,
+      "name": "t131-010.png",
+      "chapter": 6
+    },
+    {
+      "time": 131.25,
+      "name": "t131-250.png",
+      "chapter": 6
+    },
+    {
+      "time": 131.5,
+      "name": "t131-500.png",
+      "chapter": 6
+    },
+    {
+      "time": 131.9,
+      "name": "t131-900.png",
+      "chapter": 6
+    },
+    {
+      "time": 132,
+      "name": "t132-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 132.15,
+      "name": "t132-150.png",
+      "chapter": 6
+    },
+    {
+      "time": 132.6,
+      "name": "t132-600.png",
+      "chapter": 6
+    },
+    {
+      "time": 133,
+      "name": "t133-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 134,
+      "name": "t134-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 134.6,
+      "name": "t134-600.png",
+      "chapter": 6
+    },
+    {
+      "time": 136,
+      "name": "t136-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 140,
+      "name": "t140-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 142,
+      "name": "t142-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 144,
+      "name": "t144-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 144.5,
+      "name": "t144-500.png",
+      "chapter": 6
+    },
+    {
+      "time": 147,
+      "name": "t147-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 148,
+      "name": "t148-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 149,
+      "name": "t149-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 151,
+      "name": "t151-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 156,
+      "name": "t156-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 158,
+      "name": "t158-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 160,
+      "name": "t160-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 160.5,
+      "name": "t160-500.png",
+      "chapter": 6
+    },
+    {
+      "time": 163,
+      "name": "t163-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 166,
+      "name": "t166-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 170,
+      "name": "t170-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 174,
+      "name": "t174-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 174.5,
+      "name": "t174-500.png",
+      "chapter": 7
+    },
+    {
+      "time": 176,
+      "name": "t176-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 176.5,
+      "name": "t176-500.png",
+      "chapter": 7
+    },
+    {
+      "time": 177,
+      "name": "t177-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 177.4,
+      "name": "t177-400.png",
+      "chapter": 7
+    },
+    {
+      "time": 178.2,
+      "name": "t178-200.png",
+      "chapter": 7
+    },
+    {
+      "time": 179,
+      "name": "t179-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 180.8,
+      "name": "t180-800.png",
+      "chapter": 7
+    },
+    {
+      "time": 181,
+      "name": "t181-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 181.4,
+      "name": "t181-400.png",
+      "chapter": 7
+    },
+    {
+      "time": 182.5,
+      "name": "t182-500.png",
+      "chapter": 8
+    },
+    {
+      "time": 183,
+      "name": "t183-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 186,
+      "name": "t186-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 187,
+      "name": "t187-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 188,
+      "name": "t188-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 189.9,
+      "name": "t189-900.png",
+      "chapter": 8
+    },
+    {
+      "time": 191,
+      "name": "t191-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 192,
+      "name": "t192-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 193,
+      "name": "t193-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 193.5,
+      "name": "t193-500.png",
+      "chapter": 8
+    },
+    {
+      "time": 193.78,
+      "name": "t193-780.png",
+      "chapter": 8
+    },
+    {
+      "time": 194.3,
+      "name": "t194-300.png",
+      "chapter": 8
+    },
+    {
+      "time": 194.5,
+      "name": "t194-500.png",
+      "chapter": 8
+    },
+    {
+      "time": 195,
+      "name": "t195-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 195.966667,
+      "name": "t195-967.png",
+      "chapter": 8
+    }
+  ]
+}

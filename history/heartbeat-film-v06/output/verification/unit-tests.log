@@ -1,0 +1,15 @@
+✔ Visible days advance at the score beat and remain consistent after seeking (1.0502ms)
+✔ Each irregular walk returns to the same origin before its counter increments (0.7344ms)
+✔ The three walks are visibly different and turn across both axes (0.3352ms)
+✔ Absolute-time seeking is finite, bounded and continuous at departures and arrivals (3.2189ms)
+✔ ECG geometry travels during a shot and remains continuous through a beat wrap (24.9889ms)
+✔ nine lives have distinct moving geometry and every projection source stays finite (6.2423ms)
+✔ the same point persists across unfolding, joining and release boundaries (0.3378ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 111.0688

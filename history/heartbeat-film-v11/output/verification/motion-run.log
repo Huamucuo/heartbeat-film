@@ -1,0 +1,43 @@
+{
+  "seedContinuity": [
+    {
+      "time": 66,
+      "distance": 0.002812500000892726
+    },
+    {
+      "time": 82,
+      "distance": 0.0028125000005729817
+    },
+    {
+      "time": 85,
+      "distance": 0.005188235295764464
+    },
+    {
+      "time": 102,
+      "distance": 0.005188235295463528
+    },
+    {
+      "time": 104,
+      "distance": 0.011544827589871381
+    },
+    {
+      "time": 118.5,
+      "distance": 0.011544827591194462
+    }
+  ],
+  "subjectMotion": {
+    "samples": 195,
+    "minMean": 0.1308719135802469,
+    "minChangedFraction": 0.006327160493827161
+  },
+  "motionSheets": [
+    "motion-opening-ecg-sheet.png",
+    "motion-live-ecg-sheet.png",
+    "motion-maze-sheet.png",
+    "motion-together-sheet.png",
+    "motion-release-sheet.png"
+  ],
+  "errors": [],
+  "note": "Scene-only rendering excludes shared starfield, grain and post-composited titles/subtitles; internal scene lettering remains. Quarter-second differences detect still images, but camera motion also changes pixels. Narrative motion requires visual review.",
+  "passed": true
+}

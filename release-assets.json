@@ -1,0 +1,87 @@
+[
+  {
+    "name": "runtime-v16.zip",
+    "bytes": 184030180,
+    "sha256": "55055e30ffec5e9d2085f3a8d77f50bff9272272447f15c9c8dab0b63b25479d"
+  },
+  {
+    "name": "production-media-02.zip",
+    "bytes": 1353928237,
+    "sha256": "ac636840d98a3a53172575af23c7ca544c1e4c8b16e57ca76c5048e36d5d26c6"
+  },
+  {
+    "name": "production-media-03.zip",
+    "bytes": 1464233921,
+    "sha256": "d598bab42eccda3f5643d7b50dcdd1d8691a90cb932a7e4e14f6fe1639a5e570"
+  },
+  {
+    "name": "production-media-04.zip",
+    "bytes": 1465051119,
+    "sha256": "4a24a21f4952869cc1423121f28009b01e1722de216a0af11a3a99308c72d5b8"
+  },
+  {
+    "name": "production-media-05.zip",
+    "bytes": 1441553189,
+    "sha256": "da5ea3abb7821a317e014ff4a31ece52bd845ce18b87708c60469646e307e687"
+  },
+  {
+    "name": "production-media-06.zip",
+    "bytes": 1219854347,
+    "sha256": "aea8542c0bd078b9ac8c2d06ffbfaca44dac3b6226927379ad7de4236657c83f"
+  },
+  {
+    "name": "production-media-07.zip",
+    "bytes": 1334577516,
+    "sha256": "f9b5f019dd55ba7ee9d5286881d46e811b0b495c48bfccc4b31cc73830964fcc"
+  },
+  {
+    "name": "production-media-08.zip",
+    "bytes": 734536096,
+    "sha256": "b7e7757b08ed146f1d6feb5a941c6f449d91abc94ea6af50a3dedd389d5ba154"
+  },
+  {
+    "name": "production-media-09.zip",
+    "bytes": 1428509730,
+    "sha256": "9fd06980521a09d014aad6e5719f868f77fad338fe563ede1ff3146b65fba6bf"
+  },
+  {
+    "name": "production-media-10.zip",
+    "bytes": 1398116380,
+    "sha256": "03b45c1f408c7f2801631eccb8c14327662d6a808ac4a9da857ef287faf4f48f"
+  },
+  {
+    "name": "production-media-11.zip",
+    "bytes": 1255812284,
+    "sha256": "e3b0642b768a315f8e6b25ea5823ebcbea98365da32cdef972c3a05e4948bd99"
+  },
+  {
+    "name": "production-media-12.zip",
+    "bytes": 837595250,
+    "sha256": "c1e697de581261f56ede8d2b4657ef41b212608c3795b67b2dcc1a3febde7292"
+  },
+  {
+    "name": "production-media-13.zip",
+    "bytes": 1172122474,
+    "sha256": "e4b7b9562f8744a6cadadb0a61b0bf2926b9436d09cfe7ba04af56350265fefb"
+  },
+  {
+    "name": "production-media-14.zip",
+    "bytes": 917856067,
+    "sha256": "6d7ac85b29f7ec11e71de0d24bb8268e7f6356e00bc9b8ff932dc6862e75f388"
+  },
+  {
+    "name": "production-media-15.zip",
+    "bytes": 849665265,
+    "sha256": "ff757fbe0523c5b2c4e62da44ec3f9d65fd2abdd323d37c266a51c6a937e3ed9"
+  },
+  {
+    "name": "heartbeat-v16-1080p.mp4",
+    "bytes": 155656683,
+    "sha256": "6f6bf3b6e7d3896a68093e3a5f2a8cf25a8307d16354e6baf04a3f71b080190a"
+  },
+  {
+    "name": "heartbeat-v16-4k.mp4",
+    "bytes": 678746863,
+    "sha256": "40494a4e9ff6541e6a0471ae1eb257fb686862257abb566d7257782b92a4bcbc"
+  }
+]

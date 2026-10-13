@@ -1,0 +1,29 @@
+{
+  "output": "heartbeat-v05-4k.mp4",
+  "width": 3840,
+  "height": 2160,
+  "crf": 15,
+  "fps": 30,
+  "frames": 2700,
+  "start": 0,
+  "end": 90,
+  "seconds": 90,
+  "samples": 2,
+  "workers": 3,
+  "sourceHashes": {
+    "src/drawing.mjs": "09a338194ce01b17446ca1875736843b42c4f707bfa5d01b7979f0cc5593c5ac",
+    "src/scenes.mjs": "0adc799a455b84021b849cd5e82785cbaf41c231572348926938af831c6a4479",
+    "src/afterwards.mjs": "08e09580549f4aa2e89a431f450b1340f297f9b15dcdf9b9a88e329b4d293701",
+    "src/motifs.mjs": "3ef6390f5405c041239922f7497859df064c50ee209eaa585a0cbeb84a84e334",
+    "src/journeys.mjs": "714e3aa10a87ebce2703a339eb044a553f032a5b862f48a05572458c23296546",
+    "src/days.mjs": "d9823fa1385bcec20dd659c62a1f16568ade1adf50a160b380b7e43e157175a1",
+    "src/film.mjs": "51b9a325eaf90d788e35b8ed02d2ac3f97a13bd205db7f14a6b6ac6183b7752c",
+    "src/score.mjs": "b4eb6cbf1fda464cfe283bd558eeb90b6150cbf797f4f7a30180a35919ed239d",
+    "audio/generated/master.wav": "26e5d04798103d51857e3c4f475b98b40e7c79033eb381731150d0ae59bbc9da"
+  },
+  "frameTransfer": "lossless PNG; bounded ordered batches",
+  "shutter": "half-frame / display-space Canvas accumulation",
+  "renderSeconds": 530.526,
+  "bytes": 214423723,
+  "errors": []
+}

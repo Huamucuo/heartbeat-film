@@ -1,0 +1,52 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "errors": [],
+  "frames": [
+    {
+      "time": 183,
+      "name": "t183-000.png",
+      "chapter": 9
+    },
+    {
+      "time": 185.5,
+      "name": "t185-500.png",
+      "chapter": 9
+    },
+    {
+      "time": 188.5,
+      "name": "t188-500.png",
+      "chapter": 9
+    },
+    {
+      "time": 190.5,
+      "name": "t190-500.png",
+      "chapter": 9
+    },
+    {
+      "time": 192.5,
+      "name": "t192-500.png",
+      "chapter": 9
+    },
+    {
+      "time": 194.5,
+      "name": "t194-500.png",
+      "chapter": 9
+    },
+    {
+      "time": 206.5,
+      "name": "t206-500.png",
+      "chapter": 10
+    },
+    {
+      "time": 213.4,
+      "name": "t213-400.png",
+      "chapter": 10
+    },
+    {
+      "time": 292.5,
+      "name": "t292-500.png",
+      "chapter": 14
+    }
+  ]
+}

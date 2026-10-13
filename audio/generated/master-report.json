@@ -1,0 +1,35 @@
+{
+  "gainDB": 0.0900000000000003,
+  "processing": "Only the dry isolated bridge heartbeat is shortened: 94.25 s primary lasts 450 ms; 94.39 s secondary lasts 260 ms. Original oscillator, pitches, attacks, amplitudes and fixed mastering gain retained. No other music or audio edits.",
+  "preservation": {
+    "source": "${WORKSPACE}\\heartbeat-film-v15\\audio\\generated\\master.wav",
+    "method": "Original RIFF bytes copied; only the named PCM span replaced.",
+    "unchangedPCMRangesSeconds": [
+      [
+        0,
+        93.3
+      ],
+      [
+        95.8,
+        161.7
+      ]
+    ],
+    "patchRangeSeconds": [
+      93.3,
+      95.8
+    ]
+  },
+  "stopTime": 160.2,
+  "resonanceEnd": 161.62,
+  "masterSHA256": "0fe41ebd952cdf3cbefd31575576c7992c7a9b616e62d5dc3525d83e9a5eec21",
+  "review": "No listening, audit or review pass, per user instruction.",
+  "edition": "v16",
+  "bridgePrimary": {
+    "time": 94.25,
+    "duration": 0.45
+  },
+  "bridgeSecondary": {
+    "time": 94.39,
+    "duration": 0.26
+  }
+}

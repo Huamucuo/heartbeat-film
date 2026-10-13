@@ -1,0 +1,140 @@
+{
+  "passed": true,
+  "theme": "活着的意义",
+  "videos": [
+    {
+      "file": "heartbeat-v08-4k.mp4",
+      "bytes": 812108652,
+      "sha256": "fe88fdcbd4a32843a16a91c1c3992dbefdee084556949f81032212814f1db319",
+      "width": 3840,
+      "height": 2160,
+      "frames": 10200,
+      "fps": 30,
+      "uniqueFrameHashes": 10200,
+      "maxRepeatedFrames": 1
+    },
+    {
+      "file": "heartbeat-v08-1080p.mp4",
+      "bytes": 192838460,
+      "sha256": "d2e27b32df631ee0e30956687d32624b4c7f10bfce2fa571476f925c00342ec8",
+      "width": 1920,
+      "height": 1080,
+      "frames": 10200,
+      "fps": 30,
+      "uniqueFrameHashes": 10200,
+      "maxRepeatedFrames": 1
+    }
+  ],
+  "duration": 340,
+  "video": "H.264 / yuv420p / limited BT.709",
+  "audio": {
+    "codec": "AAC",
+    "sampleRate": 48000,
+    "channels": 2,
+    "integratedLUFS": -15.6,
+    "truePeakDBTP": -1.69,
+    "loudnessRangeLU": 5.2
+  },
+  "extractedNative4KFrames": 117,
+  "offlineFilePlayer": true,
+  "playback": {
+    "advancedToSeconds": 2.505392,
+    "totalVideoFrames": 81,
+    "droppedVideoFrames": 2
+  },
+  "native4KSeek": true,
+  "chapterSeeks": [
+    {
+      "chapter": "发生",
+      "seek": 0,
+      "passed": true
+    },
+    {
+      "chapter": "日子",
+      "seek": 9,
+      "passed": true
+    },
+    {
+      "chapter": "奔赴",
+      "seek": 29,
+      "passed": true
+    },
+    {
+      "chapter": "彼此",
+      "seek": 47,
+      "passed": true
+    },
+    {
+      "chapter": "迷途",
+      "seek": 63,
+      "passed": true
+    },
+    {
+      "chapter": "空白",
+      "seek": 121,
+      "passed": true
+    },
+    {
+      "chapter": "日常",
+      "seek": 131,
+      "passed": true
+    },
+    {
+      "chapter": "联系",
+      "seek": 141,
+      "passed": true
+    },
+    {
+      "chapter": "读书与工作",
+      "seek": 162,
+      "passed": true
+    },
+    {
+      "chapter": "住处",
+      "seek": 180,
+      "passed": true
+    },
+    {
+      "chapter": "通勤",
+      "seek": 198,
+      "passed": true
+    },
+    {
+      "chapter": "相伴",
+      "seek": 216,
+      "passed": true
+    },
+    {
+      "chapter": "成长",
+      "seek": 239,
+      "passed": true
+    },
+    {
+      "chapter": "身体",
+      "seek": 259,
+      "passed": true
+    },
+    {
+      "chapter": "生日",
+      "seek": 279,
+      "passed": true
+    },
+    {
+      "chapter": "远行",
+      "seek": 297,
+      "passed": true
+    },
+    {
+      "chapter": "留下",
+      "seek": 315,
+      "passed": true
+    },
+    {
+      "chapter": "心跳",
+      "seek": 326,
+      "passed": true
+    }
+  ],
+  "pageErrors": [],
+  "note": "Technical validation and decoded visual samples; does not certify artistic quality or subjective listening."
+}

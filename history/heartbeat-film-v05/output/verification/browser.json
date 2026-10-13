@@ -1,0 +1,296 @@
+{
+  "errors": [],
+  "determinism": [
+    {
+      "time": 3.5,
+      "sha256": "13b6e4c87f59c9e62f7051657db873b3237e17c4f757725e8d7e2b3aa0ce6971"
+    },
+    {
+      "time": 12,
+      "sha256": "c131c14913bde1033f1f783a61a3f503e6026533d24cd50f03c8bb8830b2d25a"
+    },
+    {
+      "time": 22,
+      "sha256": "a9879926de8c4cad2edc8259477512fbf8de45fbc8290bc0937efb626fa49be2"
+    },
+    {
+      "time": 32,
+      "sha256": "8b44601aff3f253408bacf826c1c0929ed5a738a875377ee21557bad4bc73fea"
+    },
+    {
+      "time": 42,
+      "sha256": "8723ebb6bda959244586fbf68aa4d0d7c0141e79c95c27a087ff3814afd34c82"
+    },
+    {
+      "time": 51,
+      "sha256": "6d8c6557200c2fd9ddebe77a347a314b1395c050c5e4b32706891c3f3f31cb63"
+    },
+    {
+      "time": 64,
+      "sha256": "780c691a08cafd1bfce64075fd882e0d2adf23787076d2e761f1b4a7a2a5abbb"
+    },
+    {
+      "time": 74,
+      "sha256": "542fb62fce5cd43ac02ae66889a27d85d5dca63dd9b7e198dc2559f12c75065e"
+    },
+    {
+      "time": 86,
+      "sha256": "b21355ac64a75e96966f03bf336907c088a9c35194afa9ee64ce94d47712d95a"
+    }
+  ],
+  "boundaries": [
+    {
+      "time": 4,
+      "infinitesimal": {
+        "mean": 0.0013715277777777777,
+        "max": 3
+      },
+      "frameStep": {
+        "mean": 0.3347280092592593,
+        "max": 69
+      }
+    },
+    {
+      "time": 7.5,
+      "infinitesimal": {
+        "mean": 0.0077314814814814815,
+        "max": 12
+      },
+      "frameStep": {
+        "mean": 2.7341493055555555,
+        "max": 141
+      }
+    },
+    {
+      "time": 10,
+      "infinitesimal": {
+        "mean": 0.22217592592592592,
+        "max": 43
+      },
+      "frameStep": {
+        "mean": 0.9795659722222222,
+        "max": 94
+      }
+    },
+    {
+      "time": 17.5,
+      "infinitesimal": {
+        "mean": 0.23092592592592592,
+        "max": 35
+      },
+      "frameStep": {
+        "mean": 6.713587962962963,
+        "max": 172
+      }
+    },
+    {
+      "time": 25.5,
+      "infinitesimal": {
+        "mean": 0.003258101851851852,
+        "max": 11
+      },
+      "frameStep": {
+        "mean": 1.6156018518518518,
+        "max": 147
+      }
+    },
+    {
+      "time": 27.5,
+      "infinitesimal": {
+        "mean": 0.09473958333333334,
+        "max": 52
+      },
+      "frameStep": {
+        "mean": 4.353547453703704,
+        "max": 160
+      }
+    },
+    {
+      "time": 37.3,
+      "infinitesimal": {
+        "mean": 0.0047627314814814815,
+        "max": 21
+      },
+      "frameStep": {
+        "mean": 3.0215625,
+        "max": 149
+      }
+    },
+    {
+      "time": 37.5,
+      "infinitesimal": {
+        "mean": 0.007320601851851852,
+        "max": 24
+      },
+      "frameStep": {
+        "mean": 3.1405208333333334,
+        "max": 152
+      }
+    },
+    {
+      "time": 38.125,
+      "infinitesimal": {
+        "mean": 0.00474537037037037,
+        "max": 14
+      },
+      "frameStep": {
+        "mean": 2.4691782407407405,
+        "max": 132
+      }
+    },
+    {
+      "time": 40.625,
+      "infinitesimal": {
+        "mean": 0.11291666666666667,
+        "max": 228
+      },
+      "frameStep": {
+        "mean": 0.13030671296296295,
+        "max": 228
+      }
+    },
+    {
+      "time": 41.25,
+      "infinitesimal": {
+        "mean": 0.000005787037037037037,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.018287037037037036,
+        "max": 41
+      }
+    },
+    {
+      "time": 43.75,
+      "infinitesimal": {
+        "mean": 0.04767939814814815,
+        "max": 221
+      },
+      "frameStep": {
+        "mean": 0.06558449074074074,
+        "max": 221
+      }
+    },
+    {
+      "time": 44.375,
+      "infinitesimal": {
+        "mean": 0.000011574074074074073,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.018987268518518518,
+        "max": 23
+      }
+    },
+    {
+      "time": 46.875,
+      "infinitesimal": {
+        "mean": 0.036828703703703704,
+        "max": 220
+      },
+      "frameStep": {
+        "mean": 0.05556134259259259,
+        "max": 220
+      }
+    },
+    {
+      "time": 47.5,
+      "infinitesimal": {
+        "mean": 0.000011574074074074073,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.01777199074074074,
+        "max": 9
+      }
+    },
+    {
+      "time": 55,
+      "infinitesimal": {
+        "mean": 0.000011574074074074073,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.011840277777777778,
+        "max": 3
+      }
+    },
+    {
+      "time": 57.5,
+      "infinitesimal": {
+        "mean": 0.000028935185185185186,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.007118055555555555,
+        "max": 10
+      }
+    },
+    {
+      "time": 59.375,
+      "infinitesimal": {
+        "mean": 0,
+        "max": 0
+      },
+      "frameStep": {
+        "mean": 0.006006944444444444,
+        "max": 14
+      }
+    },
+    {
+      "time": 67.5,
+      "infinitesimal": {
+        "mean": 0.00671875,
+        "max": 66
+      },
+      "frameStep": {
+        "mean": 0.5016203703703703,
+        "max": 120
+      }
+    },
+    {
+      "time": 76.875,
+      "infinitesimal": {
+        "mean": 0.009971064814814815,
+        "max": 131
+      },
+      "frameStep": {
+        "mean": 0.4455150462962963,
+        "max": 120
+      }
+    },
+    {
+      "time": 80,
+      "infinitesimal": {
+        "mean": 0.006585648148148148,
+        "max": 74
+      },
+      "frameStep": {
+        "mean": 0.12815972222222222,
+        "max": 74
+      }
+    },
+    {
+      "time": 83.5,
+      "infinitesimal": {
+        "mean": 0.0001099537037037037,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.07368055555555555,
+        "max": 16
+      }
+    }
+  ],
+  "notes": [
+    "Continuity metrics do not replace viewing the moving shots."
+  ],
+  "info": {
+    "width": 1920,
+    "height": 1080,
+    "renderer": "Canvas 2D with depth projection; native resolution; no PBR",
+    "samples": "half-frame exposure in display color space",
+    "eventCount": 600
+  },
+  "passed": true
+}

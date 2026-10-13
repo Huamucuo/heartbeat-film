@@ -1,0 +1,97 @@
+Decode every frame: heartbeat-v05-4k.mp4
+Decode every frame: heartbeat-v05-1080p.mp4
+{
+  "passed": true,
+  "theme": "活着的意义",
+  "videos": [
+    {
+      "file": "heartbeat-v05-4k.mp4",
+      "bytes": 214423723,
+      "sha256": "31bc60fc7505321ce57a4a5cea8ed7fd9dc24291783a2fac7fb14792b2aeb237",
+      "width": 3840,
+      "height": 2160,
+      "frames": 2700,
+      "fps": 30,
+      "uniqueFrameHashes": 2700,
+      "maxRepeatedFrames": 1
+    },
+    {
+      "file": "heartbeat-v05-1080p.mp4",
+      "bytes": 58226970,
+      "sha256": "8d1da3eeee2e23929b4aa551dcb23358d06859b02d7ab1f24e73aa576a2fd9c8",
+      "width": 1920,
+      "height": 1080,
+      "frames": 2700,
+      "fps": 30,
+      "uniqueFrameHashes": 2700,
+      "maxRepeatedFrames": 1
+    }
+  ],
+  "duration": 90,
+  "video": "H.264 / yuv420p / limited BT.709",
+  "audio": {
+    "codec": "AAC",
+    "sampleRate": 48000,
+    "channels": 2,
+    "integratedLUFS": -15.62,
+    "truePeakDBTP": -1.9,
+    "loudnessRangeLU": 10.9
+  },
+  "extractedNative4KFrames": 49,
+  "offlineFilePlayer": true,
+  "playback": {
+    "advancedToSeconds": 2.505403,
+    "totalVideoFrames": 81,
+    "droppedVideoFrames": 0
+  },
+  "native4KSeek": true,
+  "chapterSeeks": [
+    {
+      "chapter": "发生",
+      "seek": 0,
+      "passed": true
+    },
+    {
+      "chapter": "重复",
+      "seek": 7.5,
+      "passed": true
+    },
+    {
+      "chapter": "奔赴",
+      "seek": 17.5,
+      "passed": true
+    },
+    {
+      "chapter": "彼此",
+      "seek": 27.5,
+      "passed": true
+    },
+    {
+      "chapter": "循环",
+      "seek": 37.5,
+      "passed": true
+    },
+    {
+      "chapter": "空白",
+      "seek": 47.5,
+      "passed": true
+    },
+    {
+      "chapter": "追问",
+      "seek": 57.5,
+      "passed": true
+    },
+    {
+      "chapter": "回声",
+      "seek": 67.5,
+      "passed": true
+    },
+    {
+      "chapter": "心跳",
+      "seek": 80,
+      "passed": true
+    }
+  ],
+  "pageErrors": [],
+  "note": "Technical validation and decoded visual samples; does not certify artistic quality or subjective listening."
+}

@@ -1,0 +1,15 @@
+{
+  "output": "material-review.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 375,
+  "start": 7.5,
+  "end": 20,
+  "seconds": 12.5,
+  "samples": 2,
+  "workers": 3,
+  "renderSeconds": 114.19,
+  "bytes": 29040868,
+  "errors": []
+}

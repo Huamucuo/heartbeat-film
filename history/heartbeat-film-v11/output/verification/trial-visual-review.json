@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "artifact": "heartbeat-v11-ending-final-trial.mp4",
+  "globalRangeSeconds": [171, 187],
+  "scope": "26 actual MP4 decoded frames, reviewed as three contact sheets and independent visual review; not subjective real-time viewing or listening.",
+  "findings": [
+    {"time": [175, 178.6], "severity": "resolved", "description": "Earlier narrowing and spatial column slots improve traceability; broad left-side crossing was removed."},
+    {"time": 179, "severity": "minor", "description": "Brief local overlap at left during convergence; no residual double line in later samples."},
+    {"time": [180.6, 182.2], "severity": "checked", "description": "Continuous joined ECG; no sampled position, width or brightness jump at the handoff."}
+  ],
+  "critical": 0,
+  "important": 0,
+  "subjectiveFullPlayback": false,
+  "subjectiveListening": false,
+  "finalMasterReviewRequired": true
+}

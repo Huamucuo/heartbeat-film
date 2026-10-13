@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8"><link rel="icon" href="data:,"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>心跳 · 原创抽象音乐短片</title>
+<style>
+:root{color-scheme:dark;font-family:"Microsoft YaHei",system-ui,sans-serif;background:#0c1119;color:#f3e6d0}*{box-sizing:border-box}body{margin:0}main{max-width:1280px;margin:auto;padding:35px 32px 56px}header{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin:0 0 24px}h1{margin:0;font:52px "SimSun",serif;letter-spacing:.16em}h1 small{font:13px Georgia,serif;letter-spacing:.35em;margin-left:24px;color:#c4a783}header p{color:#c6c4c0;font-size:14px;margin:0 0 4px;line-height:1.8}.screen{background:#04070a;border:1px solid #29313a;border-radius:5px;overflow:hidden;box-shadow:0 28px 80px #0005}video{width:100%;aspect-ratio:16/9;display:block}nav{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 18px}button{font:inherit;font-size:14px;padding:10px 13px;border-radius:4px;background:#151e29;color:#c5cdd5;border:1px solid #2b3745;cursor:pointer}button:hover,button:focus-visible{border-color:#cb9b66;color:#fff}button[aria-current=true]{background:#352921;color:#ffdfb5;border-color:#bf936c}button span{opacity:.6;margin-right:8px;font:12px Georgia}footer{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid #29313a;padding-top:18px;color:#9aabb7;font-size:13px;line-height:1.8}a{color:#e6be8c;text-underline-offset:4px}footer a{margin-right:19px}#status{min-height:24px;margin:12px 0 0;color:#b4c7cc;font-size:13px}#status.error{color:#ffb199}@media(max-width:720px){main{padding:24px 14px}header{display:block}header p{margin-top:16px}h1{font-size:40px}h1 small{font-size:11px;margin-left:12px}nav{gap:6px}button{padding:9px 11px}}
+</style>
+<main>
+<header><h1>心跳<small>HEARTBEAT</small></h1><p>活着的意义。答案没有到来。<br>原创抽象音乐短片 · 第十六版 · 2 分 42 秒</p></header>
+<div class="screen"><video id="film" controls preload="metadata" playsinline><source src="output/heartbeat-v16-1080p.mp4" type="video/mp4">请使用支持 MP4 的播放器观看。</video></div>
+<nav aria-label="影片章节"></nav>
+<footer><div><a href="output/heartbeat-v16-1080p.mp4" download>保存 1080p 观看版</a><a href="output/heartbeat-v16-4k.mp4" download>保存原生 4K 成片</a><a href="audio/generated/heartbeat-score.mp3" download>保存原创配乐</a></div><div>4K 原片 / 1080p 预览 · 30 fps · 立体声</div></footer>
+<p style="font-size:12px;color:#9aabb7">钢琴采样：Alexander Holm · 实测心电：Moody、Mark / PhysioNet MIT-BIH · <a href="docs/credits.md">来源与许可</a></p>
+<p id="status" role="status">点击播放，或选择一个章节。</p>
+</main>
+<script>
+const chapters=[[0,'发生'],[9,'日子'],[29,'奔赴'],[47,'彼此'],[63,'迷途'],[88.4,'转变'],[92.3,'黑场'],[94.07,'心电'],[94.85,'留白'],[98,'日常'],[138.7,'留下'],[147.7,'心跳']];
+const film=document.querySelector('video'),nav=document.querySelector('nav'),status=document.querySelector('#status');
+chapters.forEach(([t,title],i)=>{const b=document.createElement('button');b.type='button';b.innerHTML='<span>'+String(i+1).padStart(2,'0')+'</span>'+title;b.setAttribute('aria-label','跳转到'+title+'，'+t+'秒');b.onclick=async()=>{film.currentTime=t;try{await film.play();}catch{status.textContent='已跳转，请点击播放器中的播放按钮。';}};nav.appendChild(b);});
+function update(){const index=chapters.findLastIndex(c=>film.currentTime>=c[0]);[...nav.children].forEach((b,i)=>b.setAttribute('aria-current',String(i===index)));status.className='';status.textContent=film.ended?'播放完毕。可以重新播放，或选择章节回看。':(film.paused?'已暂停 · ':'正在播放 · ')+chapters[Math.max(0,index)][1];}
+film.addEventListener('timeupdate',update);film.addEventListener('pause',update);film.addEventListener('play',update);film.addEventListener('ended',update);
+film.addEventListener('error',()=>{status.className='error';status.textContent='未能打开影片。请确认完整解压工程包，或直接打开 output 文件夹中的 heartbeat-v16-1080p.mp4。';});
+</script>
+</html>
+
+
+

@@ -1,0 +1,45 @@
+{
+  "checked": "2026-10-11T07:22:48.185Z",
+  "clips": [
+    {
+      "id": "01-emergence",
+      "frameCount": 150,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "duration": 5,
+      "uniqueFrames": 150,
+      "integratedLUFS": -15.6,
+      "truePeakDBTP": -1.49,
+      "audio": "AAC 48000 Hz stereo",
+      "color": "BT.709 limited range",
+      "decodedContactTimes": [
+        0,
+        2.5,
+        4.9666667
+      ]
+    },
+    {
+      "id": "02-answer",
+      "frameCount": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "duration": 10,
+      "uniqueFrames": 300,
+      "integratedLUFS": -15.88,
+      "truePeakDBTP": -1.5,
+      "audio": "AAC 48000 Hz stereo",
+      "color": "BT.709 limited range",
+      "decodedContactTimes": [
+        0,
+        1.8666667,
+        2.2,
+        2.5,
+        4,
+        9.9666667
+      ]
+    }
+  ],
+  "passed": true
+}

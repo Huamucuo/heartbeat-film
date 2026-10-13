@@ -1,0 +1,40 @@
+《心跳》发布文案
+
+【抖音】
+标题：活着，究竟为了什么？｜心跳
+
+日子越来越快，我们却一次次回到原点。
+把重复的日常、绕不出的迷宫，做成了这部《心跳》。
+关于活着的意义，我没能给出一个答案。
+
+AI 辅助创作，经多轮制作与修改。
+#原创短片 #代码动画 #心跳 #AI创作
+
+【B站】
+标题：《心跳》｜活着，究竟为了什么？一部关于日常与回归的代码动画短片
+
+我们花了很多时间，试图走到一个不一样的地方。
+可日子越过越快，每一条路，似乎又都通向相同的终点。
+
+《心跳》是一部关于「活着的意义」的原创代码动画短片。
+我把日历的翻动、迷宫里的回归、不断变化的生活和一颗跳动的心脏，放进了同一个故事。
+
+它有些悲观，也没有准备一个圆满的答案。
+如果可以，请戴上耳机，看完这两分多钟。
+
+[参考学习内容已按作者要求省略。]
+
+标签：原创动画、代码艺术、实验短片、AI创作、心跳、活着的意义
+
+【素材署名：可附在B站简介末尾、抖音作品的补充说明或评论中】
+钢琴采样：Salamander Grand Piano v3 — Alexander Holm，CC BY 3.0。采样经选取、变调、滤波、混响与混音，用于本片编配。
+素材：https://github.com/sfzinstruments/SalamanderGrandPiano
+许可：https://creativecommons.org/licenses/by/3.0/
+
+实测心电数据：MIT-BIH Arrhythmia Database v1.0.0，record 100 / MLII — George Moody、Roger Mark（2005），PhysioNet，ODC-By 1.0。单次心搏经截取、基线处理与加速视觉呈现；心搏声音为另行合成。
+数据：https://doi.org/10.13026/C2F305
+许可：https://opendatacommons.org/licenses/by/1-0/
+This work contains information from the MIT-BIH Arrhythmia Database, which is made available under the Open Data Commons Attribution License (ODC-By) v1.0.
+
+影片字体：Noto Serif SC，SIL Open Font License。
+上述素材作者并未参与或为本片背书。

@@ -1,0 +1,23 @@
+{
+  "title": "MIT-BIH Arrhythmia Database, version 1.0.0, record 100, MLII",
+  "authors": [
+    "George Moody",
+    "Roger Mark"
+  ],
+  "source": "https://physionet.org/files/mitdb/1.0.0/100.dat",
+  "dataset": "https://physionet.org/content/mitdb/1.0.0/",
+  "doi": "https://doi.org/10.13026/C2F305",
+  "license": "Open Data Commons Attribution License v1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/by/1-0/",
+  "sha256": "b2ea3c250e56e48f4b7b90697832b8ecd1afa1e0bb31f2dcfea4ed6e1075a639",
+  "channel": "MLII",
+  "sourceSampleRate": 360,
+  "samples": [
+    262,
+    586
+  ],
+  "rSample": 370,
+  "processing": "Single beat excerpt, linear endpoint baseline removed. No smoothing, synthesized peak or sample-time stretching. Linear interpolation only for display.",
+  "visual": "Red trace, 234 logical pixels per mV; silence baseline extended around excerpt.",
+  "heartbeatCue": 94.25
+}

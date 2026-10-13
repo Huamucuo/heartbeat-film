@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "file": "heartbeat-v04-project.zip",
+  "bytes": 541750471,
+  "sha256": "71a96fece1818d530541f002730fb800dda3deda992e58edbdb9f71f102cc14e",
+  "entries": 112,
+  "verified": "CRC and SHA-256 of every archived file",
+  "referenceAssetsIncluded": false
+}

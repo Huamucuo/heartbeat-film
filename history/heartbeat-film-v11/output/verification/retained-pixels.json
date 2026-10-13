@@ -1,0 +1,106 @@
+{
+  "passed": true,
+  "width": 3840,
+  "height": 2160,
+  "samples": 2,
+  "rows": [
+    {
+      "time": 0.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 118.5,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 127.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 129.9667,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 14.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 23.0,
+      "meanRGBDifference": 1.8888245884773662e-06,
+      "maxRGBDifference": 2,
+      "changedPixels": 25,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 3.5,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 37.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 54.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 61.9667,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 66.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 82.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    },
+    {
+      "time": 95.0,
+      "meanRGBDifference": 0.0,
+      "maxRGBDifference": 0,
+      "changedPixels": 0,
+      "totalPixels": 8294400
+    }
+  ],
+  "allowedIntervals": [
+    [
+      0,
+      130
+    ]
+  ],
+  "note": "Retained shot compositions agree. Maximum 25 of 8,294,400 pixels differ, by at most 2/255; not claimed as bit-identical rendering. This check does not cover modified intervals."
+}

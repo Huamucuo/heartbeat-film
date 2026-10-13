@@ -1,0 +1,18 @@
+{
+  "seconds": 90,
+  "sampleRate": 48000,
+  "samples": 4320000,
+  "channels": 2,
+  "events": 642,
+  "peakDbFS": -3.6641180327099825,
+  "rmsDbFS": -20.08966543654966,
+  "gain": 1.2,
+  "seed": 260211,
+  "stems": [
+    "pulse",
+    "melody",
+    "harmony",
+    "percussion",
+    "detail"
+  ]
+}

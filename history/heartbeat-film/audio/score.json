@@ -1,0 +1,1758 @@
+{
+  "fps": 30,
+  "sampleRate": 48000,
+  "bpm": 96,
+  "excerpts": [
+    {
+      "id": "01-emergence",
+      "title": "痕迹成为材料",
+      "start": 17.5,
+      "end": 22.5
+    },
+    {
+      "id": "02-answer",
+      "title": "等待之后，回声返回",
+      "start": 55,
+      "end": 65
+    }
+  ],
+  "events": [
+    {
+      "id": "origin.1.a",
+      "time": 1.25,
+      "voice": "pulse",
+      "amp": 0.7,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.1.b",
+      "time": 1.41,
+      "voice": "pulse",
+      "amp": 0.32899999999999996,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.2.a",
+      "time": 2.5,
+      "voice": "pulse",
+      "amp": 0.7,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.2.b",
+      "time": 2.66,
+      "voice": "pulse",
+      "amp": 0.32899999999999996,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.3.a",
+      "time": 3.75,
+      "voice": "pulse",
+      "amp": 0.7,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.3.b",
+      "time": 3.91,
+      "voice": "pulse",
+      "amp": 0.32899999999999996,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.4.a",
+      "time": 5,
+      "voice": "pulse",
+      "amp": 0.7,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.4.b",
+      "time": 5.16,
+      "voice": "pulse",
+      "amp": 0.32899999999999996,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.5.a",
+      "time": 6.25,
+      "voice": "pulse",
+      "amp": 0.7,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.5.b",
+      "time": 6.41,
+      "voice": "pulse",
+      "amp": 0.32899999999999996,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.6.a",
+      "time": 7.5,
+      "voice": "pulse",
+      "amp": 0.7,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.6.b",
+      "time": 7.66,
+      "voice": "pulse",
+      "amp": 0.32899999999999996,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.0",
+      "time": 8.125,
+      "voice": "felt",
+      "amp": 0.3,
+      "note": 57,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.7.a",
+      "time": 8.75,
+      "voice": "pulse",
+      "amp": 0.7,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.7.b",
+      "time": 8.91,
+      "voice": "pulse",
+      "amp": 0.32899999999999996,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.1",
+      "time": 10,
+      "voice": "felt",
+      "amp": 0.32,
+      "note": 64,
+      "pan": 0.29215428926345854,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.8.a",
+      "time": 10,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.8.b",
+      "time": 10.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.9.a",
+      "time": 11.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.9.b",
+      "time": 11.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.2",
+      "time": 11.875,
+      "voice": "felt",
+      "amp": 0.22,
+      "note": 71,
+      "pan": -0.13275613298845573,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.10.a",
+      "time": 12.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.10.b",
+      "time": 12.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.11.a",
+      "time": 13.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.11.b",
+      "time": 13.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.3",
+      "time": 15,
+      "voice": "felt",
+      "amp": 0.34,
+      "note": 57,
+      "pan": -0.23182934626679613,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.12.a",
+      "time": 15,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.12.b",
+      "time": 15.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.13.a",
+      "time": 16.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.13.b",
+      "time": 16.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.4",
+      "time": 16.875,
+      "voice": "felt",
+      "amp": 0.33,
+      "note": 64,
+      "pan": 0.23810035915474595,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.14.a",
+      "time": 17.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.14.b",
+      "time": 17.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.5",
+      "time": 18.125,
+      "voice": "felt",
+      "amp": 0.34,
+      "note": 71,
+      "pan": 0.12363554557252697,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.15.a",
+      "time": 18.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.15.b",
+      "time": 18.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.6",
+      "time": 20,
+      "voice": "felt",
+      "amp": 0.32,
+      "note": 64,
+      "pan": -0.29428086901994743,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.16.a",
+      "time": 20,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.16.b",
+      "time": 20.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.17.a",
+      "time": 21.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.17.b",
+      "time": 21.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.7",
+      "time": 21.875,
+      "voice": "felt",
+      "amp": 0.28,
+      "note": 69,
+      "pan": 0.010086914166341008,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.18.a",
+      "time": 22.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.18.b",
+      "time": 22.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.19.a",
+      "time": 23.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.19.b",
+      "time": 23.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.8",
+      "time": 25,
+      "voice": "felt",
+      "amp": 0.33,
+      "note": 57,
+      "pan": 0.2896973329647832,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.20.a",
+      "time": 25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.20.b",
+      "time": 25.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.21.a",
+      "time": 26.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.21.b",
+      "time": 26.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.9",
+      "time": 27.5,
+      "voice": "felt",
+      "amp": 0.29,
+      "note": 64,
+      "pan": -0.14172659591953984,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.22.a",
+      "time": 27.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.22.b",
+      "time": 27.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.23.a",
+      "time": 28.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.23.b",
+      "time": 28.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.10",
+      "time": 30,
+      "voice": "felt",
+      "amp": 0.31,
+      "note": 71,
+      "pan": -0.22529617403150284,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.24.a",
+      "time": 30,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.24.b",
+      "time": 30.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.25.a",
+      "time": 31.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.25.b",
+      "time": 31.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.11",
+      "time": 32.5,
+      "voice": "felt",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.2441021212521316,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.26.a",
+      "time": 32.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.26.b",
+      "time": 32.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.27.a",
+      "time": 33.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.27.b",
+      "time": 33.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.28.a",
+      "time": 35,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.28.b",
+      "time": 35.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.0.a",
+      "time": 35.3125,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.0.b",
+      "time": 35.4725,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "motif.12",
+      "time": 36.25,
+      "voice": "felt",
+      "amp": 0.3,
+      "note": 60,
+      "pan": 0.11437514749648203,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.29.a",
+      "time": 36.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.29.b",
+      "time": 36.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.1.a",
+      "time": 36.5625,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.1.b",
+      "time": 36.7225,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "origin.30.a",
+      "time": 37.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.30.b",
+      "time": 37.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.2.a",
+      "time": 37.8125,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.2.b",
+      "time": 37.9725,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "motif.13",
+      "time": 38.125,
+      "voice": "felt",
+      "amp": 0.29,
+      "note": 67,
+      "pan": -0.2960746674361948,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.31.a",
+      "time": 38.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.31.b",
+      "time": 38.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.3.a",
+      "time": 39.0625,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.3.b",
+      "time": 39.2225,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "origin.32.a",
+      "time": 40,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.32.b",
+      "time": 40.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.4.a",
+      "time": 40.3125,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.4.b",
+      "time": 40.4725,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "motif.14",
+      "time": 40.625,
+      "voice": "felt",
+      "amp": 0.28,
+      "note": 71,
+      "pan": 0.020162421757642476,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.33.a",
+      "time": 41.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.33.b",
+      "time": 41.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.5.a",
+      "time": 41.5625,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.5.b",
+      "time": 41.7225,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "origin.34.a",
+      "time": 42.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.34.b",
+      "time": 42.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.6.a",
+      "time": 42.8125,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.6.b",
+      "time": 42.9725,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "motif.15",
+      "time": 43.125,
+      "voice": "felt",
+      "amp": 0.25,
+      "note": 64,
+      "pan": 0.2869127785213509,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.35.a",
+      "time": 43.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.35.b",
+      "time": 43.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.7.a",
+      "time": 44.0625,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.7.b",
+      "time": 44.2225,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "origin.36.a",
+      "time": 45,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.36.b",
+      "time": 45.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.8.a",
+      "time": 45.3125,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.8.b",
+      "time": 45.4725,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "origin.37.a",
+      "time": 46.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.37.b",
+      "time": 46.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "reply.9.a",
+      "time": 46.5625,
+      "voice": "reply",
+      "amp": 0.43,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.85
+    },
+    {
+      "id": "reply.9.b",
+      "time": 46.7225,
+      "voice": "reply",
+      "amp": 0.2,
+      "note": 45,
+      "pan": 0.54,
+      "duration": 0.55
+    },
+    {
+      "id": "motif.16",
+      "time": 47.5,
+      "voice": "felt",
+      "amp": 0.21,
+      "note": 57,
+      "pan": -0.15053679030617226,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.38.a",
+      "time": 47.5,
+      "voice": "pulse",
+      "amp": 0.52,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.38.b",
+      "time": 47.66,
+      "voice": "pulse",
+      "amp": 0.2444,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.39.a",
+      "time": 48.75,
+      "voice": "pulse",
+      "amp": 0.52,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.39.b",
+      "time": 48.91,
+      "voice": "pulse",
+      "amp": 0.2444,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.17",
+      "time": 50,
+      "voice": "felt",
+      "amp": 0.16,
+      "note": 64,
+      "pan": -0.21850823034947803,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.40.a",
+      "time": 50,
+      "voice": "pulse",
+      "amp": 0.52,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.40.b",
+      "time": 50.16,
+      "voice": "pulse",
+      "amp": 0.2444,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.41.a",
+      "time": 51.25,
+      "voice": "pulse",
+      "amp": 0.52,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.41.b",
+      "time": 51.41,
+      "voice": "pulse",
+      "amp": 0.2444,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.18",
+      "time": 52.5,
+      "voice": "felt",
+      "amp": 0.13,
+      "note": 71,
+      "pan": 0.24982784559233392,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.42.a",
+      "time": 52.5,
+      "voice": "pulse",
+      "amp": 0.52,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.42.b",
+      "time": 52.66,
+      "voice": "pulse",
+      "amp": 0.2444,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.43.a",
+      "time": 53.75,
+      "voice": "pulse",
+      "amp": 0.52,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.43.b",
+      "time": 53.91,
+      "voice": "pulse",
+      "amp": 0.2444,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "echo.depart",
+      "time": 56.875,
+      "voice": "reply",
+      "amp": 0.58,
+      "note": 57,
+      "pan": 0.62,
+      "duration": 0.625
+    },
+    {
+      "id": "echo.path",
+      "time": 56.875,
+      "voice": "path",
+      "amp": 0.52,
+      "note": 69,
+      "pan": 0,
+      "duration": 0.625
+    },
+    {
+      "id": "echo.arrive",
+      "time": 57.5,
+      "voice": "arrival",
+      "amp": 0.9,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 1.5
+    },
+    {
+      "id": "echo.arrive.recoil",
+      "time": 57.66,
+      "voice": "pulse",
+      "amp": 0.36,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.6
+    },
+    {
+      "id": "motif.19",
+      "time": 58.125,
+      "voice": "felt",
+      "amp": 0.39,
+      "note": 57,
+      "pan": 0.10498541068699865,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.47.a",
+      "time": 58.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.47.b",
+      "time": 58.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.20",
+      "time": 59.375,
+      "voice": "felt",
+      "amp": 0.32,
+      "note": 64,
+      "pan": -0.29753365603293475,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.48.a",
+      "time": 60,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.48.b",
+      "time": 60.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.21",
+      "time": 60.625,
+      "voice": "felt",
+      "amp": 0.37,
+      "note": 71,
+      "pan": 0.030215129097752282,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.49.a",
+      "time": 61.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.49.b",
+      "time": 61.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.22",
+      "time": 62.5,
+      "voice": "felt",
+      "amp": 0.32,
+      "note": 76,
+      "pan": 0.28380377478807245,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.50.a",
+      "time": 62.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.50.b",
+      "time": 62.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.51.a",
+      "time": 63.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.51.b",
+      "time": 63.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.23",
+      "time": 64.375,
+      "voice": "felt",
+      "amp": 0.28,
+      "note": 71,
+      "pan": -0.1591767533250611,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.52.a",
+      "time": 65,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.52.b",
+      "time": 65.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.24",
+      "time": 66.25,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 57,
+      "pan": -0.2114731912242744,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.53.a",
+      "time": 66.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.53.b",
+      "time": 66.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.54.a",
+      "time": 67.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.54.b",
+      "time": 67.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.25",
+      "time": 68.125,
+      "voice": "felt",
+      "amp": 0.34,
+      "note": 64,
+      "pan": 0.25527105736023553,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.55.a",
+      "time": 68.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.55.b",
+      "time": 68.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.26",
+      "time": 70,
+      "voice": "felt",
+      "amp": 0.34,
+      "note": 71,
+      "pan": 0.09547695333074445,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.56.a",
+      "time": 70,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.56.b",
+      "time": 70.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.57.a",
+      "time": 71.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.57.b",
+      "time": 71.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.27",
+      "time": 72.5,
+      "voice": "felt",
+      "amp": 0.33,
+      "note": 69,
+      "pan": -0.2986561849435546,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.58.a",
+      "time": 72.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.58.b",
+      "time": 72.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.59.a",
+      "time": 73.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.59.b",
+      "time": 73.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.28",
+      "time": 75,
+      "voice": "felt",
+      "amp": 0.32,
+      "note": 64,
+      "pan": 0.04023366829369714,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.60.a",
+      "time": 75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.60.b",
+      "time": 75.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.61.a",
+      "time": 76.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.61.b",
+      "time": 76.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.29",
+      "time": 77.5,
+      "voice": "felt",
+      "amp": 0.28,
+      "note": 71,
+      "pan": 0.2803738375165244,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.62.a",
+      "time": 77.5,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.62.b",
+      "time": 77.66,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.63.a",
+      "time": 78.75,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.63.b",
+      "time": 78.91,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.30",
+      "time": 80,
+      "voice": "felt",
+      "amp": 0.24,
+      "note": 76,
+      "pan": -0.16763671465548488,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.64.a",
+      "time": 80,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.64.b",
+      "time": 80.16,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.65.a",
+      "time": 81.25,
+      "voice": "pulse",
+      "amp": 0.84,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.65.b",
+      "time": 81.41,
+      "voice": "pulse",
+      "amp": 0.3948,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.66.a",
+      "time": 82.5,
+      "voice": "pulse",
+      "amp": 0.64,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.66.b",
+      "time": 82.66,
+      "voice": "pulse",
+      "amp": 0.3008,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.31",
+      "time": 83.125,
+      "voice": "felt",
+      "amp": 0.22,
+      "note": 64,
+      "pan": -0.2041990120821368,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.67.a",
+      "time": 83.75,
+      "voice": "pulse",
+      "amp": 0.64,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.67.b",
+      "time": 83.91,
+      "voice": "pulse",
+      "amp": 0.3008,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.68.a",
+      "time": 85,
+      "voice": "pulse",
+      "amp": 0.64,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.68.b",
+      "time": 85.16,
+      "voice": "pulse",
+      "amp": 0.3008,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "motif.32",
+      "time": 86.25,
+      "voice": "felt",
+      "amp": 0.19,
+      "note": 57,
+      "pan": 0.26042560121412645,
+      "duration": 4.5
+    },
+    {
+      "id": "origin.69.a",
+      "time": 86.25,
+      "voice": "pulse",
+      "amp": 0.64,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.69.b",
+      "time": 86.41,
+      "voice": "pulse",
+      "amp": 0.3008,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.70.a",
+      "time": 87.5,
+      "voice": "pulse",
+      "amp": 0.64,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.70.b",
+      "time": 87.66,
+      "voice": "pulse",
+      "amp": 0.3008,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    },
+    {
+      "id": "origin.71.a",
+      "time": 88.75,
+      "voice": "pulse",
+      "amp": 0.64,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.8
+    },
+    {
+      "id": "origin.71.b",
+      "time": 88.91,
+      "voice": "pulse",
+      "amp": 0.3008,
+      "note": 33,
+      "pan": -0.21,
+      "duration": 0.5
+    }
+  ]
+}

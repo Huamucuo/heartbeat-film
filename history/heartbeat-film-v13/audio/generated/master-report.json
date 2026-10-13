@@ -1,0 +1,15 @@
+{
+  "gainDB": 0.20000000000000018,
+  "processing": "Fixed linear mastering gain; first 43 s PCM retained from v11, 750 ms blend before the repaired phrase. One continuous maze accelerando reaches 224 BPM at 131.25; dry cyber break 131.25-131.83. Heart stops at 194.5; a sustained 1000 Hz electronic flatline lasts to 195.92 with only an 8 ms anti-click release, then exact silence.",
+  "preservation": {
+    "source": "${WORKSPACE}\\heartbeat-film-v11\\audio\\generated\\master.wav",
+    "start": 0,
+    "end": 43,
+    "pcmBytes": 12384000,
+    "crossfadeAfterRetainedSeconds": 0.75
+  },
+  "stopTime": 194.5,
+  "resonanceEnd": 195.92,
+  "masterSHA256": "d0b372e2546cefff912ff13c2f443fecbf25b10a69d2c02631ed5aaf02ad5ff2",
+  "review": "No listening or review pass, per user instruction."
+}

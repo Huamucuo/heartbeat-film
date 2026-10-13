@@ -1,0 +1,122 @@
+{
+  "passed": false,
+  "width": 3840,
+  "samples": 2,
+  "allowed": [
+    [
+      0,
+      62
+    ],
+    [
+      66,
+      130
+    ]
+  ],
+  "rows": [
+    {
+      "time": 0,
+      "hashes": [
+        "57f54c9f00ae01f62177028281e5a6ac7fc83b3c270ae54a1c262caa4b80463c",
+        "57f54c9f00ae01f62177028281e5a6ac7fc83b3c270ae54a1c262caa4b80463c"
+      ],
+      "identical": true
+    },
+    {
+      "time": 3.5,
+      "hashes": [
+        "e512a4a60e7aaa5165a756756a41d87deec21aa7908c3f650bf09bd7e5dd5458",
+        "e512a4a60e7aaa5165a756756a41d87deec21aa7908c3f650bf09bd7e5dd5458"
+      ],
+      "identical": true
+    },
+    {
+      "time": 14,
+      "hashes": [
+        "4d3274e342750135239006b0615a705943df57bf1318dd0391b341d4a4e60b2e",
+        "4d3274e342750135239006b0615a705943df57bf1318dd0391b341d4a4e60b2e"
+      ],
+      "identical": true
+    },
+    {
+      "time": 23,
+      "hashes": [
+        "6473c1ea3944ae97705a0b0fd8d9ac552d14daece29f99d3b9e5331890352ee3",
+        "8281e3f5f11035c562fa994682ee3901fa7d77a315dc997610acc8ddde5c7946"
+      ],
+      "identical": false
+    },
+    {
+      "time": 37,
+      "hashes": [
+        "bc3a1d177ecb2ca114a0769a544b1a44867dc283dbb9c8e9f2afd8ed18db643f",
+        "bc3a1d177ecb2ca114a0769a544b1a44867dc283dbb9c8e9f2afd8ed18db643f"
+      ],
+      "identical": true
+    },
+    {
+      "time": 54,
+      "hashes": [
+        "8ecd856edf52bcd91f484b13c006aff946f3bcd65fbc40ccbfff20f2cefb2136",
+        "8ecd856edf52bcd91f484b13c006aff946f3bcd65fbc40ccbfff20f2cefb2136"
+      ],
+      "identical": true
+    },
+    {
+      "time": 61.9666666667,
+      "hashes": [
+        "7aef7685bf7acc366d65224ad46df34caa6a10a14cc703fd099faee877d6f3c5",
+        "7aef7685bf7acc366d65224ad46df34caa6a10a14cc703fd099faee877d6f3c5"
+      ],
+      "identical": true
+    },
+    {
+      "time": 66,
+      "hashes": [
+        "930b20a31695e1c6a2ebf80b6ed0ce60afc26bb7a148e106b0c264f9573ba28a",
+        "930b20a31695e1c6a2ebf80b6ed0ce60afc26bb7a148e106b0c264f9573ba28a"
+      ],
+      "identical": true
+    },
+    {
+      "time": 82,
+      "hashes": [
+        "1e17b4f24c571bdd86f35c15d4ba4978fb820ea35d549afcaa444b4de3451f82",
+        "1e17b4f24c571bdd86f35c15d4ba4978fb820ea35d549afcaa444b4de3451f82"
+      ],
+      "identical": true
+    },
+    {
+      "time": 95,
+      "hashes": [
+        "b89b6be74ca477b046a1173cc5585aaf9f8490a3d1f2e0f50e8fdf6d6d5baf3f",
+        "b89b6be74ca477b046a1173cc5585aaf9f8490a3d1f2e0f50e8fdf6d6d5baf3f"
+      ],
+      "identical": true
+    },
+    {
+      "time": 118.5,
+      "hashes": [
+        "f7c08877ba34341248a877e52f85b60a662a7ab1188d6b12868655a511a13a4b",
+        "f7c08877ba34341248a877e52f85b60a662a7ab1188d6b12868655a511a13a4b"
+      ],
+      "identical": true
+    },
+    {
+      "time": 127,
+      "hashes": [
+        "bb4b24530fe49a72aaa1cffaaba2fe5abd7a77d82a4b995627d14d7d0165fde6",
+        "bb4b24530fe49a72aaa1cffaaba2fe5abd7a77d82a4b995627d14d7d0165fde6"
+      ],
+      "identical": true
+    },
+    {
+      "time": 129.9666666667,
+      "hashes": [
+        "e2dd450dd728b173865703efa7e42fcecf4f89dbcfe33881a901a26710eccc30",
+        "e2dd450dd728b173865703efa7e42fcecf4f89dbcfe33881a901a26710eccc30"
+      ],
+      "identical": true
+    }
+  ],
+  "scope": "Source PNG hash comparison only. Any differences require actual pixel comparison before retaining a previous render."
+}

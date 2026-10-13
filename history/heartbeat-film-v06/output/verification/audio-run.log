@@ -1,0 +1,99 @@
+{
+  "passed": true,
+  "stems": {
+    "pulse": {
+      "peakDBFS": -4.141125699669168,
+      "rmsDBFS": -22.41776355133083,
+      "seconds": 90,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "melody": {
+      "peakDBFS": -10.097063975063856,
+      "rmsDBFS": -26.33277998204256,
+      "seconds": 90,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "harmony": {
+      "peakDBFS": -22.618346389309387,
+      "rmsDBFS": -38.20985032018306,
+      "seconds": 90,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "percussion": {
+      "peakDBFS": -26.346858721726328,
+      "rmsDBFS": -61.40142345826539,
+      "seconds": 90,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "detail": {
+      "peakDBFS": -17.90836079666841,
+      "rmsDBFS": -38.37497336683087,
+      "seconds": 90,
+      "sampleRate": 48000,
+      "channels": 2
+    }
+  },
+  "preMasterSections": [
+    {
+      "title": "发生",
+      "start": 0,
+      "end": 7.5,
+      "rmsDBFS": -20.073584152341613
+    },
+    {
+      "title": "重复",
+      "start": 7.5,
+      "end": 17.5,
+      "rmsDBFS": -20.65394161335131
+    },
+    {
+      "title": "奔赴",
+      "start": 17.5,
+      "end": 27.5,
+      "rmsDBFS": -20.340013811083523
+    },
+    {
+      "title": "彼此",
+      "start": 27.5,
+      "end": 37.5,
+      "rmsDBFS": -19.531459543470582
+    },
+    {
+      "title": "循环",
+      "start": 37.5,
+      "end": 47.5,
+      "rmsDBFS": -19.43094715091908
+    },
+    {
+      "title": "空白",
+      "start": 47.5,
+      "end": 57.5,
+      "rmsDBFS": -34.20354828548597
+    },
+    {
+      "title": "追问",
+      "start": 57.5,
+      "end": 67.5,
+      "rmsDBFS": -20.049199328755478
+    },
+    {
+      "title": "回声",
+      "start": 67.5,
+      "end": 80,
+      "rmsDBFS": -19.839088457148016
+    },
+    {
+      "title": "心跳",
+      "start": 80,
+      "end": 90,
+      "rmsDBFS": -22.215012240225054
+    }
+  ],
+  "quietToChorusRMSDifferenceDB": 26.068122229570847,
+  "stemSumMaxAbsoluteDifference": 0.0003662109375,
+  "note": "Signal and alignment checks only; no claim of subjective music listening."
+}

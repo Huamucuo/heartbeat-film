@@ -1,0 +1,18 @@
+✔ Visible days advance at the score beat and remain consistent after seeking (1.0147ms)
+✔ Each irregular walk returns to the same origin before its counter increments (0.7306ms)
+✔ The three walks are visibly different and turn across both axes (0.3358ms)
+✔ Absolute-time seeking is finite, bounded and continuous at departures and arrivals (3.6351ms)
+✔ ECG geometry travels during a shot and remains continuous through a beat wrap (26.36ms)
+✔ nine lives have distinct moving geometry and every projection source stays finite (6.9041ms)
+✔ the same point persists across unfolding, joining and release boundaries (0.4061ms)
+✔ every lived scene changes its geometry between early and late life and is seek deterministic (21.3941ms)
+✔ each life has a legible early, middle and late state within the actual camera frame (41.8128ms)
+✔ recognizable contours continue into the final shared space without coordinate jumps (46.6315ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 202.887

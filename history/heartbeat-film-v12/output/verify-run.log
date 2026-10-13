@@ -1,0 +1,117 @@
+Decode every frame: heartbeat-v12-4k.mp4
+Decode every frame: heartbeat-v12-1080p.mp4
+{
+  "passed": true,
+  "theme": "活着的意义",
+  "videos": [
+    {
+      "file": "heartbeat-v12-4k.mp4",
+      "bytes": 665734167,
+      "sha256": "a94520cdf2107a6eacfae59a283c2765f40f6b3ae40128debae882362cb2efce",
+      "width": 3840,
+      "height": 2160,
+      "frames": 5880,
+      "fps": 30,
+      "uniqueFrameHashes": 5880,
+      "maxRepeatedFrames": 1,
+      "maxActiveRepeatedFrames": 1,
+      "authoredStillInterval": [
+        194.5,
+        196
+      ],
+      "heartStopSeconds": 194.5,
+      "resonanceEndSeconds": 195.92,
+      "encodedSilenceCheckStart": 195.95499999999998,
+      "silentTailPeakDBFS": "-inf"
+    },
+    {
+      "file": "heartbeat-v12-1080p.mp4",
+      "bytes": 150086773,
+      "sha256": "d167d11a75a3dbb9438e07de52dc9a00a9788d50afca59f48d3fe6553e252642",
+      "width": 1920,
+      "height": 1080,
+      "frames": 5880,
+      "fps": 30,
+      "uniqueFrameHashes": 5880,
+      "maxRepeatedFrames": 1,
+      "maxActiveRepeatedFrames": 1,
+      "authoredStillInterval": [
+        194.5,
+        196
+      ],
+      "heartStopSeconds": 194.5,
+      "resonanceEndSeconds": 195.92,
+      "encodedSilenceCheckStart": 195.95499999999998,
+      "silentTailPeakDBFS": "-inf"
+    }
+  ],
+  "duration": 196,
+  "video": "H.264 / yuv420p / limited BT.709",
+  "audio": {
+    "codec": "AAC",
+    "sampleRate": 48000,
+    "channels": 2,
+    "integratedLUFS": -17.31,
+    "truePeakDBTP": -2,
+    "loudnessRangeLU": 9.4,
+    "heartStopSeconds": 194.5,
+    "resonanceEndSeconds": 195.92
+  },
+  "extractedNative4KFrames": 102,
+  "offlineFilePlayer": true,
+  "playback": {
+    "advancedToSeconds": 2.501826,
+    "totalVideoFrames": 81,
+    "droppedVideoFrames": 2
+  },
+  "native4KSeek": true,
+  "chapterSeeks": [
+    {
+      "chapter": "发生",
+      "seek": 0,
+      "passed": true
+    },
+    {
+      "chapter": "日子",
+      "seek": 9,
+      "passed": true
+    },
+    {
+      "chapter": "奔赴",
+      "seek": 29,
+      "passed": true
+    },
+    {
+      "chapter": "彼此",
+      "seek": 47,
+      "passed": true
+    },
+    {
+      "chapter": "迷途",
+      "seek": 63,
+      "passed": true
+    },
+    {
+      "chapter": "空白",
+      "seek": 121,
+      "passed": true
+    },
+    {
+      "chapter": "日常",
+      "seek": 131,
+      "passed": true
+    },
+    {
+      "chapter": "留下",
+      "seek": 173,
+      "passed": true
+    },
+    {
+      "chapter": "心跳",
+      "seek": 182,
+      "passed": true
+    }
+  ],
+  "pageErrors": [],
+  "note": "Technical validation and decoded visual samples. The picture and heartbeat stop at 194.5s; only a musical high-frequency resonance decays until 195.92s. Encoded complete silence is checked after the AAC boundary allowance. Preceding motion remains validated. This does not certify artistic quality or subjective listening."
+}

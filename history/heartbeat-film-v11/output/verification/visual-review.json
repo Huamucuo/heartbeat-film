@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "artifact": "heartbeat-v11-4k.mp4",
+  "sha256": "d9a1c252462efed5c6d5dd0cb343a23a2cf69a92b828794c0a6ce1e7a08bd8cd",
+  "scope": "Visual review of 99 frames decoded from the final full 4K MP4 as eight contact sheets and four boundary sheets; additional independent review of 15 final-master decoded frames. This is sampled visual review, not continuous normal-speed viewing or listening.",
+  "summary": "查看了完整母版的 99 张解码样帧及转场联系图；独立复核另查 15 个最终母版时间点。所查画面未见闪白、黑帧、残片或字幕裁切。九组生活物件折为波形，180.6 秒汇成完整 ECG，182 秒交接位置与亮度连贯。179 秒左端仍有短暂局部叠线。",
+  "independentReviewer": "/root/heartbeat_v08_review",
+  "independentTimes": [129.966667, 130, 130.033333, 143.5, 157.5, 175.5, 176.5, 178.6, 179, 180.6, 181.966667, 182, 182.033333, 188, 195],
+  "findings": [
+    {"time": [129.966667, 130.033333], "severity": "checked", "description": "Composition, brightness and subtitle continuity retained across the assembly point."},
+    {"time": [143.5, 157.5], "severity": "resolved", "description": "Vehicles pass the edge mask as complete occluded images; earlier floating wheels and windows were not seen."},
+    {"time": [175.5, 180.6], "severity": "checked", "description": "Objects visibly compress into waveform segments and join the ending ECG without an object opacity exit."},
+    {"time": 179, "severity": "minor", "description": "Brief local overlap remains at the left side during convergence. At 180.6 seconds no residual fragments or gaps are visible."},
+    {"time": [181.966667, 182.033333], "severity": "checked", "description": "ECG position, width and brightness are continuous in the before, at and after handoff samples."},
+    {"time": [188, 195], "severity": "checked", "description": "Title, ECG and closing copy remain inside the frame with no sampled clipping."}
+  ],
+  "critical": 0,
+  "important": 0,
+  "subjectiveFullPlayback": false,
+  "subjectiveListening": false,
+  "limitations": ["Decoded-frame sampling cannot certify full motion quality, subjective musical quality or perceptual audiovisual sync.", "The nine-scene layout makes each object smaller than a close-up; models and folding remain deliberately stylized."]
+}

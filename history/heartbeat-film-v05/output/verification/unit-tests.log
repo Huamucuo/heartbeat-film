@@ -1,0 +1,12 @@
+✔ Visible days advance at the score beat and remain consistent after seeking (3.9203ms)
+✔ Each irregular walk returns to the same origin before its counter increments (1.6463ms)
+✔ The three walks are visibly different and turn across both axes (0.7309ms)
+✔ Absolute-time seeking is finite, bounded and continuous at departures and arrivals (4.9355ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 257.2137

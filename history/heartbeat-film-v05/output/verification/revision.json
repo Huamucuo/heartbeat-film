@@ -1,0 +1,78 @@
+{
+  "preservedFrames": [
+    {
+      "time": 3.5,
+      "sha256": "5674d55373bbc9cffd7109e3283894236138d4dc1755018a561f312d201e31c0"
+    },
+    {
+      "time": 7,
+      "sha256": "3eb662fdf01ddf006cc102695eb2de517837b96c29705498bd3a3ae8dda0297f"
+    },
+    {
+      "time": 9,
+      "sha256": "29fbafd5aea121bb0056bca12181b5d66d1035dcb4f11d5d90618a41919e1203"
+    },
+    {
+      "time": 18.5,
+      "sha256": "adab10b985790f48d1db775067ef58ed0943aff09f23b998c088947b173e7863"
+    },
+    {
+      "time": 22,
+      "sha256": "997957ff4768349f6419d904cb929e48bc70d9fbb5bcd09036df738a5f07022b"
+    },
+    {
+      "time": 28,
+      "sha256": "b3fdf1832a822407d10b30b90331cad746b31a84ea710952040fdbdaac9360fd"
+    },
+    {
+      "time": 32,
+      "sha256": "bdcb8fd9558a3d6619ad4c3a68caedd3eb0dfea1b20498016ede48bd6bf34133"
+    },
+    {
+      "time": 36,
+      "sha256": "96baa9cf036f15d5126912c1686bcff38b970a62ed08507f10fa93d1539f1fe8"
+    },
+    {
+      "time": 37.25,
+      "sha256": "8b34c76e5ed88453c44d7fb03a98952ce7da3360d34f49ba7268a0559fdc4a83"
+    }
+  ],
+  "dateOnlyChanges": [
+    {
+      "time": 12,
+      "inside": 333,
+      "outside": 0
+    },
+    {
+      "time": 15,
+      "inside": 540,
+      "outside": 0
+    }
+  ],
+  "seedContinuity": [
+    {
+      "time": 55,
+      "distance": 2.7154671932193188e-8
+    },
+    {
+      "time": 57.5,
+      "distance": 0.0000044001599915550235
+    },
+    {
+      "time": 59.375,
+      "distance": 0.0000811529629182097
+    }
+  ],
+  "motionSheets": [
+    "motion-walks-sheet-1.png",
+    "motion-walks-sheet-2.png",
+    "motion-walks-sheet-3.png",
+    "motion-handoff-sheet-1.png",
+    "motion-handoff-sheet-2.png",
+    "motion-handoff-sheet-3.png",
+    "motion-voices-sheet-1.png",
+    "motion-voices-sheet-2.png"
+  ],
+  "errors": [],
+  "passed": true
+}

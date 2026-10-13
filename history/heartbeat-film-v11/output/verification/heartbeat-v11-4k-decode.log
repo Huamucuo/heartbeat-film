@@ -1,0 +1,35 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '${WORKSPACE}\heartbeat-film-v11\output\heartbeat-v11-4k.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : 心跳 / Heartbeat — 活着的意义
+    encoder         : Lavf61.7.100
+    comment         : Original composition. Piano samples: Salamander Grand Piano v3 by Alexander Holm, CC BY 3.0. Resampled, filtered and mixed.
+  Duration: 00:03:16.00, start: 0.000000, bitrate: 33401 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 33103 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 288 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> rawvideo (native))
+Output #0, framemd5, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : 心跳 / Heartbeat — 活着的意义
+    comment         : Original composition. Piano samples: Salamander Grand Piano v3 by Alexander Holm, CC BY 3.0. Resampled, filtered and mixed.
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: rawvideo (I420 / 0x30323449), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 2985984 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 rawvideo
+[out#0/framemd5 @ 0000016efc21e200] video:71442000KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 5880 fps= 61 q=-0.0 Lsize=     460KiB time=00:03:16.00 bitrate=  19.2kbits/s speed=2.04x    

@@ -1,0 +1,82 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "errors": [],
+  "frames": [
+    {
+      "time": 12,
+      "name": "t12-000.png",
+      "chapter": 1
+    },
+    {
+      "time": 12.625,
+      "name": "t12-625.png",
+      "chapter": 1
+    },
+    {
+      "time": 15,
+      "name": "t15-000.png",
+      "chapter": 1
+    },
+    {
+      "time": 41,
+      "name": "t41-000.png",
+      "chapter": 4
+    },
+    {
+      "time": 46.875,
+      "name": "t46-875.png",
+      "chapter": 4
+    },
+    {
+      "time": 51,
+      "name": "t51-000.png",
+      "chapter": 5
+    },
+    {
+      "time": 55.8,
+      "name": "t55-800.png",
+      "chapter": 5
+    },
+    {
+      "time": 57.5,
+      "name": "t57-500.png",
+      "chapter": 6
+    },
+    {
+      "time": 64.5,
+      "name": "t64-500.png",
+      "chapter": 6
+    },
+    {
+      "time": 69,
+      "name": "t69-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 74,
+      "name": "t74-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 74.625,
+      "name": "t74-625.png",
+      "chapter": 7
+    },
+    {
+      "time": 78,
+      "name": "t78-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 83,
+      "name": "t83-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 86,
+      "name": "t86-000.png",
+      "chapter": 8
+    }
+  ]
+}

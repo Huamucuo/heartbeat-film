@@ -1,0 +1,30 @@
+{
+  "created": "2026-10-11T07:17:09.085Z",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "method": "absolute source time -> WebGL canvas PNG -> FFmpeg image pipe",
+  "clips": [
+    {
+      "id": "01-emergence",
+      "title": "痕迹成为材料",
+      "start": 17.5,
+      "end": 22.5,
+      "frames": 150,
+      "output": "01-emergence.mp4",
+      "renderSeconds": 36.349,
+      "bytes": 2492167
+    },
+    {
+      "id": "02-answer",
+      "title": "等待之后，回声返回",
+      "start": 55,
+      "end": 65,
+      "frames": 300,
+      "output": "02-answer.mp4",
+      "renderSeconds": 74.154,
+      "bytes": 5276645
+    }
+  ],
+  "audioRemastered": "2026-10-11T07:22:48.052Z"
+}

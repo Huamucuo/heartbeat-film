@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "theme": "活着的意义",
+  "videos": [
+    {
+      "file": "heartbeat-v07-4k.mp4",
+      "bytes": 346871729,
+      "sha256": "4a2644c9cfc7231e1500f4034ef52a72030144305d10160af140ab1c1f1e0e1e",
+      "width": 3840,
+      "height": 2160,
+      "frames": 2700,
+      "fps": 30,
+      "uniqueFrameHashes": 2700,
+      "maxRepeatedFrames": 1
+    },
+    {
+      "file": "heartbeat-v07-1080p.mp4",
+      "bytes": 90266010,
+      "sha256": "73addbf3362273116e5dc9001737a93e0e30408e4b66b6b7499b9ba572526ba3",
+      "width": 1920,
+      "height": 1080,
+      "frames": 2700,
+      "fps": 30,
+      "uniqueFrameHashes": 2700,
+      "maxRepeatedFrames": 1
+    }
+  ],
+  "duration": 90,
+  "video": "H.264 / yuv420p / limited BT.709",
+  "audio": {
+    "codec": "AAC",
+    "sampleRate": 48000,
+    "channels": 2,
+    "integratedLUFS": -15.62,
+    "truePeakDBTP": -1.9,
+    "loudnessRangeLU": 10.9
+  },
+  "extractedNative4KFrames": 73,
+  "offlineFilePlayer": true,
+  "playback": {
+    "advancedToSeconds": 2.505882,
+    "totalVideoFrames": 80,
+    "droppedVideoFrames": 0
+  },
+  "native4KSeek": true,
+  "chapterSeeks": [
+    {
+      "chapter": "发生",
+      "seek": 0,
+      "passed": true
+    },
+    {
+      "chapter": "重复",
+      "seek": 7.5,
+      "passed": true
+    },
+    {
+      "chapter": "奔赴",
+      "seek": 17.5,
+      "passed": true
+    },
+    {
+      "chapter": "彼此",
+      "seek": 27.5,
+      "passed": true
+    },
+    {
+      "chapter": "循环",
+      "seek": 37.5,
+      "passed": true
+    },
+    {
+      "chapter": "空白",
+      "seek": 47.5,
+      "passed": true
+    },
+    {
+      "chapter": "追问",
+      "seek": 57.5,
+      "passed": true
+    },
+    {
+      "chapter": "回声",
+      "seek": 67.5,
+      "passed": true
+    },
+    {
+      "chapter": "心跳",
+      "seek": 80,
+      "passed": true
+    }
+  ],
+  "pageErrors": [],
+  "note": "Technical validation and decoded visual samples; does not certify artistic quality or subjective listening."
+}

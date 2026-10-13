@@ -1,0 +1,22 @@
+{
+  "seconds": 196,
+  "sampleRate": 48000,
+  "samples": 9408000,
+  "channels": 2,
+  "events": 968,
+  "peakDbFS": -1.7598299773784019,
+  "rmsDbFS": -20.467666897931892,
+  "gain": 2.5,
+  "seed": 261012,
+  "stems": [
+    "pulse",
+    "melody",
+    "harmony",
+    "percussion",
+    "detail"
+  ],
+  "sampleLibrary": "Salamander Grand Piano v3 / Alexander Holm / CC BY 3.0",
+  "processing": "Retuned per upstream data, attack-aligned, pitch-resampled, low-pass filtered, enveloped, original composition, room reverb.",
+  "scoreSha256": "274a1d9ce5a4b1c9da84872128ada50f1c0192bab157c6a6e5ce28cef1052f9d",
+  "listening": "Numerical verification only; no subjective listening claim."
+}

@@ -1,0 +1,4717 @@
+{
+  "errors": [],
+  "determinism": [
+    {
+      "time": 3.5,
+      "sha256": "5f4e1f12b6e9108dbc24de84fc3e56501e811375e0a19022e2d525d6060c6d63",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 14,
+      "sha256": "9c040d4d3bd14e8cc45f095f88d8b621e60a78ed416f9c3e3477a7fb8a44c51a",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 24,
+      "sha256": "db4e503cd1de8beecf4f3452e052aa4e0d31c3d2e0b29853009b666851d5c269",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 35,
+      "sha256": "e6a546833867fad7b08c57ba490b79d0a710bd9f8992cfb84b9356b95d3d618a",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 54,
+      "sha256": "396e11eeb0c7f7089c1ee376b21a10e4cf02b683f246f7d25ff2bc032a2af3e2",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 61.5,
+      "sha256": "ca5915d9a8d2e005057e6617a6e3396e74cba441d6f31e94723cfcfa1bdd38ef",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 63,
+      "sha256": "8d99564f41dbdbfc9219f4be4e7872560d2e129821db2317c0842fe3f5dfc4c7",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 66,
+      "sha256": "836b74d1115f3286909f21485b6e0d22c6d2e4eeea61482ab20c10f8c9a7b268",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 68,
+      "sha256": "b603f599022ff9b0d7a26977424d7fc2cd797c6a8b787fc37510028b9f0bd23c",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 82,
+      "sha256": "57760a4d8ef958c66db7a95f66d65e820a0f39d9d8a8e30a7221bd8e49a430bd",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 95,
+      "sha256": "256bec1514b3f9e2318de77ef5fa718557ed6de5e9452941999ed445f9fe512a",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 110,
+      "sha256": "3f1f7e9a13c9e6ed16e39d1bd92b97f87e10910d83f7ad063120995990b7fea8",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 118.5,
+      "sha256": "8909bfb7a2423115143d66698d5d8e310063ade94bb1705e87887b31e4a152a5",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 120.75,
+      "sha256": "fac6e12e62f6c3aff31e00cd4537360164e61856e14c0c6203240549ae7a9374",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 127,
+      "sha256": "b4dba2d51a60832b817c5f311e526d0d58ddcd3fb15ffcb58822ec250306130c",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 132,
+      "sha256": "3b3cd905e14422883267f872abab987c24e412a405db99bb43fd3dad8943e267",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 136,
+      "sha256": "71ad3620a25345a6cdf2b502e6297221d2094fc92ad6942eacb89744aea95b5c",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 143,
+      "sha256": "9b9f8a9b4fbff34df970e8a03607ac2524f2c8d8fbd9fb1f9994aaa8e06c0710",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 148,
+      "sha256": "637613e983f817fe64d5348e64d8ce7a432eee30d786e8c0f3aca8273886ebc3",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 156,
+      "sha256": "7cb5fb32ed48ed382e2dafbeff2e223a2c06779b524c758918b046a77eaaff80",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 164,
+      "sha256": "a621ddbb7a5a8e673ebcae9b9fbdaeae9430f51eb5325d2592f2869ec14d797e",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 171,
+      "sha256": "cfd1bbdc3cdfa67e2d9015ddc6fe80a2465e38c7ad87e860626888bab813e6d3",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 175,
+      "sha256": "6840a43b1125469a16bba0ec000e8701a1c93c0c4c6fe9bb690eb832ad640387",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 179,
+      "sha256": "d16b7effb2fdf3a294b9f3b6f1aa0f6e4a2349ee770dccd5e8677fe558dbc44a",
+      "identical": false,
+      "validation": "raster-tolerance",
+      "pixelDifference": {
+        "mean": 0.000003054269547325103,
+        "max": 1,
+        "changedPixels": 12,
+        "totalPixels": 2073600,
+        "aboveTwoChannels": 0,
+        "aboveTwoOutsideCityLine": 0
+      }
+    },
+    {
+      "time": 181.5,
+      "sha256": "6b5fb83f025daee05f6c8b04ac17b575f39fbc7f703dc0c32d788c61a5c0bc90",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 182,
+      "sha256": "a37d454e4f906cde9871f4eac4b7f9f23eea6f9601ddfdb9057b2466769240cd",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 186,
+      "sha256": "c55d8f63b11dc51ecbf44d6d5b48a9a5193b68f0ecabb29bd98b7629039659ad",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 191,
+      "sha256": "ee785ec2c97b94ee36b2b33530908dd12a66961829e9afd31ff22e98f65a7df4",
+      "identical": false,
+      "validation": "raster-tolerance",
+      "pixelDifference": {
+        "mean": 4.822530864197531e-7,
+        "max": 1,
+        "changedPixels": 3,
+        "totalPixels": 2073600,
+        "aboveTwoChannels": 0,
+        "aboveTwoOutsideCityLine": 0
+      }
+    },
+    {
+      "time": 192.89,
+      "sha256": "e5c7a3a04f118f71e02581694187a7487b080013c23588daa7e7b6bbf1bd2901",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 193.3,
+      "sha256": "6681854ff01856adc01aea96856de339a3fba2aabdfc7c6f8725b94b215cba53",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 194.1,
+      "sha256": "46260fb8ca3cdb98dddd1e8dc5ab4c92ae016807dc2e2c4b0dabda30f6e3bab0",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 194.5,
+      "sha256": "ec4088a01560a716f1135d7783909705b9c3ca9ff89d6f6ad00be8776e0b7a9f",
+      "identical": true,
+      "validation": "exact"
+    },
+    {
+      "time": 195,
+      "sha256": "e42ac1cdf8ef526e6e03e57234fbf9167e0b8d9bf89eb5f95cc2cccd96868514",
+      "identical": true,
+      "validation": "exact"
+    }
+  ],
+  "boundaries": [
+    {
+      "time": 2,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0013657407407407407,
+        "max": 5,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00008740612246270112,
+          "max": 4,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.39761574074074074,
+        "max": 228,
+        "changedFraction": 0.0060185185185185185,
+        "outsideCounter": {
+          "mean": 0.04738084192266575,
+          "max": 214,
+          "changedFraction": 0.0006858018839381165
+        }
+      }
+    },
+    {
+      "time": 4,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0022569444444444442,
+        "max": 7,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0005715015699484304,
+          "max": 5,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7865682870370371,
+        "max": 229,
+        "changedFraction": 0.010532407407407407,
+        "outsideCounter": {
+          "mean": 0.21241032468012722,
+          "max": 225,
+          "changedFraction": 0.0016943340662000524
+        }
+      }
+    },
+    {
+      "time": 7.56,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.007037037037037037,
+        "max": 9,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.004377029671016802,
+          "max": 4,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.380590277777778,
+        "max": 217,
+        "changedFraction": 0.042152777777777775,
+        "outsideCounter": {
+          "mean": 1.416248125811028,
+          "max": 211,
+          "changedFraction": 0.02425183720945869
+        }
+      }
+    },
+    {
+      "time": 9,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.012517361111111111,
+        "max": 9,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.011645184931184488,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 5.347175925925926,
+        "max": 235,
+        "changedFraction": 0.10230324074074074,
+        "outsideCounter": {
+          "mean": 4.8454995932253535,
+          "max": 235,
+          "changedFraction": 0.0930875204227767
+        }
+      }
+    },
+    {
+      "time": 10,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.010081018518518519,
+        "max": 8,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.009466755417498706,
+          "max": 8,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 4.884322916666667,
+        "max": 216,
+        "changedFraction": 0.08624421296296296,
+        "outsideCounter": {
+          "mean": 4.71857917986163,
+          "max": 216,
+          "changedFraction": 0.08202056060942238
+        }
+      }
+    },
+    {
+      "time": 14,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0069791666666666665,
+        "max": 8,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0066294182114017925,
+          "max": 8,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.52953125,
+        "max": 215,
+        "changedFraction": 0.03511574074074074,
+        "outsideCounter": {
+          "mean": 2.4700028911255894,
+          "max": 215,
+          "changedFraction": 0.03496244898508045
+        }
+      }
+    },
+    {
+      "time": 14.625,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.006672453703703704,
+        "max": 11,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.006125152120270825,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.6017650462962965,
+        "max": 216,
+        "changedFraction": 0.03646412037037037,
+        "outsideCounter": {
+          "mean": 2.534542227242471,
+          "max": 216,
+          "changedFraction": 0.03587012794911619
+        }
+      }
+    },
+    {
+      "time": 23,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0060648148148148145,
+        "max": 8,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.005768804082538274,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.625150462962963,
+        "max": 237,
+        "changedFraction": 0.03740162037037037,
+        "outsideCounter": {
+          "mean": 2.460280640888584,
+          "max": 234,
+          "changedFraction": 0.03637439404024716
+        }
+      }
+    },
+    {
+      "time": 29,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.01068287037037037,
+        "max": 9,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.009486926061143944,
+          "max": 9,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 4.3074710648148145,
+        "max": 194,
+        "changedFraction": 0.06976851851851852,
+        "outsideCounter": {
+          "mean": 3.933362916944013,
+          "max": 194,
+          "changedFraction": 0.06363165715284641
+        }
+      }
+    },
+    {
+      "time": 33,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.02527199074074074,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.023545864681875334,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 4.5604456018518515,
+        "max": 130,
+        "changedFraction": 0.09760416666666667,
+        "outsideCounter": {
+          "mean": 4.26686433897439,
+          "max": 130,
+          "changedFraction": 0.09016277709421708
+        }
+      }
+    },
+    {
+      "time": 39,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.009398148148148149,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.009574332183606645,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.6027835648148148,
+        "max": 113,
+        "changedFraction": 0.02763888888888889,
+        "outsideCounter": {
+          "mean": 1.6610188864459998,
+          "max": 113,
+          "changedFraction": 0.029173474258896936
+        }
+      }
+    },
+    {
+      "time": 43,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.009652777777777777,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.010004639248038405,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.148292824074074,
+        "max": 112,
+        "changedFraction": 0.039108796296296294,
+        "outsideCounter": {
+          "mean": 2.226617181354257,
+          "max": 112,
+          "changedFraction": 0.04124896625451318
+        }
+      }
+    },
+    {
+      "time": 47,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.011950231481481482,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.011134195292171772,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 3.2724247685185186,
+        "max": 124,
+        "changedFraction": 0.059363425925925924,
+        "outsideCounter": {
+          "mean": 3.1096543424033993,
+          "max": 124,
+          "changedFraction": 0.05664589090371207
+        }
+      }
+    },
+    {
+      "time": 55,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0056307870370370374,
+        "max": 18,
+        "changedFraction": 0.00001736111111111111,
+        "outsideCounter": {
+          "mean": 0.005049384459191426,
+          "max": 17,
+          "changedFraction": 0.00000672354788174624
+        }
+      },
+      "frameStep": {
+        "mean": 2.4622743055555554,
+        "max": 140,
+        "changedFraction": 0.03714699074074074,
+        "outsideCounter": {
+          "mean": 2.0306661018886447,
+          "max": 140,
+          "changedFraction": 0.03093504380391445
+        }
+      }
+    },
+    {
+      "time": 61.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.005966435185185185,
+        "max": 17,
+        "changedFraction": 0.000011574074074074073,
+        "outsideCounter": {
+          "mean": 0.005546927002440648,
+          "max": 17,
+          "changedFraction": 0.00001344709576349248
+        }
+      },
+      "frameStep": {
+        "mean": 2.61990162037037,
+        "max": 144,
+        "changedFraction": 0.041747685185185186,
+        "outsideCounter": {
+          "mean": 2.1563830001815356,
+          "max": 144,
+          "changedFraction": 0.03492210769778997
+        }
+      }
+    },
+    {
+      "time": 63,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00003472222222222222,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00004034128729047744,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.02409722222222222,
+        "max": 193,
+        "changedFraction": 0.00017361111111111112,
+        "outsideCounter": {
+          "mean": 0.01800566122731643,
+          "max": 193,
+          "changedFraction": 0.0002017064364523872
+        }
+      }
+    },
+    {
+      "time": 66,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0,
+        "max": 0,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.11140625,
+        "max": 43,
+        "changedFraction": 0.0015277777777777779,
+        "outsideCounter": {
+          "mean": 0.0676725094297759,
+          "max": 31,
+          "changedFraction": 0.0003899657771412819
+        }
+      }
+    },
+    {
+      "time": 66.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.000046296296296296294,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00005378838305396992,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.04012731481481482,
+        "max": 136,
+        "changedFraction": 0.00006944444444444444,
+        "outsideCounter": {
+          "mean": 0.0307535080111073,
+          "max": 3,
+          "changedFraction": 0
+        }
+      }
+    },
+    {
+      "time": 76,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0009606481481481482,
+        "max": 11,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.06225115740740741,
+        "max": 185,
+        "changedFraction": 0.0011458333333333333,
+        "outsideCounter": {
+          "mean": 0.005217473156235082,
+          "max": 6,
+          "changedFraction": 0
+        }
+      }
+    },
+    {
+      "time": 88,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0001273148148148148,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00002017064364523872,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.07158564814814815,
+        "max": 137,
+        "changedFraction": 0.0011111111111111111,
+        "outsideCounter": {
+          "mean": 0.02628234866974605,
+          "max": 110,
+          "changedFraction": 0.0003899657771412819
+        }
+      }
+    },
+    {
+      "time": 94,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00019097222222222223,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00014119450551667103,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.07434606481481482,
+        "max": 168,
+        "changedFraction": 0.0008738425925925926,
+        "outsideCounter": {
+          "mean": 0.050440056208860294,
+          "max": 138,
+          "changedFraction": 0.0006858018839381165
+        }
+      }
+    },
+    {
+      "time": 98,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00014467592592592592,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00008740612246270112,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.1299537037037037,
+        "max": 123,
+        "changedFraction": 0.001591435185185185,
+        "outsideCounter": {
+          "mean": 0.0940624348656299,
+          "max": 123,
+          "changedFraction": 0.001122832496251622
+        }
+      }
+    },
+    {
+      "time": 104,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0004050925925925926,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00015464160128016353,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.2547916666666667,
+        "max": 164,
+        "changedFraction": 0.003449074074074074,
+        "outsideCounter": {
+          "mean": 0.17198163126718707,
+          "max": 118,
+          "changedFraction": 0.0021986001573310204
+        }
+      }
+    },
+    {
+      "time": 107,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00038194444444444446,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0003227302983238195,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.27826388888888887,
+        "max": 146,
+        "changedFraction": 0.003420138888888889,
+        "outsideCounter": {
+          "mean": 0.2213526433628497,
+          "max": 146,
+          "changedFraction": 0.002635630769644526
+        }
+      }
+    },
+    {
+      "time": 118,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0013483796296296297,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0009614673470897123,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.6383449074074075,
+        "max": 128,
+        "changedFraction": 0.009033564814814815,
+        "outsideCounter": {
+          "mean": 0.5030222347728449,
+          "max": 128,
+          "changedFraction": 0.00629324081731448
+        }
+      }
+    },
+    {
+      "time": 120.9,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0017418981481481482,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001371603767876233,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7579861111111111,
+        "max": 133,
+        "changedFraction": 0.010474537037037037,
+        "outsideCounter": {
+          "mean": 0.6143238464072722,
+          "max": 115,
+          "changedFraction": 0.007859827473761355
+        }
+      }
+    },
+    {
+      "time": 121,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.002332175925925926,
+        "max": 6,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0008942318682722499,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.8327025462962963,
+        "max": 124,
+        "changedFraction": 0.012100694444444445,
+        "outsideCounter": {
+          "mean": 0.6304536377755814,
+          "max": 124,
+          "changedFraction": 0.008041363266568503
+        }
+      }
+    },
+    {
+      "time": 124.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0016898148148148148,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0013850508636397254,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9410879629629629,
+        "max": 118,
+        "changedFraction": 0.013721064814814814,
+        "outsideCounter": {
+          "mean": 0.8182557772085174,
+          "max": 118,
+          "changedFraction": 0.01178637943670116
+        }
+      }
+    },
+    {
+      "time": 125,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0022511574074074074,
+        "max": 7,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001653992778909575,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0012094907407407,
+        "max": 144,
+        "changedFraction": 0.014652777777777778,
+        "outsideCounter": {
+          "mean": 0.8161513067215308,
+          "max": 119,
+          "changedFraction": 0.01092576530783764
+        }
+      }
+    },
+    {
+      "time": 125.6,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0028587962962962963,
+        "max": 4,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0017817401886627536,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0584606481481482,
+        "max": 151,
+        "changedFraction": 0.016087962962962964,
+        "outsideCounter": {
+          "mean": 0.8688504750186579,
+          "max": 151,
+          "changedFraction": 0.012115833282906724
+        }
+      }
+    },
+    {
+      "time": 130.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0003414351851851852,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00034290094196905824,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.21630208333333334,
+        "max": 153,
+        "changedFraction": 0.0006134259259259259,
+        "outsideCounter": {
+          "mean": 0.18499169641836605,
+          "max": 37,
+          "changedFraction": 0.000504266091130968
+        }
+      }
+    },
+    {
+      "time": 131.25,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0001273148148148148,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0001008532182261936,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5780844907407408,
+        "max": 52,
+        "changedFraction": 0.0008738425925925926,
+        "outsideCounter": {
+          "mean": 0.5531933490664354,
+          "max": 52,
+          "changedFraction": 0.0005782251178301766
+        }
+      }
+    },
+    {
+      "time": 131,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00019097222222222223,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00020842998433413343,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.8019849537037037,
+        "max": 110,
+        "changedFraction": 0.00031828703703703706,
+        "outsideCounter": {
+          "mean": 0.7753393710793312,
+          "max": 58,
+          "changedFraction": 0.00014791805339841728
+        }
+      }
+    },
+    {
+      "time": 132,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.000023148148148148147,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00002689419152698496,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.6387268518518519,
+        "max": 108,
+        "changedFraction": 0.0021643518518518518,
+        "outsideCounter": {
+          "mean": 0.6467380707451708,
+          "max": 108,
+          "changedFraction": 0.002245664992503244
+        }
+      }
+    },
+    {
+      "time": 134,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00008101851851851852,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00008068257458095487,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.10068287037037037,
+        "max": 55,
+        "changedFraction": 0.0011284722222222221,
+        "outsideCounter": {
+          "mean": 0.0823432909077462,
+          "max": 55,
+          "changedFraction": 0.0009144025119174886
+        }
+      }
+    },
+    {
+      "time": 136,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00009259259259259259,
+        "max": 4,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00008068257458095487,
+          "max": 4,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.11132523148148148,
+        "max": 63,
+        "changedFraction": 0.0011631944444444443,
+        "outsideCounter": {
+          "mean": 0.09369263973213385,
+          "max": 63,
+          "changedFraction": 0.0008202728415730412
+        }
+      }
+    },
+    {
+      "time": 139,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.000028935185185185186,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0000336177394087312,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.08638310185185186,
+        "max": 60,
+        "changedFraction": 0.0007465277777777778,
+        "outsideCounter": {
+          "mean": 0.07296394161271019,
+          "max": 60,
+          "changedFraction": 0.0006118428572389078
+        }
+      }
+    },
+    {
+      "time": 142,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0001388888888888889,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00012774740975317857,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.26477430555555553,
+        "max": 57,
+        "changedFraction": 0.0036747685185185186,
+        "outsideCounter": {
+          "mean": 0.2482938997250069,
+          "max": 57,
+          "changedFraction": 0.003281091366292165
+        }
+      }
+    },
+    {
+      "time": 146,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00009259259259259259,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00007395902669920864,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.11793402777777778,
+        "max": 47,
+        "changedFraction": 0.00109375,
+        "outsideCounter": {
+          "mean": 0.11001741398901373,
+          "max": 47,
+          "changedFraction": 0.0010421499216706671
+        }
+      }
+    },
+    {
+      "time": 150,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0000636574074074074,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00004706483517222368,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.11905092592592592,
+        "max": 89,
+        "changedFraction": 0.001383101851851852,
+        "outsideCounter": {
+          "mean": 0.10457806375268101,
+          "max": 89,
+          "changedFraction": 0.0011026618526063833
+        }
+      }
+    },
+    {
+      "time": 154,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00009259259259259259,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0001008532182261936,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.10753472222222223,
+        "max": 109,
+        "changedFraction": 0.0010069444444444444,
+        "outsideCounter": {
+          "mean": 0.0944860183821799,
+          "max": 109,
+          "changedFraction": 0.0008942318682722499
+        }
+      }
+    },
+    {
+      "time": 158,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0005671296296296297,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0006521841445293853,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.2833449074074074,
+        "max": 111,
+        "changedFraction": 0.002702546296296296,
+        "outsideCounter": {
+          "mean": 0.26757031150197336,
+          "max": 111,
+          "changedFraction": 0.0023465182107294375
+        }
+      }
+    },
+    {
+      "time": 162,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00013310185185185186,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00012774740975317857,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.11130208333333333,
+        "max": 60,
+        "changedFraction": 0.0011168981481481481,
+        "outsideCounter": {
+          "mean": 0.09849325291970067,
+          "max": 60,
+          "changedFraction": 0.0009681908949714586
+        }
+      }
+    },
+    {
+      "time": 166,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00005208333333333334,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00006051193093571616,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.1349826388888889,
+        "max": 100,
+        "changedFraction": 0.0015046296296296296,
+        "outsideCounter": {
+          "mean": 0.12979809185711116,
+          "max": 100,
+          "changedFraction": 0.0014186686030484565
+        }
+      }
+    },
+    {
+      "time": 170,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00007523148148148149,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00007395902669920864,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.10538773148148148,
+        "max": 62,
+        "changedFraction": 0.0011979166666666666,
+        "outsideCounter": {
+          "mean": 0.09248240111341953,
+          "max": 57,
+          "changedFraction": 0.0009480202513262199
+        }
+      }
+    },
+    {
+      "time": 173,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00028356481481481483,
+        "max": 7,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00029583610679683456,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.13951967592592593,
+        "max": 80,
+        "changedFraction": 0.0012905092592592593,
+        "outsideCounter": {
+          "mean": 0.11794447694159255,
+          "max": 46,
+          "changedFraction": 0.0009009554161539962
+        }
+      }
+    },
+    {
+      "time": 176,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.02193287037037037,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.015437265936489367,
+          "max": 13,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.6465046296296295,
+        "max": 155,
+        "changedFraction": 0.05842013888888889,
+        "outsideCounter": {
+          "mean": 2.068775171282382,
+          "max": 151,
+          "changedFraction": 0.046002514606907775
+        }
+      }
+    },
+    {
+      "time": 179,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.002853009259259259,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0007059725275833552,
+          "max": 5,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9139930555555555,
+        "max": 131,
+        "changedFraction": 0.020480324074074074,
+        "outsideCounter": {
+          "mean": 0.19593763236984893,
+          "max": 110,
+          "changedFraction": 0.0034021152281635972
+        }
+      }
+    },
+    {
+      "time": 181,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0004918981481481481,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0005378838305396991,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0039756944444445,
+        "max": 100,
+        "changedFraction": 0.02279513888888889,
+        "outsideCounter": {
+          "mean": 0.3241893082141584,
+          "max": 90,
+          "changedFraction": 0.005748633438893035
+        }
+      }
+    },
+    {
+      "time": 182,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.006689814814814815,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0024742656204826165,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.7430787037037037,
+        "max": 172,
+        "changedFraction": 0.03577546296296296,
+        "outsideCounter": {
+          "mean": 0.5909124526830318,
+          "max": 163,
+          "changedFraction": 0.0108181885417297
+        }
+      }
+    },
+    {
+      "time": 183,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.001099537037037037,
+        "max": 7,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0011564502356603533,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5262673611111112,
+        "max": 115,
+        "changedFraction": 0.008813657407407407,
+        "outsideCounter": {
+          "mean": 0.3160874330166542,
+          "max": 115,
+          "changedFraction": 0.005627609577021603
+        }
+      }
+    },
+    {
+      "time": 185,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0012905092592592593,
+        "max": 5,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0011161089483698759,
+          "max": 5,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.957505787037037,
+        "max": 140,
+        "changedFraction": 0.01920138888888889,
+        "outsideCounter": {
+          "mean": 0.47314278798636467,
+          "max": 138,
+          "changedFraction": 0.008411158400064546
+        }
+      }
+    },
+    {
+      "time": 188,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0005960648148148148,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.000645460596647639,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.26961805555555557,
+        "max": 117,
+        "changedFraction": 0.0036342592592592594,
+        "outsideCounter": {
+          "mean": 0.184171423576793,
+          "max": 117,
+          "changedFraction": 0.0022254943488580056
+        }
+      }
+    },
+    {
+      "time": 191,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00046875,
+        "max": 5,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00035634803773255074,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.48487268518518517,
+        "max": 117,
+        "changedFraction": 0.009143518518518518,
+        "outsideCounter": {
+          "mean": 0.20771728825866834,
+          "max": 117,
+          "changedFraction": 0.003536586185798522
+        }
+      }
+    },
+    {
+      "time": 194,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00011574074074074075,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00007395902669920864,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.12460069444444444,
+        "max": 96,
+        "changedFraction": 0.0010474537037037037,
+        "outsideCounter": {
+          "mean": 0.04618405039971492,
+          "max": 96,
+          "changedFraction": 0.0003697951334960432
+        }
+      }
+    },
+    {
+      "time": 194.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0,
+        "max": 0,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.06597222222222222,
+        "max": 39,
+        "changedFraction": 0.0005092592592592592,
+        "outsideCounter": {
+          "mean": 0.01846958603115692,
+          "max": 27,
+          "changedFraction": 0.00002689419152698496
+        }
+      }
+    },
+    {
+      "time": 103,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0009664351851851852,
+        "max": 10,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00024204772374286464,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.22962384259259258,
+        "max": 133,
+        "changedFraction": 0.0028125,
+        "outsideCounter": {
+          "mean": 0.18602712279215497,
+          "max": 133,
+          "changedFraction": 0.002077576295459588
+        }
+      }
+    },
+    {
+      "time": 112,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0008449074074074074,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0007126960754651015,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.39678819444444446,
+        "max": 119,
+        "changedFraction": 0.004733796296296297,
+        "outsideCounter": {
+          "mean": 0.2950158339552615,
+          "max": 119,
+          "changedFraction": 0.003341603297227881
+        }
+      }
+    },
+    {
+      "time": 129.8,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0021064814814814813,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0017884637365444998,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.037204861111111,
+        "max": 114,
+        "changedFraction": 0.015173611111111112,
+        "outsideCounter": {
+          "mean": 0.9550598059584081,
+          "max": 114,
+          "changedFraction": 0.013756378966052807
+        }
+      }
+    },
+    {
+      "time": 130,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0020891203703703705,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001936381789942917,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0369155092592592,
+        "max": 129,
+        "changedFraction": 0.015416666666666667,
+        "outsideCounter": {
+          "mean": 0.9765415414405874,
+          "max": 129,
+          "changedFraction": 0.014422010206345684
+        }
+      }
+    },
+    {
+      "time": 130.1,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0008449074074074074,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0007799315542825638,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5726157407407407,
+        "max": 162,
+        "changedFraction": 0.00629050925925926,
+        "outsideCounter": {
+          "mean": 0.5297752317943132,
+          "max": 162,
+          "changedFraction": 0.0056881215079573185
+        }
+      }
+    },
+    {
+      "time": 130.25,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0002719907407407407,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0002756654631515958,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.14250578703703703,
+        "max": 95,
+        "changedFraction": 0.0018113425925925927,
+        "outsideCounter": {
+          "mean": 0.12411669389703558,
+          "max": 95,
+          "changedFraction": 0.0016203750395008439
+        }
+      }
+    },
+    {
+      "time": 130.64,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.21354166666666666,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.20721302216753737,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.104045138888889,
+        "max": 173,
+        "changedFraction": 0.0003993055555555556,
+        "outsideCounter": {
+          "mean": 1.054581761704016,
+          "max": 26,
+          "changedFraction": 0.00029583610679683456
+        }
+      }
+    },
+    {
+      "time": 130.75,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00038773148148148147,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00041685996866826686,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.3100289351851853,
+        "max": 141,
+        "changedFraction": 0.0002199074074074074,
+        "outsideCounter": {
+          "mean": 1.2666962502773464,
+          "max": 21,
+          "changedFraction": 0.00010757676610793984
+        }
+      }
+    },
+    {
+      "time": 131.01,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0003587962962962963,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.000336177394087312,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7553703703703704,
+        "max": 128,
+        "changedFraction": 0.00044560185185185187,
+        "outsideCounter": {
+          "mean": 0.739442348938688,
+          "max": 59,
+          "changedFraction": 0.00031600675044207325
+        }
+      }
+    },
+    {
+      "time": 131.04,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00013310185185185186,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00012102386187143232,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.8482638888888889,
+        "max": 97,
+        "changedFraction": 0.0003993055555555556,
+        "outsideCounter": {
+          "mean": 0.8372565235223323,
+          "max": 61,
+          "changedFraction": 0.00030928320256032706
+        }
+      }
+    },
+    {
+      "time": 131.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00005208333333333334,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00006051193093571616,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7385127314814814,
+        "max": 98,
+        "changedFraction": 0.0025810185185185185,
+        "outsideCounter": {
+          "mean": 0.7329810194243298,
+          "max": 84,
+          "changedFraction": 0.002238941444621498
+        }
+      }
+    },
+    {
+      "time": 131.65,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0002025462962962963,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00022860062797937214,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7633275462962963,
+        "max": 115,
+        "changedFraction": 0.0036979166666666666,
+        "outsideCounter": {
+          "mean": 0.756426030887979,
+          "max": 97,
+          "changedFraction": 0.003704674882842178
+        }
+      }
+    },
+    {
+      "time": 131.9,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00020833333333333335,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00002689419152698496,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.6352488425925926,
+        "max": 111,
+        "changedFraction": 0.0026041666666666665,
+        "outsideCounter": {
+          "mean": 0.6174099548849937,
+          "max": 111,
+          "changedFraction": 0.002743207535752466
+        }
+      }
+    },
+    {
+      "time": 132.15,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.000046296296296296294,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00005378838305396992,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.12929976851851852,
+        "max": 122,
+        "changedFraction": 0.0016203703703703703,
+        "outsideCounter": {
+          "mean": 0.12166932246807996,
+          "max": 122,
+          "changedFraction": 0.0014993511776294115
+        }
+      }
+    },
+    {
+      "time": 132.6,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00004050925925925926,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00004034128729047744,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.10966435185185185,
+        "max": 92,
+        "changedFraction": 0.0011631944444444443,
+        "outsideCounter": {
+          "mean": 0.08504615715620818,
+          "max": 92,
+          "changedFraction": 0.0008942318682722499
+        }
+      }
+    },
+    {
+      "time": 133,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00016782407407407406,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00010757676610793984,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.10980324074074074,
+        "max": 105,
+        "changedFraction": 0.0012094907407407408,
+        "outsideCounter": {
+          "mean": 0.09515837317035453,
+          "max": 105,
+          "changedFraction": 0.000981637990734951
+        }
+      }
+    },
+    {
+      "time": 134.6,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00009259259259259259,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00010757676610793984,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.10157407407407408,
+        "max": 48,
+        "changedFraction": 0.001244212962962963,
+        "outsideCounter": {
+          "mean": 0.0893088865132353,
+          "max": 45,
+          "changedFraction": 0.001122832496251622
+        }
+      }
+    },
+    {
+      "time": 174.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.011336805555555555,
+        "max": 14,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.011073683361236058,
+          "max": 14,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.8209259259259258,
+        "max": 173,
+        "changedFraction": 0.03612268518518519,
+        "outsideCounter": {
+          "mean": 1.5802757999341093,
+          "max": 173,
+          "changedFraction": 0.030941767351796195
+        }
+      }
+    },
+    {
+      "time": 176.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.023234953703703702,
+        "max": 13,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.01791825510485373,
+          "max": 10,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.6719849537037037,
+        "max": 179,
+        "changedFraction": 0.05935185185185185,
+        "outsideCounter": {
+          "mean": 2.083519911787052,
+          "max": 179,
+          "changedFraction": 0.04649333360227525
+        }
+      }
+    },
+    {
+      "time": 177.4,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.015086805555555555,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.010394605025179688,
+          "max": 15,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.8391377314814814,
+        "max": 145,
+        "changedFraction": 0.04236689814814815,
+        "outsideCounter": {
+          "mean": 0.969051509100322,
+          "max": 145,
+          "changedFraction": 0.022201155105526085
+        }
+      }
+    },
+    {
+      "time": 178.2,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.007586805555555556,
+        "max": 13,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.003476074254862806,
+          "max": 13,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2212152777777778,
+        "max": 145,
+        "changedFraction": 0.02841435185185185,
+        "outsideCounter": {
+          "mean": 0.4826431611432721,
+          "max": 145,
+          "changedFraction": 0.010737505967148744
+        }
+      }
+    },
+    {
+      "time": 180.8,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0008796296296296296,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0009480202513262199,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.3706365740740741,
+        "max": 90,
+        "changedFraction": 0.0026331018518518517,
+        "outsideCounter": {
+          "mean": 0.30967316833746833,
+          "max": 64,
+          "changedFraction": 0.0011833444271873383
+        }
+      }
+    },
+    {
+      "time": 181.4,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.002916666666666667,
+        "max": 13,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0006118428572389078,
+          "max": 5,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5584259259259259,
+        "max": 86,
+        "changedFraction": 0.010972222222222222,
+        "outsideCounter": {
+          "mean": 0.2603626681727414,
+          "max": 73,
+          "changedFraction": 0.004632524490523159
+        }
+      }
+    },
+    {
+      "time": 186,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0013020833333333333,
+        "max": 7,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0011093854004881295,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.847818287037037,
+        "max": 128,
+        "changedFraction": 0.016550925925925927,
+        "outsideCounter": {
+          "mean": 0.4319139923754967,
+          "max": 128,
+          "changedFraction": 0.007644673941545475
+        }
+      }
+    },
+    {
+      "time": 189.9,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0004398148148148148,
+        "max": 5,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0002689419152698496,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.30191550925925925,
+        "max": 107,
+        "changedFraction": 0.003894675925925926,
+        "outsideCounter": {
+          "mean": 0.1578957984549287,
+          "max": 107,
+          "changedFraction": 0.0018288050238349771
+        }
+      }
+    },
+    {
+      "time": 193.5,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00008101851851851852,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00009412967034444736,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.13416666666666666,
+        "max": 100,
+        "changedFraction": 0.0015219907407407406,
+        "outsideCounter": {
+          "mean": 0.057042580228735096,
+          "max": 100,
+          "changedFraction": 0.0007059725275833552
+        }
+      }
+    },
+    {
+      "time": 193.72,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0000636574074074074,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00007395902669920864,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.1074537037037037,
+        "max": 95,
+        "changedFraction": 0.0008391203703703704,
+        "outsideCounter": {
+          "mean": 0.03957480283195837,
+          "max": 95,
+          "changedFraction": 0.0003025596546785808
+        }
+      }
+    },
+    {
+      "time": 193.78,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0001388888888888889,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00014119450551667103,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.09383680555555556,
+        "max": 78,
+        "changedFraction": 0.0005960648148148148,
+        "outsideCounter": {
+          "mean": 0.03974961507688377,
+          "max": 78,
+          "changedFraction": 0.00034290094196905824
+        }
+      }
+    },
+    {
+      "time": 193.94,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00006944444444444444,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00006051193093571616,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.1539699074074074,
+        "max": 80,
+        "changedFraction": 0.0015393518518518519,
+        "outsideCounter": {
+          "mean": 0.05679380895711049,
+          "max": 80,
+          "changedFraction": 0.0005378838305396991
+        }
+      }
+    },
+    {
+      "time": 194.2,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.000023148148148148147,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00002689419152698496,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.25928240740740743,
+        "max": 137,
+        "changedFraction": 0.002297453703703704,
+        "outsideCounter": {
+          "mean": 0.14457645010118939,
+          "max": 105,
+          "changedFraction": 0.0008673376767452649
+        }
+      }
+    },
+    {
+      "time": 194.3,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.000011574074074074073,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00000672354788174624,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.09097800925925927,
+        "max": 109,
+        "changedFraction": 0.0005960648148148148,
+        "outsideCounter": {
+          "mean": 0.02431907268827615,
+          "max": 109,
+          "changedFraction": 0.0002017064364523872
+        }
+      }
+    },
+    {
+      "time": 194.48,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.000023148148148148147,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00001344709576349248,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.09690972222222222,
+        "max": 65,
+        "changedFraction": 0.0007175925925925926,
+        "outsideCounter": {
+          "mean": 0.02078248650247763,
+          "max": 27,
+          "changedFraction": 0.0000672354788174624
+        }
+      }
+    },
+    {
+      "time": 70.54349484884776,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0,
+        "max": 0,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.02950810185185185,
+        "max": 30,
+        "changedFraction": 0.00006944444444444444,
+        "outsideCounter": {
+          "mean": 0.03104262057002239,
+          "max": 3,
+          "changedFraction": 0
+        }
+      }
+    },
+    {
+      "time": 74.75993850932264,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.000011574074074074073,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.005729166666666666,
+        "max": 23,
+        "changedFraction": 0.00003472222222222222,
+        "outsideCounter": {
+          "mean": 0.0024070301416651537,
+          "max": 2,
+          "changedFraction": 0
+        }
+      }
+    },
+    {
+      "time": 78.67296256008856,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0,
+        "max": 0,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.0019965277777777776,
+        "max": 24,
+        "changedFraction": 0.00003472222222222222,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      }
+    },
+    {
+      "time": 82.30449104432266,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0,
+        "max": 0,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.004878472222222222,
+        "max": 30,
+        "changedFraction": 0.00003472222222222222,
+        "outsideCounter": {
+          "mean": 0.003966893250230282,
+          "max": 4,
+          "changedFraction": 0
+        }
+      }
+    },
+    {
+      "time": 85.67486385027648,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.000028935185185185186,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0,
+          "max": 0,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.008206018518518519,
+        "max": 105,
+        "changedFraction": 0.0001099537037037037,
+        "outsideCounter": {
+          "mean": 0.005930169231700183,
+          "max": 40,
+          "changedFraction": 0.00006051193093571616
+        }
+      }
+    },
+    {
+      "time": 88.80295117678807,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00008101851851851852,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0000672354788174624,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.029230324074074075,
+        "max": 144,
+        "changedFraction": 0.00038194444444444446,
+        "outsideCounter": {
+          "mean": 0.02746569309693339,
+          "max": 144,
+          "changedFraction": 0.000336177394087312
+        }
+      }
+    },
+    {
+      "time": 91.70625972791514,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00007523148148148149,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00005378838305396992,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.046747685185185184,
+        "max": 126,
+        "changedFraction": 0.0005960648148148148,
+        "outsideCounter": {
+          "mean": 0.03890917159166549,
+          "max": 126,
+          "changedFraction": 0.00044375416019525185
+        }
+      }
+    },
+    {
+      "time": 94.4010312343143,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.000046296296296296294,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00004706483517222368,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.0677025462962963,
+        "max": 125,
+        "changedFraction": 0.0008738425925925926,
+        "outsideCounter": {
+          "mean": 0.05347909985140959,
+          "max": 125,
+          "changedFraction": 0.000699248979701609
+        }
+      }
+    },
+    {
+      "time": 96.90233385580895,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00011574074074074075,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0001008532182261936,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.09624421296296297,
+        "max": 109,
+        "changedFraction": 0.0012962962962962963,
+        "outsideCounter": {
+          "mean": 0.07722667096973732,
+          "max": 109,
+          "changedFraction": 0.0010421499216706671
+        }
+      }
+    },
+    {
+      "time": 99.22414697952618,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00017361111111111112,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00015464160128016353,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.13144097222222223,
+        "max": 136,
+        "changedFraction": 0.0016030092592592593,
+        "outsideCounter": {
+          "mean": 0.1113957413047717,
+          "max": 136,
+          "changedFraction": 0.0013379860284675018
+        }
+      }
+    },
+    {
+      "time": 101.37943989081603,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00022569444444444443,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00020842998433413343,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.16667824074074075,
+        "max": 151,
+        "changedFraction": 0.0019270833333333334,
+        "outsideCounter": {
+          "mean": 0.1481399304785149,
+          "max": 127,
+          "changedFraction": 0.0017279518056087836
+        }
+      }
+    },
+    {
+      "time": 103.38024475968433,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0003414351851851852,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00028238901103334207,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.20325810185185186,
+        "max": 154,
+        "changedFraction": 0.0024537037037037036,
+        "outsideCounter": {
+          "mean": 0.1829208436707882,
+          "max": 154,
+          "changedFraction": 0.0021717059658040356
+        }
+      }
+    },
+    {
+      "time": 105.23772435348039,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00047453703703703704,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00028238901103334207,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.22670717592592593,
+        "max": 161,
+        "changedFraction": 0.002673611111111111,
+        "outsideCounter": {
+          "mean": 0.19072688276149558,
+          "max": 161,
+          "changedFraction": 0.002097746939104827
+        }
+      }
+    },
+    {
+      "time": 106.96223485690193,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00044560185185185187,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.000336177394087312,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.2672974537037037,
+        "max": 147,
+        "changedFraction": 0.0033796296296296296,
+        "outsideCounter": {
+          "mean": 0.2210904249954616,
+          "max": 147,
+          "changedFraction": 0.0028171665624516745
+        }
+      }
+    },
+    {
+      "time": 108.56338415284547,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0005266203703703703,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0003899657771412819,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.2965277777777778,
+        "max": 138,
+        "changedFraction": 0.0033912037037037036,
+        "outsideCounter": {
+          "mean": 0.2548291882660642,
+          "max": 113,
+          "changedFraction": 0.002796995918806436
+        }
+      }
+    },
+    {
+      "time": 110.05008589208569,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.00044560185185185187,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0003765186813777894,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.33565972222222223,
+        "max": 137,
+        "changedFraction": 0.004016203703703704,
+        "outsideCounter": {
+          "mean": 0.2860802388204208,
+          "max": 137,
+          "changedFraction": 0.003388668132400105
+        }
+      }
+    },
+    {
+      "time": 111.43060965606817,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0004976851851851852,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0002756654631515958,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.34693287037037035,
+        "max": 130,
+        "changedFraction": 0.004201388888888889,
+        "outsideCounter": {
+          "mean": 0.26480020977469393,
+          "max": 129,
+          "changedFraction": 0.003059214286194539
+        }
+      }
+    },
+    {
+      "time": 112.71262749511374,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0006423611111111111,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00036307158561429693,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.3671527777777778,
+        "max": 136,
+        "changedFraction": 0.0045138888888888885,
+        "outsideCounter": {
+          "mean": 0.28330341354525956,
+          "max": 132,
+          "changedFraction": 0.0034088387760453434
+        }
+      }
+    },
+    {
+      "time": 113.90325710393431,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0008159722222222223,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0007194196233468477,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.41152199074074075,
+        "max": 137,
+        "changedFraction": 0.004872685185185185,
+        "outsideCounter": {
+          "mean": 0.3533493353772919,
+          "max": 130,
+          "changedFraction": 0.00425600580914537
+        }
+      }
+    },
+    {
+      "time": 115.00910187743654,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0007175925925925926,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0005782251178301766,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.41725694444444444,
+        "max": 146,
+        "changedFraction": 0.005023148148148148,
+        "outsideCounter": {
+          "mean": 0.3456172553132837,
+          "max": 109,
+          "changedFraction": 0.004007234537520759
+        }
+      }
+    },
+    {
+      "time": 116.03628807223275,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0007465277777777778,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0005109896390127143,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.4687384259259259,
+        "max": 134,
+        "changedFraction": 0.005462962962962963,
+        "outsideCounter": {
+          "mean": 0.407742837740619,
+          "max": 133,
+          "changedFraction": 0.004719930612985861
+        }
+      }
+    },
+    {
+      "time": 116.99049928299058,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0009143518518518518,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0005916722135936691,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5294444444444445,
+        "max": 137,
+        "changedFraction": 0.006631944444444445,
+        "outsideCounter": {
+          "mean": 0.46017306412247616,
+          "max": 133,
+          "changedFraction": 0.0056881215079573185
+        }
+      }
+    },
+    {
+      "time": 117.87700842764188,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0010706018518518519,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0009614673470897123,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5295601851851852,
+        "max": 126,
+        "changedFraction": 0.006354166666666667,
+        "outsideCounter": {
+          "mean": 0.5001176620879305,
+          "max": 126,
+          "changedFraction": 0.0059906811626359
+        }
+      }
+    },
+    {
+      "time": 118.70070742145187,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0011284722222222221,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0009547437992079661,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5538425925925926,
+        "max": 128,
+        "changedFraction": 0.0064293981481481485,
+        "outsideCounter": {
+          "mean": 0.4650476363367422,
+          "max": 128,
+          "changedFraction": 0.005358667661751753
+        }
+      }
+    },
+    {
+      "time": 119.4661347069435,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0012094907407407408,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0008740612246270112,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.5998032407407408,
+        "max": 116,
+        "changedFraction": 0.0071875,
+        "outsideCounter": {
+          "mean": 0.5009984468604393,
+          "max": 116,
+          "changedFraction": 0.0057956982740652585
+        }
+      }
+    },
+    {
+      "time": 120.17750079460555,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0012037037037037038,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001062320565315906,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.6743634259259259,
+        "max": 153,
+        "changedFraction": 0.008153935185185186,
+        "outsideCounter": {
+          "mean": 0.5599303440439451,
+          "max": 118,
+          "changedFraction": 0.006582353376229569
+        }
+      }
+    },
+    {
+      "time": 120.83871195811808,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0015972222222222223,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0014186686030484565,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7105671296296296,
+        "max": 131,
+        "changedFraction": 0.009444444444444445,
+        "outsideCounter": {
+          "mean": 0.6253706355769812,
+          "max": 131,
+          "changedFraction": 0.008370817112774069
+        }
+      }
+    },
+    {
+      "time": 121.4533922174436,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0014293981481481482,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0011900679750690845,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7309490740740741,
+        "max": 121,
+        "changedFraction": 0.0096875,
+        "outsideCounter": {
+          "mean": 0.6191984186215382,
+          "max": 121,
+          "changedFraction": 0.008014469075041518
+        }
+      }
+    },
+    {
+      "time": 122.02490373349663,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0015451388888888889,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0012035150708325768,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.76234375,
+        "max": 114,
+        "changedFraction": 0.010202546296296296,
+        "outsideCounter": {
+          "mean": 0.6701091231821208,
+          "max": 114,
+          "changedFraction": 0.00913730157129314
+        }
+      }
+    },
+    {
+      "time": 122.55636572916562,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0014930555555555556,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0012236857144778156,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.8014525462962963,
+        "max": 127,
+        "changedFraction": 0.01099537037037037,
+        "outsideCounter": {
+          "mean": 0.684302532760487,
+          "max": 127,
+          "changedFraction": 0.009130578023411393
+        }
+      }
+    },
+    {
+      "time": 123.05067204316774,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0014293981481481482,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0011362795920151145,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.8402372685185185,
+        "max": 137,
+        "changedFraction": 0.011261574074074075,
+        "outsideCounter": {
+          "mean": 0.7176782244454754,
+          "max": 115,
+          "changedFraction": 0.009271772528928066
+        }
+      }
+    },
+    {
+      "time": 123.51050741552332,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002204861111111111,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016876105183183062,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.8963020833333334,
+        "max": 125,
+        "changedFraction": 0.012586805555555556,
+        "outsideCounter": {
+          "mean": 0.7883225420389831,
+          "max": 125,
+          "changedFraction": 0.010697164679858267
+        }
+      }
+    },
+    {
+      "time": 123.93836259629872,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0017708333333333332,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001546416012801635,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9059490740740741,
+        "max": 123,
+        "changedFraction": 0.01259837962962963,
+        "outsideCounter": {
+          "mean": 0.7644606706066657,
+          "max": 123,
+          "changedFraction": 0.010434946312470165
+        }
+      }
+    },
+    {
+      "time": 124.33654836264405,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0019097222222222222,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016405456831460824,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9332407407407407,
+        "max": 116,
+        "changedFraction": 0.013038194444444444,
+        "outsideCounter": {
+          "mean": 0.7963907994970786,
+          "max": 116,
+          "changedFraction": 0.010979553690891609
+        }
+      }
+    },
+    {
+      "time": 124.70720852300873,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0019849537037037036,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0017212282577270374,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9458275462962963,
+        "max": 132,
+        "changedFraction": 0.014016203703703704,
+        "outsideCounter": {
+          "mean": 0.7997861911773605,
+          "max": 132,
+          "changedFraction": 0.011564502356603532
+        }
+      }
+    },
+    {
+      "time": 125.0523319817176,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002042824074074074,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0017010576140817986,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9286631944444445,
+        "max": 156,
+        "changedFraction": 0.012702546296296297,
+        "outsideCounter": {
+          "mean": 0.7964647585237778,
+          "max": 156,
+          "changedFraction": 0.010434946312470165
+        }
+      }
+    },
+    {
+      "time": 125.37376393180297,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0019560185185185184,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016876105183183062,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9787847222222222,
+        "max": 132,
+        "changedFraction": 0.014375,
+        "outsideCounter": {
+          "mean": 0.8535880213270939,
+          "max": 132,
+          "changedFraction": 0.012142727474433708
+        }
+      }
+    },
+    {
+      "time": 125.6732162390816,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002042824074074074,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016069279437373513,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9976099537037038,
+        "max": 131,
+        "changedFraction": 0.014658564814814815,
+        "outsideCounter": {
+          "mean": 0.8683125911881181,
+          "max": 131,
+          "changedFraction": 0.012351157458767843
+        }
+      }
+    },
+    {
+      "time": 125.95227707591444,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0021180555555555558,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0017750166407810074,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9911574074074074,
+        "max": 123,
+        "changedFraction": 0.013900462962962963,
+        "outsideCounter": {
+          "mean": 0.8397980246216323,
+          "max": 123,
+          "changedFraction": 0.011214877866752728
+        }
+      }
+    },
+    {
+      "time": 126.21241985886454,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002042824074074074,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0015867573000921127,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9756597222222222,
+        "max": 132,
+        "changedFraction": 0.013981481481481482,
+        "outsideCounter": {
+          "mean": 0.7766302922726264,
+          "max": 132,
+          "changedFraction": 0.010179451492963808
+        }
+      }
+    },
+    {
+      "time": 126.45501154055091,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0021064814814814813,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016876105183183062,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9475,
+        "max": 134,
+        "changedFraction": 0.013726851851851851,
+        "outsideCounter": {
+          "mean": 0.7596466103233355,
+          "max": 134,
+          "changedFraction": 0.010340816642125716
+        }
+      }
+    },
+    {
+      "time": 126.68132030236198,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.001979166666666667,
+        "max": 1,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016472692310278288,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9710069444444445,
+        "max": 113,
+        "changedFraction": 0.013993055555555555,
+        "outsideCounter": {
+          "mean": 0.8086679979291472,
+          "max": 113,
+          "changedFraction": 0.011208154318870981
+        }
+      }
+    },
+    {
+      "time": 126.89252269132032,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002002314814814815,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00157331020432862,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0337268518518519,
+        "max": 112,
+        "changedFraction": 0.015341435185185185,
+        "outsideCounter": {
+          "mean": 0.8357033839616489,
+          "max": 106,
+          "changedFraction": 0.011900679750690845
+        }
+      }
+    },
+    {
+      "time": 127.0897102412625,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002337962962962963,
+        "max": 4,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0018960405026524397,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0688194444444445,
+        "max": 108,
+        "changedFraction": 0.01578125,
+        "outsideCounter": {
+          "mean": 0.9041356543020621,
+          "max": 108,
+          "changedFraction": 0.012781464523199603
+        }
+      }
+    },
+    {
+      "time": 127.27389561559546,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0021527777777777778,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0018019108323079924,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.9847858796296296,
+        "max": 113,
+        "changedFraction": 0.014971064814814816,
+        "outsideCounter": {
+          "mean": 0.820225776737869,
+          "max": 113,
+          "changedFraction": 0.011967915229508307
+        }
+      }
+    },
+    {
+      "time": 127.44601830619891,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0023032407407407407,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0018086343801897386,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.100324074074074,
+        "max": 142,
+        "changedFraction": 0.01620949074074074,
+        "outsideCounter": {
+          "mean": 0.9227934996739079,
+          "max": 142,
+          "changedFraction": 0.01303695934270596
+        }
+      }
+    },
+    {
+      "time": 127.60694992054464,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0023032407407407407,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001875869859007201,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0383159722222222,
+        "max": 138,
+        "changedFraction": 0.015422453703703704,
+        "outsideCounter": {
+          "mean": 0.8585701703074679,
+          "max": 126,
+          "changedFraction": 0.012223410049014664
+        }
+      }
+    },
+    {
+      "time": 127.75749908678726,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0025,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0018960405026524397,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0752025462962962,
+        "max": 134,
+        "changedFraction": 0.016105324074074074,
+        "outsideCounter": {
+          "mean": 0.8756412583792216,
+          "max": 134,
+          "changedFraction": 0.012257027788423394
+        }
+      }
+    },
+    {
+      "time": 127.89841600443009,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002019675925925926,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0014657334382206803,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0081770833333332,
+        "max": 123,
+        "changedFraction": 0.014820601851851852,
+        "outsideCounter": {
+          "mean": 0.7728852761024938,
+          "max": 120,
+          "changedFraction": 0.010401328573061433
+        }
+      }
+    },
+    {
+      "time": 128.03039666617576,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0023668981481481484,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0018624227632437085,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.0851736111111112,
+        "max": 122,
+        "changedFraction": 0.01626736111111111,
+        "outsideCounter": {
+          "mean": 0.8560017750166408,
+          "max": 122,
+          "changedFraction": 0.011994809421035292
+        }
+      }
+    },
+    {
+      "time": 128.15408677472067,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002349537037037037,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001875869859007201,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.1284664351851852,
+        "max": 126,
+        "changedFraction": 0.018258101851851852,
+        "outsideCounter": {
+          "mean": 0.868635321486442,
+          "max": 126,
+          "changedFraction": 0.01307057708211469
+        }
+      }
+    },
+    {
+      "time": 128.27008537653552,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004641203703703704,
+        "max": 11,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0017010576140817986,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.1531655092592592,
+        "max": 117,
+        "changedFraction": 0.016996527777777777,
+        "outsideCounter": {
+          "mean": 0.9197073911961864,
+          "max": 117,
+          "changedFraction": 0.012667164209209917
+        }
+      }
+    },
+    {
+      "time": 128.3789482330815,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004421296296296296,
+        "max": 13,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016876105183183062,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.1436516203703704,
+        "max": 124,
+        "changedFraction": 0.017829861111111112,
+        "outsideCounter": {
+          "mean": 0.8473821866322421,
+          "max": 119,
+          "changedFraction": 0.012001532968917037
+        }
+      }
+    },
+    {
+      "time": 128.4811909484342,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0026099537037037037,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001902764050534186,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.1328414351851852,
+        "max": 122,
+        "changedFraction": 0.017447916666666667,
+        "outsideCounter": {
+          "mean": 0.8700539900894905,
+          "max": 122,
+          "changedFraction": 0.012001532968917037
+        }
+      }
+    },
+    {
+      "time": 128.57729187091627,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0027314814814814814,
+        "max": 5,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001707781161963545,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.1658101851851852,
+        "max": 127,
+        "changedFraction": 0.018958333333333334,
+        "outsideCounter": {
+          "mean": 0.9076587933920971,
+          "max": 127,
+          "changedFraction": 0.01371603767876233
+        }
+      }
+    },
+    {
+      "time": 128.6676947850682,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0027430555555555554,
+        "max": 4,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001929658242061171,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2039756944444444,
+        "max": 129,
+        "changedFraction": 0.01879050925925926,
+        "outsideCounter": {
+          "mean": 0.9573323651424384,
+          "max": 129,
+          "changedFraction": 0.013581566721127404
+        }
+      }
+    },
+    {
+      "time": 128.7528114091068,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.002650462962962963,
+        "max": 2,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0018825934068889471,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2344097222222221,
+        "max": 113,
+        "changedFraction": 0.020162037037037037,
+        "outsideCounter": {
+          "mean": 0.9950581923069165,
+          "max": 113,
+          "changedFraction": 0.015296071430972696
+        }
+      }
+    },
+    {
+      "time": 128.83302371192596,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0034837962962962965,
+        "max": 13,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001929658242061171,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.194982638888889,
+        "max": 137,
+        "changedFraction": 0.019681712962962963,
+        "outsideCounter": {
+          "mean": 0.933894077226671,
+          "max": 109,
+          "changedFraction": 0.014509416328808386
+        }
+      }
+    },
+    {
+      "time": 128.90868606267887,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004537037037037037,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0021649824179222894,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2421469907407408,
+        "max": 114,
+        "changedFraction": 0.02060763888888889,
+        "outsideCounter": {
+          "mean": 0.9795805850831367,
+          "max": 112,
+          "changedFraction": 0.015329689170381426
+        }
+      }
+    },
+    {
+      "time": 128.98012722503924,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0037094907407407406,
+        "max": 16,
+        "changedFraction": 0.000005787037037037037,
+        "outsideCounter": {
+          "mean": 0.0017346753534905298,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.195625,
+        "max": 149,
+        "changedFraction": 0.01915509259259259,
+        "outsideCounter": {
+          "mean": 0.9120627172546409,
+          "max": 149,
+          "changedFraction": 0.012969723863888496
+        }
+      }
+    },
+    {
+      "time": 129.04765220736385,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004143518518518519,
+        "max": 17,
+        "changedFraction": 0.000005787037037037037,
+        "outsideCounter": {
+          "mean": 0.001875869859007201,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.1559027777777777,
+        "max": 122,
+        "changedFraction": 0.01766203703703704,
+        "outsideCounter": {
+          "mean": 0.8768514969979359,
+          "max": 122,
+          "changedFraction": 0.01241166938970356
+        }
+      }
+    },
+    {
+      "time": 129.111543979169,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0038541666666666668,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.002124641130631812,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2347106481481482,
+        "max": 119,
+        "changedFraction": 0.019837962962962963,
+        "outsideCounter": {
+          "mean": 0.9787199709542731,
+          "max": 119,
+          "changedFraction": 0.014926276297476653
+        }
+      }
+    },
+    {
+      "time": 129.17206506358025,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.0048321759259259255,
+        "max": 26,
+        "changedFraction": 0.000046296296296296294,
+        "outsideCounter": {
+          "mean": 0.0018556992153619621,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2178877314814816,
+        "max": 148,
+        "changedFraction": 0.018859953703703705,
+        "outsideCounter": {
+          "mean": 0.994567373311549,
+          "max": 148,
+          "changedFraction": 0.014616993094916325
+        }
+      }
+    },
+    {
+      "time": 129.22945901471738,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.005028935185185185,
+        "max": 29,
+        "changedFraction": 0.000046296296296296294,
+        "outsideCounter": {
+          "mean": 0.0018893169547706933,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.273755787037037,
+        "max": 115,
+        "changedFraction": 0.020572916666666666,
+        "outsideCounter": {
+          "mean": 1.0596580403547344,
+          "max": 115,
+          "changedFraction": 0.01619702684712669
+        }
+      }
+    },
+    {
+      "time": 129.28395178832852,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.003298611111111111,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016741634225548136,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2049189814814816,
+        "max": 127,
+        "changedFraction": 0.01929398148148148,
+        "outsideCounter": {
+          "mean": 0.9349227800525781,
+          "max": 119,
+          "changedFraction": 0.014092556360140118
+        }
+      }
+    },
+    {
+      "time": 129.3357530133873,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004212962962962963,
+        "max": 4,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0017884637365444998,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2770949074074074,
+        "max": 117,
+        "changedFraction": 0.02056712962962963,
+        "outsideCounter": {
+          "mean": 1.0068042304563272,
+          "max": 117,
+          "changedFraction": 0.015370030457671904
+        }
+      }
+    },
+    {
+      "time": 129.38505717180843,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.003761574074074074,
+        "max": 5,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0016069279437373513,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2347685185185184,
+        "max": 115,
+        "changedFraction": 0.01945601851851852,
+        "outsideCounter": {
+          "mean": 0.9928595921495855,
+          "max": 115,
+          "changedFraction": 0.015101088542402054
+        }
+      }
+    },
+    {
+      "time": 129.4320446929216,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004386574074074074,
+        "max": 13,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0021649824179222894,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.229861111111111,
+        "max": 121,
+        "changedFraction": 0.01912037037037037,
+        "outsideCounter": {
+          "mean": 0.9973710927782372,
+          "max": 121,
+          "changedFraction": 0.014489245685163146
+        }
+      }
+    },
+    {
+      "time": 129.47688296886213,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004340277777777778,
+        "max": 11,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001848975667480216,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.225474537037037,
+        "max": 115,
+        "changedFraction": 0.019299768518518518,
+        "outsideCounter": {
+          "mean": 0.9570970409665772,
+          "max": 115,
+          "changedFraction": 0.014381668919055207
+        }
+      }
+    },
+    {
+      "time": 129.51972729659317,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004131944444444444,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001768293092899261,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.3108159722222221,
+        "max": 111,
+        "changedFraction": 0.02107060185185185,
+        "outsideCounter": {
+          "mean": 1.0687415535429736,
+          "max": 111,
+          "changedFraction": 0.01602221460220129
+        }
+      }
+    },
+    {
+      "time": 129.56072175186083,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.005734953703703704,
+        "max": 3,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0024137536895469003,
+          "max": 3,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.2919733796296295,
+        "max": 108,
+        "changedFraction": 0.020625,
+        "outsideCounter": {
+          "mean": 1.0187923163294808,
+          "max": 108,
+          "changedFraction": 0.015282624335209204
+        }
+      }
+    },
+    {
+      "time": 129.60000000000002,
+      "deliberateGlitch": false,
+      "deliberateReturn": true,
+      "infinitesimal": {
+        "mean": 0.004114583333333333,
+        "max": 5,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.00157331020432862,
+          "max": 1,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.1691550925925926,
+        "max": 143,
+        "changedFraction": 0.01847800925925926,
+        "outsideCounter": {
+          "mean": 0.8565060411077717,
+          "max": 125,
+          "changedFraction": 0.011947744585863068
+        }
+      }
+    },
+    {
+      "time": 192.84,
+      "deliberateGlitch": true,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.15099537037037036,
+        "max": 140,
+        "changedFraction": 0.002650462962962963,
+        "outsideCounter": {
+          "mean": 0.08571178839650107,
+          "max": 135,
+          "changedFraction": 0.0008538905809817725
+        }
+      },
+      "frameStep": {
+        "mean": 0.3619560185185185,
+        "max": 146,
+        "changedFraction": 0.005358796296296296,
+        "outsideCounter": {
+          "mean": 0.18154251635503021,
+          "max": 138,
+          "changedFraction": 0.002218770800976259
+        }
+      }
+    },
+    {
+      "time": 192.94,
+      "deliberateGlitch": true,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.1620775462962963,
+        "max": 117,
+        "changedFraction": 0.0028819444444444444,
+        "outsideCounter": {
+          "mean": 0.07506168855181503,
+          "max": 117,
+          "changedFraction": 0.0005513309263031916
+        }
+      },
+      "frameStep": {
+        "mean": 0.30690393518518516,
+        "max": 120,
+        "changedFraction": 0.004288194444444444,
+        "outsideCounter": {
+          "mean": 0.1628107119564852,
+          "max": 120,
+          "changedFraction": 0.001822081475953231
+        }
+      }
+    },
+    {
+      "time": 193.27,
+      "deliberateGlitch": true,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.12839699074074074,
+        "max": 110,
+        "changedFraction": 0.0022453703703703702,
+        "outsideCounter": {
+          "mean": 0.05196630157801669,
+          "max": 72,
+          "changedFraction": 0.0002622183673881034
+        }
+      },
+      "frameStep": {
+        "mean": 0.24308449074074073,
+        "max": 110,
+        "changedFraction": 0.0034664351851851852,
+        "outsideCounter": {
+          "mean": 0.10353591383101035,
+          "max": 101,
+          "changedFraction": 0.0008740612246270112
+        }
+      }
+    },
+    {
+      "time": 193.36,
+      "deliberateGlitch": true,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.12811342592592592,
+        "max": 112,
+        "changedFraction": 0.0018923611111111112,
+        "outsideCounter": {
+          "mean": 0.0704358876091736,
+          "max": 110,
+          "changedFraction": 0.0004908189953674755
+        }
+      },
+      "frameStep": {
+        "mean": 0.2403414351851852,
+        "max": 111,
+        "changedFraction": 0.0030381944444444445,
+        "outsideCounter": {
+          "mean": 0.12542778573397612,
+          "max": 111,
+          "changedFraction": 0.0011430031398968609
+        }
+      }
+    },
+    {
+      "time": 194.02,
+      "deliberateGlitch": true,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.18591435185185184,
+        "max": 143,
+        "changedFraction": 0.0017939814814814815,
+        "outsideCounter": {
+          "mean": 0.09741748525862128,
+          "max": 61,
+          "changedFraction": 0.0001344709576349248
+        }
+      },
+      "frameStep": {
+        "mean": 0.32081018518518517,
+        "max": 137,
+        "changedFraction": 0.003130787037037037,
+        "outsideCounter": {
+          "mean": 0.15023767741761973,
+          "max": 92,
+          "changedFraction": 0.0006252899530024003
+        }
+      }
+    },
+    {
+      "time": 194.19,
+      "deliberateGlitch": true,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.18219907407407407,
+        "max": 112,
+        "changedFraction": 0.0016030092592592593,
+        "outsideCounter": {
+          "mean": 0.1303561463312961,
+          "max": 112,
+          "changedFraction": 0.0007328667191103402
+        }
+      },
+      "frameStep": {
+        "mean": 0.2615625,
+        "max": 135,
+        "changedFraction": 0.0022858796296296295,
+        "outsideCounter": {
+          "mean": 0.14662040865724024,
+          "max": 104,
+          "changedFraction": 0.0008740612246270112
+        }
+      }
+    },
+    {
+      "time": 182.18,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.010671296296296297,
+        "max": 16,
+        "changedFraction": 0.000011574074074074073,
+        "outsideCounter": {
+          "mean": 0.004901466405793009,
+          "max": 11,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 2.236556712962963,
+        "max": 180,
+        "changedFraction": 0.04684606481481481,
+        "outsideCounter": {
+          "mean": 0.705844780173602,
+          "max": 143,
+          "changedFraction": 0.013453819311374226
+        }
+      }
+    },
+    {
+      "time": 183.02,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.006695601851851852,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0027633781793977045,
+          "max": 13,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.8514583333333334,
+        "max": 157,
+        "changedFraction": 0.040190972222222225,
+        "outsideCounter": {
+          "mean": 0.635711452219107,
+          "max": 152,
+          "changedFraction": 0.012062044899852754
+        }
+      }
+    },
+    {
+      "time": 183.88,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.009438657407407408,
+        "max": 14,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0033281562014643887,
+          "max": 8,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.8611921296296297,
+        "max": 170,
+        "changedFraction": 0.04034143518518519,
+        "outsideCounter": {
+          "mean": 0.6349651384042332,
+          "max": 143,
+          "changedFraction": 0.011947744585863068
+        }
+      }
+    },
+    {
+      "time": 184.78,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.006487268518518519,
+        "max": 15,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0032676442705286725,
+          "max": 15,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.8169155092592593,
+        "max": 163,
+        "changedFraction": 0.03903935185185185,
+        "outsideCounter": {
+          "mean": 0.6158366446806651,
+          "max": 163,
+          "changedFraction": 0.01092576530783764
+        }
+      }
+    },
+    {
+      "time": 185.76,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.003958333333333334,
+        "max": 6,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.002353241758611184,
+          "max": 6,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.791435185185185,
+        "max": 165,
+        "changedFraction": 0.037633101851851855,
+        "outsideCounter": {
+          "mean": 0.596419038398182,
+          "max": 165,
+          "changedFraction": 0.010260134067544762
+        }
+      }
+    },
+    {
+      "time": 186.86,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.017777777777777778,
+        "max": 26,
+        "changedFraction": 0.00005787037037037037,
+        "outsideCounter": {
+          "mean": 0.0026490778654080184,
+          "max": 12,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.6913888888888888,
+        "max": 168,
+        "changedFraction": 0.03590856481481482,
+        "outsideCounter": {
+          "mean": 0.5413464576987985,
+          "max": 154,
+          "changedFraction": 0.00938607284291775
+        }
+      }
+    },
+    {
+      "time": 188.1,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.004357638888888889,
+        "max": 10,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.001822081475953231,
+          "max": 10,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.6206712962962964,
+        "max": 164,
+        "changedFraction": 0.033964120370370374,
+        "outsideCounter": {
+          "mean": 0.5136050991387136,
+          "max": 164,
+          "changedFraction": 0.008801124177205829
+        }
+      }
+    },
+    {
+      "time": 189.46,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0039409722222222224,
+        "max": 22,
+        "changedFraction": 0.000005787037037037037,
+        "outsideCounter": {
+          "mean": 0.0013783273157579792,
+          "max": 7,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.471730324074074,
+        "max": 153,
+        "changedFraction": 0.030457175925925926,
+        "outsideCounter": {
+          "mean": 0.4742857911262615,
+          "max": 143,
+          "changedFraction": 0.008068257458095487
+        }
+      }
+    },
+    {
+      "time": 190.97,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.0022743055555555555,
+        "max": 12,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0008673376767452649,
+          "max": 12,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 1.190144675925926,
+        "max": 156,
+        "changedFraction": 0.025439814814814814,
+        "outsideCounter": {
+          "mean": 0.39823574103582976,
+          "max": 156,
+          "changedFraction": 0.007342114286866894
+        }
+      }
+    },
+    {
+      "time": 192.58,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.001869212962962963,
+        "max": 23,
+        "changedFraction": 0.000005787037037037037,
+        "outsideCounter": {
+          "mean": 0.0007664844585190713,
+          "max": 4,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.7982581018518519,
+        "max": 130,
+        "changedFraction": 0.01638888888888889,
+        "outsideCounter": {
+          "mean": 0.3090747725759929,
+          "max": 127,
+          "changedFraction": 0.005674674412193826
+        }
+      }
+    },
+    {
+      "time": 193.86,
+      "deliberateGlitch": false,
+      "deliberateReturn": false,
+      "infinitesimal": {
+        "mean": 0.00038194444444444446,
+        "max": 4,
+        "changedFraction": 0,
+        "outsideCounter": {
+          "mean": 0.0001008532182261936,
+          "max": 2,
+          "changedFraction": 0
+        }
+      },
+      "frameStep": {
+        "mean": 0.29053240740740743,
+        "max": 69,
+        "changedFraction": 0.004953703703703704,
+        "outsideCounter": {
+          "mean": 0.11594085967283216,
+          "max": 69,
+          "changedFraction": 0.002292729827675468
+        }
+      }
+    }
+  ],
+  "stoppedFrames": [
+    {
+      "time": 194.6,
+      "sha256": "e42ac1cdf8ef526e6e03e57234fbf9167e0b8d9bf89eb5f95cc2cccd96868514"
+    },
+    {
+      "time": 195,
+      "sha256": "e42ac1cdf8ef526e6e03e57234fbf9167e0b8d9bf89eb5f95cc2cccd96868514"
+    },
+    {
+      "time": 195.966667,
+      "sha256": "e42ac1cdf8ef526e6e03e57234fbf9167e0b8d9bf89eb5f95cc2cccd96868514"
+    }
+  ],
+  "continuityFailures": [],
+  "determinismFailures": [],
+  "notes": [
+    "Boundary and determinism checks use frame(t,30,2), matching the delivery render. Calendar digits may change only within their recorded central bounds (under 20 percent of the frame); the remaining picture keeps the normal continuity requirement and whole-frame changed area is still bounded. Continuity metrics do not replace viewing the moving shots. Visible determinism allows only max 2/255, changed-pixel proportion <0.0002 and mean RGB difference <0.00015; this is not byte identity, and actual differences plus identical PNG counts are reported.",
+    "A separately isolated city-line raster case at 182/186s permits at most four RGB channels at 3/255, all inside x1670–1800/y874–892, while retaining the same total changed-pixel and mean limits. Independent cleared-canvas repeats of the city and life scene were exact. See raster-isolation.json. This narrow exception does not change transition limits."
+  ],
+  "sourceSHA256": {
+    "code-maze.mjs": "cfe60337483ce23ecdf8fc94067623ec2a57a9ed13b886deb01988bf4fd84ce5",
+    "code-direction.mjs": "bda4e92a147f16e38fc4dd3c77cc2b73bcd29bb36a6f2c280e4d708e4632e3f1",
+    "code-lives.mjs": "3b04d3afda8b7112b5c2c796b0664e66bb73ba12424f6f4b26fd1f7b53db6ea3",
+    "code-ending.mjs": "ec316f64ad25b4c6a5877378c7d5a5e6a07cf4b6c856a20699237d772414219c",
+    "scenes.mjs": "b25d32aba11c979c4246c251c3a9683f396abb924a35dd5c437ddfdb3466fcd1",
+    "timeline.mjs": "c07d1169a4c8fa5aba13719238c9221898698e31cbd99430f9065b7b6c81ee7f",
+    "film.mjs": "9bb5b3d5c8ea501f342d7986095c98283ee8ef890244bb615e2cfc66d7954c9b",
+    "drawing.mjs": "8772de75c62aa955f1d16f4a1e6d7e1833203faeddf13a025f7845f37d82f992"
+  },
+  "counterBounds": [
+    630,
+    312,
+    660,
+    410
+  ],
+  "identicalPNGSeeks": 31,
+  "tolerancePassedSeeks": [
+    {
+      "time": 179,
+      "validation": "raster-tolerance",
+      "pixelDifference": {
+        "mean": 0.000003054269547325103,
+        "max": 1,
+        "changedPixels": 12,
+        "totalPixels": 2073600,
+        "aboveTwoChannels": 0,
+        "aboveTwoOutsideCityLine": 0
+      }
+    },
+    {
+      "time": 191,
+      "validation": "raster-tolerance",
+      "pixelDifference": {
+        "mean": 4.822530864197531e-7,
+        "max": 1,
+        "changedPixels": 3,
+        "totalPixels": 2073600,
+        "aboveTwoChannels": 0,
+        "aboveTwoOutsideCityLine": 0
+      }
+    }
+  ],
+  "info": {
+    "width": 1920,
+    "height": 1080,
+    "renderer": "Canvas 2D with depth projection; native resolution; no PBR",
+    "samples": "half-frame exposure in display color space",
+    "eventCount": 968
+  },
+  "passed": true
+}

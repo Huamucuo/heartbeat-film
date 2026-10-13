@@ -1,0 +1,52 @@
+{
+  "seekHashes": [
+    {
+      "time": 17.5,
+      "sha256": "027d980d2a2bb006e8b4a1902605e51b7b42959b695957fb92467bb5044a87cb"
+    },
+    {
+      "time": 20,
+      "sha256": "366366c029be547c19babcba5090547c35c8f75f35216a9fba8340f1b3e7ebc2"
+    },
+    {
+      "time": 22.4666667,
+      "sha256": "e3e0ce151253fbd62103c64ae51640fe6bdce1a0d52a8f4d6f302634d6fbbbf8"
+    },
+    {
+      "time": 55,
+      "sha256": "79f722a1cae9726a1c172477b650857ff57572113a905fd874c32ffc55ce2f0c"
+    },
+    {
+      "time": 57.5,
+      "sha256": "72d68a68b4148e64de472d5993f4d022bdd8fb315154f1b845298bce3405d768"
+    },
+    {
+      "time": 59,
+      "sha256": "05b31a8f4d84734dc3c4d3ba16024e088626d533f75ab640e33c9eacc91e2961"
+    },
+    {
+      "time": 64.9666667,
+      "sha256": "8f84305c86ca098353451b6676eaac72cae65c5296a857f9bfb2167f3bd5b15b"
+    }
+  ],
+  "arrivalOriginDiscontinuityPixels": 0.000001472001434427957,
+  "offlinePlayer": [
+    {
+      "duration": 5,
+      "width": 1920,
+      "height": 1080,
+      "seek": 2.5,
+      "playPauseSeekEnd": true
+    },
+    {
+      "duration": 10,
+      "width": 1920,
+      "height": 1080,
+      "seek": 5,
+      "playPauseSeekEnd": true
+    }
+  ],
+  "pageErrors": [],
+  "mobileOverflow": false,
+  "passed": true
+}

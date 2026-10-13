@@ -1,0 +1,172 @@
+{
+  "passed": true,
+  "duration": 196,
+  "tempoSections": [
+    {
+      "start": 0,
+      "end": 63,
+      "bpm": 96,
+      "meter": "4/4",
+      "name": "钢琴主题与独立心跳"
+    },
+    {
+      "start": 63,
+      "end": 85,
+      "bpm": 96,
+      "meter": "5/4",
+      "name": "第一次迷途"
+    },
+    {
+      "start": 85,
+      "end": 104,
+      "bpm": 112,
+      "meter": "7/8",
+      "name": "第二次迷途"
+    },
+    {
+      "start": 104,
+      "end": 118.5,
+      "bpm": 132,
+      "meter": "3/4",
+      "name": "第三次迷途"
+    },
+    {
+      "start": 118.5,
+      "end": 131,
+      "bpm": 64,
+      "meter": "free",
+      "name": "原点余响"
+    },
+    {
+      "start": 131,
+      "end": 173,
+      "bpm": 80,
+      "meter": "4/4",
+      "name": "同时流逝的日常"
+    },
+    {
+      "start": 173,
+      "end": 182,
+      "bpm": 64,
+      "meter": "free",
+      "name": "留下"
+    },
+    {
+      "start": 182,
+      "end": 196,
+      "bpm": 76,
+      "meter": "free",
+      "name": "未完成的尾声"
+    }
+  ],
+  "stems": {
+    "pulse": {
+      "peakDBFS": -16.671516256621423,
+      "rmsDBFS": -36.358479018598786,
+      "seconds": 196,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "melody": {
+      "peakDBFS": -3.7917099668874354,
+      "rmsDBFS": -24.066359994374817,
+      "seconds": 196,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "harmony": {
+      "peakDBFS": -2.05206292895512,
+      "rmsDBFS": -25.970225789823466,
+      "seconds": 196,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "percussion": {
+      "peakDBFS": -29.926672890252902,
+      "rmsDBFS": -59.05650080121413,
+      "seconds": 196,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "detail": {
+      "peakDBFS": -24.830463097183845,
+      "rmsDBFS": -52.77549466090163,
+      "seconds": 196,
+      "sampleRate": 48000,
+      "channels": 2
+    }
+  },
+  "preMasterSections": [
+    {
+      "title": "发生",
+      "start": 0,
+      "end": 9,
+      "rmsDBFS": -28.544992555440423
+    },
+    {
+      "title": "日子",
+      "start": 9,
+      "end": 29,
+      "rmsDBFS": -22.22827088579541
+    },
+    {
+      "title": "奔赴",
+      "start": 29,
+      "end": 47,
+      "rmsDBFS": -21.07598338822246
+    },
+    {
+      "title": "彼此",
+      "start": 47,
+      "end": 63,
+      "rmsDBFS": -23.212251451176463
+    },
+    {
+      "title": "迷途",
+      "start": 63,
+      "end": 121,
+      "rmsDBFS": -18.87257272179656
+    },
+    {
+      "title": "空白",
+      "start": 121,
+      "end": 131,
+      "rmsDBFS": -34.166001862597156
+    },
+    {
+      "title": "日常",
+      "start": 131,
+      "end": 173,
+      "rmsDBFS": -23.917665765110264
+    },
+    {
+      "title": "留下",
+      "start": 173,
+      "end": 182,
+      "rmsDBFS": -29.098563688344537
+    },
+    {
+      "title": "心跳",
+      "start": 182,
+      "end": 196,
+      "rmsDBFS": -30.62894794332088
+    }
+  ],
+  "confluencePulseOnsets": [
+    {
+      "time": 173.46502412873136,
+      "detectedOnsetDelaySeconds": 0.0008125
+    },
+    {
+      "time": 174.5271555148352,
+      "detectedOnsetDelaySeconds": 0.0008125
+    },
+    {
+      "time": 175.67996328747444,
+      "detectedOnsetDelaySeconds": 0.0008125
+    }
+  ],
+  "quietToMazeCrescendoRMSDifferenceDB": 18.013522108713985,
+  "stemSumMaxAbsoluteDifference": 6.103515625e-05,
+  "note": "Signal and alignment checks only; no claim of subjective music listening."
+}

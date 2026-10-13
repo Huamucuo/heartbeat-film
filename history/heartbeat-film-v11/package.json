@@ -1,0 +1,19 @@
+{
+  "name": "heartbeat-film-v11",
+  "version": "11.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Original abstract music film: Heartbeat / The meaning of being alive",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "preview": "node tools/serve.mjs",
+    "capture": "node tools/capture.mjs",
+    "check": "node tools/verify-browser.mjs",
+    "render": "node tools/render.mjs --width 3840 --samples 2 --workers 3",
+    "viewing-copy": "node tools/make-viewing-copy.mjs",
+    "verify": "node tools/verify.mjs"
+  },
+  "devDependencies": { "playwright": "1.58.2" },
+  "engines": { "node": ">=20" }
+}
+

@@ -1,0 +1,37 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "errors": [],
+  "frames": [
+    {
+      "time": 81,
+      "name": "t81-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 81.5,
+      "name": "t81-500.png",
+      "chapter": 8
+    },
+    {
+      "time": 82,
+      "name": "t82-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 82.5,
+      "name": "t82-500.png",
+      "chapter": 8
+    },
+    {
+      "time": 83,
+      "name": "t83-000.png",
+      "chapter": 8
+    },
+    {
+      "time": 86,
+      "name": "t86-000.png",
+      "chapter": 8
+    }
+  ]
+}

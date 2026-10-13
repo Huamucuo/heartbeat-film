@@ -1,0 +1,21 @@
+{
+  "seconds": 196,
+  "sampleRate": 48000,
+  "samples": 9408000,
+  "channels": 2,
+  "events": 1662,
+  "gain": 2.5,
+  "seed": 261012,
+  "stems": [
+    "pulse",
+    "melody",
+    "harmony",
+    "percussion",
+    "detail",
+    "build"
+  ],
+  "sampleLibrary": "Salamander Grand Piano v3 / Alexander Holm / CC BY 3.0",
+  "processing": "Original continuous accelerando, independently released maze build, dry 580 ms digital break, fixed 1000 Hz flatline with 8 ms release. Retuned acoustic piano and room reverb.",
+  "scoreSha256": "d778917fdaf1a5e9d4c8989cc7d7faf51e09293704d40220e33fa8d034760a6d",
+  "listening": "Not reviewed or auditioned, per user instruction."
+}

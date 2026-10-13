@@ -1,0 +1,40 @@
+{
+  "input": {
+    "input_i": "-18.83",
+    "input_tp": "-1.76",
+    "input_lra": "10.30",
+    "input_thresh": "-29.51",
+    "output_i": "-15.11",
+    "output_tp": "-1.70",
+    "output_lra": "7.20",
+    "output_thresh": "-25.58",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.39"
+  },
+  "output": {
+    "input_i": "-17.31",
+    "input_tp": "-2.00",
+    "input_lra": "9.40",
+    "input_thresh": "-27.91",
+    "output_i": "-16.95",
+    "output_tp": "-1.70",
+    "output_lra": "5.40",
+    "output_thresh": "-27.39",
+    "normalization_type": "dynamic",
+    "target_offset": "1.45"
+  },
+  "gainDB": -0.2899999999999998,
+  "processing": "Fixed linear gain, exact first 63 s PCM from v11, 40 ms boundary blend. Heart stops at 194.5; a musical resonance decays to 195.92, then exact silence.",
+  "preservation": {
+    "source": "${WORKSPACE}\\heartbeat-film-v11\\audio\\generated\\master.wav",
+    "sourceSHA256": "54804a63d52a3582a4bf06e9218a27a482755bb2b41fbc86ed2a950d4c791365",
+    "start": 0,
+    "end": 63,
+    "pcmBytes": 18144000,
+    "bitIdentical": true,
+    "crossfadeAfterRetainedSeconds": 0.04
+  },
+  "stopTime": 194.5,
+  "resonanceEnd": 195.92,
+  "masterSHA256": "ba2a39761770851946451957fc26c04d5ec91fd111a6b12f88ca57b881de88b8"
+}

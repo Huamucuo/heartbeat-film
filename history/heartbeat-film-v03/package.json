@@ -1,0 +1,8 @@
+{
+  "name":"heartbeat-meaning-of-being-alive",
+  "version":"3.0.0",
+  "private":true,
+  "type":"module",
+  "scripts":{"serve":"node tools/serve.mjs","storyboard":"node tools/capture.mjs","verify:render":"node tools/verify-browser.mjs","score":"node tools/export-score.mjs","master":"node tools/master-audio.mjs","render":"node tools/render.mjs --workers 2"},
+  "devDependencies":{"playwright":"1.58.2","three":"0.180.0"}
+}

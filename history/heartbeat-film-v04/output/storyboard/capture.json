@@ -1,0 +1,42 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "errors": [],
+  "frames": [
+    {
+      "time": 57.5,
+      "name": "t57-500.png",
+      "chapter": 6
+    },
+    {
+      "time": 59.8,
+      "name": "t59-800.png",
+      "chapter": 6
+    },
+    {
+      "time": 64,
+      "name": "t64-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 66,
+      "name": "t66-000.png",
+      "chapter": 6
+    },
+    {
+      "time": 69,
+      "name": "t69-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 74,
+      "name": "t74-000.png",
+      "chapter": 7
+    },
+    {
+      "time": 79,
+      "name": "t79-000.png",
+      "chapter": 7
+    }
+  ]
+}

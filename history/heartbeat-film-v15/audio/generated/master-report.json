@@ -1,0 +1,15 @@
+{
+  "gainDB": 0.0900000000000003,
+  "processing": "Fixed linear mastering gain; first 62.5 s PCM retained from v13 with a 500 ms blend into the new maze. Spacious 96–116 BPM phrases and half-time percussion; music and reverb release 88.4–92.2 s, then remain silent until 98 s. One isolated lub-dub at 94.25 / 94.41 s. Exact silence 95.8–98 s, then soft life-piano entry. Heart stops at 160.2 s; sustained 1000 Hz electronic flatline ends at 161.62 s with an 8 ms anti-click release, then exact silence.",
+  "preservation": {
+    "source": "${WORKSPACE}\\heartbeat-film-v13\\audio\\generated\\master.wav",
+    "start": 0,
+    "end": 62.5,
+    "pcmBytes": 18000000,
+    "crossfadeAfterRetainedSeconds": 0.5
+  },
+  "stopTime": 160.2,
+  "resonanceEnd": 161.62,
+  "masterSHA256": "e5f09a9f00b3bd506a496d74a24f1ec1220f52447a6eae7403e1525706bbab0e",
+  "review": "No listening or review pass, per user instruction."
+}

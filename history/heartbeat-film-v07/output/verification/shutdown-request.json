@@ -1,0 +1,13 @@
+{
+  "status": "scheduled",
+  "helperPid": 10688,
+  "scheduledAt": "2026-10-12T00:23:16.2000842+08:00",
+  "expectedAt": "2026-10-12T00:24:45.2018579+08:00",
+  "delaySeconds": 90,
+  "forceApplications": false,
+  "verifiedDeliverables": [
+    "heartbeat-v07-4k.mp4",
+    "heartbeat-v07-1080p.mp4",
+    "heartbeat-v07-project.zip"
+  ]
+}

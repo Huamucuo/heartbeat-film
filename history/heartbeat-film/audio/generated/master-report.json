@@ -1,0 +1,29 @@
+{
+  "sourceInput": {
+    "input_i": "-21.58",
+    "input_tp": "-5.42",
+    "input_lra": "5.70",
+    "input_thresh": "-32.37",
+    "output_i": "-15.97",
+    "output_tp": "-1.50",
+    "output_lra": "4.50",
+    "output_thresh": "-26.60",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  },
+  "sourceMaster": "${WORKSPACE}\\heartbeat-film\\audio\\generated\\source-master.wav",
+  "clips": [
+    {
+      "id": "01-emergence",
+      "integratedLUFS": -15.59,
+      "truePeakDBTP": -1.5,
+      "loudnessRangeLU": 1.4
+    },
+    {
+      "id": "02-answer",
+      "integratedLUFS": -15.88,
+      "truePeakDBTP": -1.5,
+      "loudnessRangeLU": 1.8
+    }
+  ]
+}

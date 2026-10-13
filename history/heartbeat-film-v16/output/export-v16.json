@@ -1,0 +1,40 @@
+{
+  "edition": "v16",
+  "seconds": 161.7,
+  "fps": 30,
+  "newPicture": [
+    93,
+    96
+  ],
+  "pullback": [
+    66,
+    92.3
+  ],
+  "firstBlack": [
+    92.3,
+    94.0772727273
+  ],
+  "measuredECGSweep": [
+    94.0772727273,
+    94.4772727273
+  ],
+  "afterglowEnd": 94.85,
+  "heartbeat": 94.25,
+  "secondBlack": [
+    94.85,
+    98
+  ],
+  "lifeEntry": 98,
+  "audio": "v15 music retained; one tighter heartbeat, 94.25 / 94.39",
+  "review": "Not performed, per user request. User is final reviewer.",
+  "files": [
+    {
+      "file": "heartbeat-v16-4k.mp4",
+      "bytes": 678746863
+    },
+    {
+      "file": "heartbeat-v16-1080p.mp4",
+      "bytes": 155656683
+    }
+  ]
+}

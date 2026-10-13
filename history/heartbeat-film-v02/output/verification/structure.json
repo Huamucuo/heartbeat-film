@@ -1,0 +1,74 @@
+{
+  "passed": true,
+  "chapters": 9,
+  "events": 642,
+  "nodes": 9,
+  "connections": 18,
+  "handoffs": [
+    {
+      "time": 7.5,
+      "maximumProjectedJump": 0.00003370779171762133,
+      "cameraJump": 3.2341275942038283e-9,
+      "alphaJump": 0.000011132540598701723,
+      "colorJump": 0,
+      "eventException": null
+    },
+    {
+      "time": 17.5,
+      "maximumProjectedJump": 0.000021768275784466924,
+      "cameraJump": 6.521567952333385e-9,
+      "alphaJump": 0.000008570973360710887,
+      "colorJump": 0,
+      "eventException": null
+    },
+    {
+      "time": 27.5,
+      "maximumProjectedJump": 0.00018375029005056806,
+      "cameraJump": 7.70576491504471e-9,
+      "alphaJump": 0.000012577781643985375,
+      "colorJump": 0.000052095000057761354,
+      "eventException": null
+    },
+    {
+      "time": 37.5,
+      "maximumProjectedJump": 0.000029489691984098127,
+      "cameraJump": 5.933549318548614e-9,
+      "alphaJump": 0.000012364806051490262,
+      "colorJump": 0,
+      "eventException": null
+    },
+    {
+      "time": 47.5,
+      "maximumProjectedJump": 0.00003956628671991013,
+      "cameraJump": 4.995455715750552e-9,
+      "alphaJump": 0.000012994981925307236,
+      "colorJump": 0,
+      "eventException": null
+    },
+    {
+      "time": 57.5,
+      "maximumProjectedJump": 0.0016254177152575852,
+      "cameraJump": 7.892165421186093e-9,
+      "alphaJump": 0.6279757922375098,
+      "colorJump": 6.679101716144942e-13,
+      "eventException": "Intentional arrival attack"
+    },
+    {
+      "time": 67.5,
+      "maximumProjectedJump": 0.000025433706189482578,
+      "cameraJump": 5.73532021874712e-9,
+      "alphaJump": 0.000019517680929226344,
+      "colorJump": 0.0000035129987736581825,
+      "eventException": null
+    },
+    {
+      "time": 80,
+      "maximumProjectedJump": 0.00002823425606564051,
+      "cameraJump": 6.328871302030414e-9,
+      "alphaJump": 0.000020816972083670393,
+      "colorJump": 0,
+      "eventException": null
+    }
+  ],
+  "note": "Structural checks do not establish artistic quality."
+}

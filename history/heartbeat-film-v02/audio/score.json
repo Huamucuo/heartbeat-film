@@ -1,0 +1,6530 @@
+{
+  "title": "心跳 / Heartbeat — second visual edition",
+  "duration": 90,
+  "bpm": 96,
+  "sampleRate": 48000,
+  "chapters": [
+    {
+      "start": 0,
+      "end": 7.5,
+      "id": "imprint",
+      "zh": "发生",
+      "en": "A FIRST IMPULSE"
+    },
+    {
+      "start": 7.5,
+      "end": 17.5,
+      "id": "memory",
+      "zh": "余痕",
+      "en": "NOTHING IS LOST"
+    },
+    {
+      "start": 17.5,
+      "end": 27.5,
+      "id": "weave",
+      "zh": "延伸",
+      "en": "A TRACE BECOMES A THREAD"
+    },
+    {
+      "start": 27.5,
+      "end": 37.5,
+      "id": "pair",
+      "zh": "彼此",
+      "en": "TWO DIFFERENT RHYTHMS"
+    },
+    {
+      "start": 37.5,
+      "end": 47.5,
+      "id": "interference",
+      "zh": "错拍",
+      "en": "ALMOST / NOT YET"
+    },
+    {
+      "start": 47.5,
+      "end": 57.5,
+      "id": "listen",
+      "zh": "倾听",
+      "en": "THE DISTANCE BETWEEN"
+    },
+    {
+      "start": 57.5,
+      "end": 67.5,
+      "id": "answer",
+      "zh": "回应",
+      "en": "SOMETHING RETURNS"
+    },
+    {
+      "start": 67.5,
+      "end": 80,
+      "id": "chorus",
+      "zh": "共振",
+      "en": "ONE PULSE / MANY VOICES"
+    },
+    {
+      "start": 80,
+      "end": 90,
+      "id": "return",
+      "zh": "心跳",
+      "en": "HEARTBEAT"
+    }
+  ],
+  "events": [
+    {
+      "id": "pad.184",
+      "time": 0,
+      "voice": "pad",
+      "amp": 0.11,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "bass.185",
+      "time": 0.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 33,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.0",
+      "time": 0.625,
+      "voice": "heart",
+      "amp": 0.9,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "heart.1",
+      "time": 0.795,
+      "voice": "heart",
+      "amp": 0.47700000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.569",
+      "time": 1.875,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 57,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "heart.2",
+      "time": 1.875,
+      "voice": "heart",
+      "amp": 0.9,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "heart.3",
+      "time": 2.045,
+      "voice": "heart",
+      "amp": 0.47700000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pad.186",
+      "time": 2.5,
+      "voice": "pad",
+      "amp": 0.11,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "felt.570",
+      "time": 3.125,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 64,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "heart.4",
+      "time": 3.125,
+      "voice": "heart",
+      "amp": 0.9,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "heart.5",
+      "time": 3.295,
+      "voice": "heart",
+      "amp": 0.47700000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.571",
+      "time": 4.375,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 71,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "heart.6",
+      "time": 4.375,
+      "voice": "heart",
+      "amp": 0.9,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "heart.7",
+      "time": 4.545,
+      "voice": "heart",
+      "amp": 0.47700000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pad.187",
+      "time": 5,
+      "voice": "pad",
+      "amp": 0.11,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "bass.188",
+      "time": 5.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 29,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.8",
+      "time": 5.625,
+      "voice": "heart",
+      "amp": 0.9,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "heart.9",
+      "time": 5.795,
+      "voice": "heart",
+      "amp": 0.47700000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "swell.627",
+      "time": 6.7,
+      "voice": "swell",
+      "amp": 0.26,
+      "note": 64,
+      "pan": 0,
+      "duration": 0.8
+    },
+    {
+      "id": "heart.10",
+      "time": 6.875,
+      "voice": "heart",
+      "amp": 0.9,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "heart.11",
+      "time": 7.045,
+      "voice": "heart",
+      "amp": 0.47700000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "bell.628",
+      "time": 7.5,
+      "voice": "bell",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0,
+      "duration": 3
+    },
+    {
+      "id": "pad.189",
+      "time": 7.5,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "pluck.190",
+      "time": 7.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 53,
+      "pan": 0.07761600443292697,
+      "duration": 2.4,
+      "strand": 24
+    },
+    {
+      "id": "heart.12",
+      "time": 8.125,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.191",
+      "time": 8.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.5499577916602555,
+      "duration": 2.4,
+      "strand": 25
+    },
+    {
+      "id": "heart.13",
+      "time": 8.295,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.192",
+      "time": 8.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.0641020626677715,
+      "duration": 2.4,
+      "strand": 26
+    },
+    {
+      "id": "heart.14",
+      "time": 9.375,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.193",
+      "time": 9.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 67,
+      "pan": 0.5334393959647975,
+      "duration": 2.4,
+      "strand": 27
+    },
+    {
+      "id": "heart.15",
+      "time": 9.545,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.572",
+      "time": 10,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 57,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.194",
+      "time": 10,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pluck.195",
+      "time": 10,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 48,
+      "pan": -0.41624137241936054,
+      "duration": 2.4,
+      "strand": 32
+    },
+    {
+      "id": "bass.199",
+      "time": 10.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 24,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.16",
+      "time": 10.625,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.196",
+      "time": 10.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.30287704842870067,
+      "duration": 2.4,
+      "strand": 33
+    },
+    {
+      "id": "heart.17",
+      "time": 10.795,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.573",
+      "time": 11.25,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 64,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.197",
+      "time": 11.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0.49428945269639485,
+      "duration": 2.4,
+      "strand": 34
+    },
+    {
+      "id": "heart.18",
+      "time": 11.875,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.198",
+      "time": 11.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": 0.1755040992921437,
+      "duration": 2.4,
+      "strand": 35
+    },
+    {
+      "id": "heart.19",
+      "time": 12.045,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.574",
+      "time": 12.5,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 71,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.200",
+      "time": 12.5,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pluck.201",
+      "time": 12.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 48,
+      "pan": -0.5274083510647262,
+      "duration": 2.4,
+      "strand": 40
+    },
+    {
+      "id": "heart.20",
+      "time": 13.125,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.202",
+      "time": 13.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.22266745633912907,
+      "duration": 2.4,
+      "strand": 41
+    },
+    {
+      "id": "heart.21",
+      "time": 13.295,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.575",
+      "time": 13.75,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 69,
+      "pan": 0.042336002417960164,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.203",
+      "time": 13.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0.4700293994485543,
+      "duration": 2.4,
+      "strand": 42
+    },
+    {
+      "id": "heart.22",
+      "time": 14.375,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.204",
+      "time": 14.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.3437888568910852,
+      "duration": 2.4,
+      "strand": 43
+    },
+    {
+      "id": "heart.23",
+      "time": 14.545,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pad.205",
+      "time": 15,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "pluck.206",
+      "time": 15,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": -0.15367852400940923,
+      "duration": 2.4,
+      "strand": 48
+    },
+    {
+      "id": "bass.210",
+      "time": 15.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 31,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.24",
+      "time": 15.625,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.207",
+      "time": 15.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 62,
+      "pan": 0.5434925286323502,
+      "duration": 2.4,
+      "strand": 49
+    },
+    {
+      "id": "heart.25",
+      "time": 15.795,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.208",
+      "time": 16.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 59,
+      "pan": 0.013626483999346772,
+      "duration": 2.4,
+      "strand": 50
+    },
+    {
+      "id": "swell.629",
+      "time": 16.7,
+      "voice": "swell",
+      "amp": 0.26,
+      "note": 64,
+      "pan": 0,
+      "duration": 0.8
+    },
+    {
+      "id": "heart.26",
+      "time": 16.875,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.209",
+      "time": 16.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 69,
+      "pan": -0.5470039235121941,
+      "duration": 2.4,
+      "strand": 51
+    },
+    {
+      "id": "heart.27",
+      "time": 17.045,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "bell.630",
+      "time": 17.5,
+      "voice": "bell",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0,
+      "duration": 3
+    },
+    {
+      "id": "pad.211",
+      "time": 17.5,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "pluck.212",
+      "time": 17.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0.361342629295334,
+      "duration": 2.4,
+      "strand": 56
+    },
+    {
+      "id": "tick.220",
+      "time": 17.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.213",
+      "time": 17.8125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 62,
+      "pan": 0.3646330765452009,
+      "duration": 2.4,
+      "strand": 57
+    },
+    {
+      "id": "heart.28",
+      "time": 18.125,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.214",
+      "time": 18.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 59,
+      "pan": -0.45530455799710956,
+      "duration": 2.4,
+      "strand": 58
+    },
+    {
+      "id": "tick.221",
+      "time": 18.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.29",
+      "time": 18.295,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.215",
+      "time": 18.4375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 69,
+      "pan": -0.24730610549403084,
+      "duration": 2.4,
+      "strand": 59
+    },
+    {
+      "id": "pluck.216",
+      "time": 18.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 62,
+      "pan": 0.5190326181942576,
+      "duration": 2.4,
+      "strand": 60
+    },
+    {
+      "id": "tick.222",
+      "time": 18.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.217",
+      "time": 19.0625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0.11355711506578814,
+      "duration": 2.4,
+      "strand": 61
+    },
+    {
+      "id": "heart.30",
+      "time": 19.375,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.218",
+      "time": 19.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 69,
+      "pan": -0.5482950363228779,
+      "duration": 2.4,
+      "strand": 62
+    },
+    {
+      "id": "tick.223",
+      "time": 19.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.31",
+      "time": 19.545,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.219",
+      "time": 19.6875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 59,
+      "pan": 0.027732478293746175,
+      "duration": 2.4,
+      "strand": 63
+    },
+    {
+      "id": "felt.576",
+      "time": 20,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 57,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.224",
+      "time": 20,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.225",
+      "time": 20,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.54414703564286,
+      "duration": 2.4,
+      "strand": 64
+    },
+    {
+      "id": "tick.233",
+      "time": 20,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.226",
+      "time": 20.3125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.14946834452601837,
+      "duration": 2.4,
+      "strand": 65
+    },
+    {
+      "id": "bass.237",
+      "time": 20.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 33,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.32",
+      "time": 20.625,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.227",
+      "time": 20.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.5056306891155716,
+      "duration": 2.4,
+      "strand": 66
+    },
+    {
+      "id": "tick.234",
+      "time": 20.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.33",
+      "time": 20.795,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.228",
+      "time": 20.9375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": 0.27976380540480555,
+      "duration": 2.4,
+      "strand": 67
+    },
+    {
+      "id": "felt.577",
+      "time": 21.25,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 64,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.229",
+      "time": 21.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": 0.433538637056424,
+      "duration": 2.4,
+      "strand": 68
+    },
+    {
+      "id": "tick.235",
+      "time": 21.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.230",
+      "time": 21.5625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": -0.3914819383030177,
+      "duration": 2.4,
+      "strand": 69
+    },
+    {
+      "id": "heart.34",
+      "time": 21.875,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.231",
+      "time": 21.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": -0.3326580523234563,
+      "duration": 2.4,
+      "strand": 70
+    },
+    {
+      "id": "tick.236",
+      "time": 21.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.35",
+      "time": 22.045,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.232",
+      "time": 22.1875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.47720425535291705,
+      "duration": 2.4,
+      "strand": 71
+    },
+    {
+      "id": "felt.578",
+      "time": 22.5,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 71,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.238",
+      "time": 22.5,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.239",
+      "time": 22.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.22666516688296615,
+      "duration": 2.4,
+      "strand": 72
+    },
+    {
+      "id": "tick.247",
+      "time": 22.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.240",
+      "time": 22.8125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.5261492589486034,
+      "duration": 2.4,
+      "strand": 73
+    },
+    {
+      "id": "heart.36",
+      "time": 23.125,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.241",
+      "time": 23.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.09108229649657018,
+      "duration": 2.4,
+      "strand": 74
+    },
+    {
+      "id": "tick.248",
+      "time": 23.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.37",
+      "time": 23.295,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.242",
+      "time": 23.4375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": 0.5496201638113547,
+      "duration": 2.4,
+      "strand": 75
+    },
+    {
+      "id": "felt.579",
+      "time": 23.75,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 69,
+      "pan": 0.042336002417960164,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.243",
+      "time": 23.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.0505487676252249,
+      "duration": 2.4,
+      "strand": 76
+    },
+    {
+      "id": "tick.249",
+      "time": 23.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.244",
+      "time": 24.0625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": -0.5365943030074867,
+      "duration": 2.4,
+      "strand": 77
+    },
+    {
+      "id": "heart.38",
+      "time": 24.375,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.245",
+      "time": 24.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": 0.18882321085094247,
+      "duration": 2.4,
+      "strand": 78
+    },
+    {
+      "id": "tick.250",
+      "time": 24.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.39",
+      "time": 24.545,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.246",
+      "time": 24.6875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.48793664078079313,
+      "duration": 2.4,
+      "strand": 79
+    },
+    {
+      "id": "pad.251",
+      "time": 25,
+      "voice": "pad",
+      "amp": 0.23,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "pluck.252",
+      "time": 25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 53,
+      "pan": -0.2992116109891534,
+      "duration": 2.4,
+      "strand": 80
+    },
+    {
+      "id": "tick.260",
+      "time": 25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.253",
+      "time": 25.3125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.41909097115546834,
+      "duration": 2.4,
+      "strand": 81
+    },
+    {
+      "id": "bass.264",
+      "time": 25.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 29,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.40",
+      "time": 25.625,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.254",
+      "time": 25.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.4072067394738468,
+      "duration": 2.4,
+      "strand": 82
+    },
+    {
+      "id": "tick.261",
+      "time": 25.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.41",
+      "time": 25.795,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.255",
+      "time": 25.9375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 67,
+      "pan": 0.31415827831299376,
+      "duration": 2.4,
+      "strand": 83
+    },
+    {
+      "id": "pluck.256",
+      "time": 26.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.48816186846982756,
+      "duration": 2.4,
+      "strand": 84
+    },
+    {
+      "id": "tick.262",
+      "time": 26.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.257",
+      "time": 26.5625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 53,
+      "pan": -0.1883643401582869,
+      "duration": 2.4,
+      "strand": 85
+    },
+    {
+      "id": "swell.631",
+      "time": 26.7,
+      "voice": "swell",
+      "amp": 0.26,
+      "note": 64,
+      "pan": 0,
+      "duration": 0.8
+    },
+    {
+      "id": "heart.42",
+      "time": 26.875,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.258",
+      "time": 26.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 67,
+      "pan": 0.5367012847718365,
+      "duration": 2.4,
+      "strand": 86
+    },
+    {
+      "id": "tick.263",
+      "time": 26.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.43",
+      "time": 27.045,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.259",
+      "time": 27.1875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.05006232890991633,
+      "duration": 2.4,
+      "strand": 87
+    },
+    {
+      "id": "bell.632",
+      "time": 27.5,
+      "voice": "bell",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0,
+      "duration": 3
+    },
+    {
+      "id": "pad.265",
+      "time": 27.5,
+      "voice": "pad",
+      "amp": 0.25,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "pluck.266",
+      "time": 27.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 53,
+      "pan": -0.5499946136028869,
+      "duration": 2.4,
+      "strand": 88
+    },
+    {
+      "id": "tick.274",
+      "time": 27.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.126",
+      "time": 27.8125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.267",
+      "time": 27.8125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.07327762278096822,
+      "duration": 2.4,
+      "strand": 89
+    },
+    {
+      "id": "other.127",
+      "time": 27.9925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.44",
+      "time": 28.125,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.268",
+      "time": 28.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.5311117771021027,
+      "duration": 2.4,
+      "strand": 90
+    },
+    {
+      "id": "tick.275",
+      "time": 28.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.45",
+      "time": 28.295,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.269",
+      "time": 28.4375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 67,
+      "pan": -0.21013927945120503,
+      "duration": 2.4,
+      "strand": 91
+    },
+    {
+      "id": "pluck.270",
+      "time": 28.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.47696119871706977,
+      "duration": 2.4,
+      "strand": 92
+    },
+    {
+      "id": "tick.276",
+      "time": 28.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.128",
+      "time": 29.0625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.271",
+      "time": 29.0625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 53,
+      "pan": 0.3330469283457806,
+      "duration": 2.4,
+      "strand": 93
+    },
+    {
+      "id": "other.129",
+      "time": 29.2425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.46",
+      "time": 29.375,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.272",
+      "time": 29.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 67,
+      "pan": 0.3911386725982904,
+      "duration": 2.4,
+      "strand": 94
+    },
+    {
+      "id": "tick.277",
+      "time": 29.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.47",
+      "time": 29.545,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.273",
+      "time": 29.6875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": -0.4338390572864791,
+      "duration": 2.4,
+      "strand": 95
+    },
+    {
+      "id": "felt.580",
+      "time": 30,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 57,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.278",
+      "time": 30,
+      "voice": "pad",
+      "amp": 0.25,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pluck.279",
+      "time": 30,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 48,
+      "pan": -0.29511510490023923,
+      "duration": 2.4,
+      "strand": 0
+    },
+    {
+      "id": "tick.287",
+      "time": 30,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.130",
+      "time": 30.3125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.280",
+      "time": 30.3125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.49827510826965404,
+      "duration": 2.4,
+      "strand": 1
+    },
+    {
+      "id": "other.131",
+      "time": 30.4925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "bass.291",
+      "time": 30.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 24,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.48",
+      "time": 30.625,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.281",
+      "time": 30.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0.16671509621013625,
+      "duration": 2.4,
+      "strand": 2
+    },
+    {
+      "id": "tick.288",
+      "time": 30.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.49",
+      "time": 30.795,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.282",
+      "time": 30.9375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.5412357527949039,
+      "duration": 2.4,
+      "strand": 3
+    },
+    {
+      "id": "felt.581",
+      "time": 31.25,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 64,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.283",
+      "time": 31.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.027244602483102082,
+      "duration": 2.4,
+      "strand": 4
+    },
+    {
+      "id": "tick.289",
+      "time": 31.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.132",
+      "time": 31.5625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.284",
+      "time": 31.5625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 48,
+      "pan": 0.5482563868533397,
+      "duration": 2.4,
+      "strand": 5
+    },
+    {
+      "id": "other.133",
+      "time": 31.7425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.50",
+      "time": 31.875,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.285",
+      "time": 31.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.11403503133371734,
+      "duration": 2.4,
+      "strand": 6
+    },
+    {
+      "id": "tick.290",
+      "time": 31.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.51",
+      "time": 32.045,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.286",
+      "time": 32.1875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": -0.5188708149650055,
+      "duration": 2.4,
+      "strand": 7
+    },
+    {
+      "id": "felt.582",
+      "time": 32.5,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 71,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.292",
+      "time": 32.5,
+      "voice": "pad",
+      "amp": 0.25,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pluck.293",
+      "time": 32.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 48,
+      "pan": 0.23109187025465253,
+      "duration": 2.4,
+      "strand": 8
+    },
+    {
+      "id": "tick.301",
+      "time": 32.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.134",
+      "time": 32.8125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.294",
+      "time": 32.8125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.4651607571286139,
+      "duration": 2.4,
+      "strand": 9
+    },
+    {
+      "id": "other.135",
+      "time": 32.9925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.52",
+      "time": 33.125,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.295",
+      "time": 33.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": -0.3509586752913711,
+      "duration": 2.4,
+      "strand": 10
+    },
+    {
+      "id": "tick.302",
+      "time": 33.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.53",
+      "time": 33.295,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.296",
+      "time": 33.4375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.374722571055525,
+      "duration": 2.4,
+      "strand": 11
+    },
+    {
+      "id": "felt.583",
+      "time": 33.75,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 69,
+      "pan": 0.042336002417960164,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.297",
+      "time": 33.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.44752055562890797,
+      "duration": 2.4,
+      "strand": 12
+    },
+    {
+      "id": "tick.303",
+      "time": 33.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.136",
+      "time": 34.0625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.298",
+      "time": 34.0625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 48,
+      "pan": 0.2594014517018079,
+      "duration": 2.4,
+      "strand": 13
+    },
+    {
+      "id": "other.137",
+      "time": 34.2425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.54",
+      "time": 34.375,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.299",
+      "time": 34.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.5143654533569965,
+      "duration": 2.4,
+      "strand": 14
+    },
+    {
+      "id": "tick.304",
+      "time": 34.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.55",
+      "time": 34.545,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.300",
+      "time": 34.6875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": -0.12685513826006764,
+      "duration": 2.4,
+      "strand": 15
+    },
+    {
+      "id": "pad.305",
+      "time": 35,
+      "voice": "pad",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "pluck.306",
+      "time": 35,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0.5448340456321787,
+      "duration": 2.4,
+      "strand": 16
+    },
+    {
+      "id": "tick.314",
+      "time": 35,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.138",
+      "time": 35.3125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.307",
+      "time": 35.3125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 62,
+      "pan": 0.004379751082265539,
+      "duration": 2.4,
+      "strand": 17
+    },
+    {
+      "id": "other.139",
+      "time": 35.4925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "bass.318",
+      "time": 35.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 31,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.56",
+      "time": 35.625,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.308",
+      "time": 35.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 59,
+      "pan": -0.5459626592588482,
+      "duration": 2.4,
+      "strand": 18
+    },
+    {
+      "id": "tick.315",
+      "time": 35.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.57",
+      "time": 35.795,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.309",
+      "time": 35.9375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 69,
+      "pan": 0.13630881439062792,
+      "duration": 2.4,
+      "strand": 19
+    },
+    {
+      "id": "pluck.310",
+      "time": 36.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 62,
+      "pan": 0.5108373787424823,
+      "duration": 2.4,
+      "strand": 20
+    },
+    {
+      "id": "tick.316",
+      "time": 36.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.140",
+      "time": 36.5625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.311",
+      "time": 36.5625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": -0.2679459818532803,
+      "duration": 2.4,
+      "strand": 21
+    },
+    {
+      "id": "swell.633",
+      "time": 36.7,
+      "voice": "swell",
+      "amp": 0.26,
+      "note": 64,
+      "pan": 0,
+      "duration": 0.8
+    },
+    {
+      "id": "other.141",
+      "time": 36.7425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.58",
+      "time": 36.875,
+      "voice": "heart",
+      "amp": 0.7,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.312",
+      "time": 36.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 69,
+      "pan": -0.44179064968167514,
+      "duration": 2.4,
+      "strand": 22
+    },
+    {
+      "id": "tick.317",
+      "time": 36.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.59",
+      "time": 37.045,
+      "voice": "heart",
+      "amp": 0.371,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.313",
+      "time": 37.1875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 59,
+      "pan": 0.38179056753873314,
+      "duration": 2.4,
+      "strand": 23
+    },
+    {
+      "id": "bell.634",
+      "time": 37.5,
+      "voice": "bell",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0,
+      "duration": 3
+    },
+    {
+      "id": "pad.319",
+      "time": 37.5,
+      "voice": "pad",
+      "amp": 0.22,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "pluck.320",
+      "time": 37.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": 0.3576583120864143,
+      "duration": 2.4,
+      "strand": 24
+    },
+    {
+      "id": "tick.328",
+      "time": 37.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.142",
+      "time": 37.8125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.321",
+      "time": 37.8125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 62,
+      "pan": -0.46042797791086076,
+      "duration": 2.4,
+      "strand": 25
+    },
+    {
+      "id": "other.143",
+      "time": 37.9925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.60",
+      "time": 38.125,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.322",
+      "time": 38.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 59,
+      "pan": -0.23901109213954322,
+      "duration": 2.4,
+      "strand": 26
+    },
+    {
+      "id": "tick.329",
+      "time": 38.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.61",
+      "time": 38.295,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.323",
+      "time": 38.4375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 69,
+      "pan": 0.5220185045063421,
+      "duration": 2.4,
+      "strand": 27
+    },
+    {
+      "id": "pluck.324",
+      "time": 38.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 62,
+      "pan": 0.10449267168749077,
+      "duration": 2.4,
+      "strand": 28
+    },
+    {
+      "id": "tick.330",
+      "time": 38.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.144",
+      "time": 39.0625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.325",
+      "time": 39.0625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 55,
+      "pan": -0.548945115388668,
+      "duration": 2.4,
+      "strand": 29
+    },
+    {
+      "id": "other.145",
+      "time": 39.2425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "brush.332",
+      "time": 39.375,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.62",
+      "time": 39.375,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.326",
+      "time": 39.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 69,
+      "pan": 0.03696443988901121,
+      "duration": 2.4,
+      "strand": 30
+    },
+    {
+      "id": "tick.331",
+      "time": 39.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.63",
+      "time": 39.545,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.327",
+      "time": 39.6875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 59,
+      "pan": 0.5394197862598341,
+      "duration": 2.4,
+      "strand": 31
+    },
+    {
+      "id": "felt.584",
+      "time": 40,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 64,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.333",
+      "time": 40,
+      "voice": "pad",
+      "amp": 0.22,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.334",
+      "time": 40,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": -0.15834682416578594,
+      "duration": 2.4,
+      "strand": 32
+    },
+    {
+      "id": "tick.342",
+      "time": 40,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.146",
+      "time": 40.3125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.335",
+      "time": 40.3125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.5019203473851516,
+      "duration": 2.4,
+      "strand": 33
+    },
+    {
+      "id": "other.147",
+      "time": 40.4925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "bass.347",
+      "time": 40.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 33,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.64",
+      "time": 40.625,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.336",
+      "time": 40.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.28768617083673304,
+      "duration": 2.4,
+      "strand": 34
+    },
+    {
+      "id": "tick.343",
+      "time": 40.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.65",
+      "time": 40.795,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.337",
+      "time": 40.9375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": 0.4277867889906011,
+      "duration": 2.4,
+      "strand": 35
+    },
+    {
+      "id": "felt.585",
+      "time": 41.25,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 60,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.338",
+      "time": 41.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.39792211582433473,
+      "duration": 2.4,
+      "strand": 36
+    },
+    {
+      "id": "tick.344",
+      "time": 41.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.148",
+      "time": 41.5625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.339",
+      "time": 41.5625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": -0.32524664142581844,
+      "duration": 2.4,
+      "strand": 37
+    },
+    {
+      "id": "other.149",
+      "time": 41.7425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "brush.346",
+      "time": 41.875,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.66",
+      "time": 41.875,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.340",
+      "time": 41.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": 0.4817345938959892,
+      "duration": 2.4,
+      "strand": 38
+    },
+    {
+      "id": "tick.345",
+      "time": 41.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.67",
+      "time": 42.045,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.341",
+      "time": 42.1875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.20110894115544176,
+      "duration": 2.4,
+      "strand": 39
+    },
+    {
+      "id": "felt.586",
+      "time": 42.5,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 59,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.348",
+      "time": 42.5,
+      "voice": "pad",
+      "amp": 0.22,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.349",
+      "time": 42.5,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": -0.5287686205337563,
+      "duration": 2.4,
+      "strand": 40
+    },
+    {
+      "id": "tick.357",
+      "time": 42.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.150",
+      "time": 42.8125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.350",
+      "time": 42.8125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.08194946419780935,
+      "duration": 2.4,
+      "strand": 41
+    },
+    {
+      "id": "other.151",
+      "time": 42.9925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "heart.68",
+      "time": 43.125,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.351",
+      "time": 43.125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.5498860950784681,
+      "duration": 2.4,
+      "strand": 42
+    },
+    {
+      "id": "tick.358",
+      "time": 43.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.69",
+      "time": 43.295,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.352",
+      "time": 43.4375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": -0.059750127483243876,
+      "duration": 2.4,
+      "strand": 43
+    },
+    {
+      "id": "felt.587",
+      "time": 43.75,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 57,
+      "pan": 0.042336002417960164,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.353",
+      "time": 43.75,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 64,
+      "pan": -0.5344891451591248,
+      "duration": 2.4,
+      "strand": 44
+    },
+    {
+      "id": "tick.359",
+      "time": 43.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.152",
+      "time": 44.0625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.354",
+      "time": 44.0625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.19748209471219258,
+      "duration": 2.4,
+      "strand": 45
+    },
+    {
+      "id": "other.153",
+      "time": 44.2425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "brush.361",
+      "time": 44.375,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.70",
+      "time": 44.375,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.355",
+      "time": 44.375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 71,
+      "pan": 0.4836001839078984,
+      "duration": 2.4,
+      "strand": 46
+    },
+    {
+      "id": "tick.360",
+      "time": 44.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.71",
+      "time": 44.545,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.356",
+      "time": 44.6875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.32210053698586366,
+      "duration": 2.4,
+      "strand": 47
+    },
+    {
+      "id": "pad.362",
+      "time": 45,
+      "voice": "pad",
+      "amp": 0.22,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "pluck.363",
+      "time": 45,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 53,
+      "pan": -0.41304298572442194,
+      "duration": 2.4,
+      "strand": 48
+    },
+    {
+      "id": "tick.371",
+      "time": 45,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.154",
+      "time": 45.3125,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.364",
+      "time": 45.3125,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": 0.4133653784436816,
+      "duration": 2.4,
+      "strand": 49
+    },
+    {
+      "id": "other.155",
+      "time": 45.4925,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "bass.376",
+      "time": 45.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 29,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.72",
+      "time": 45.625,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.365",
+      "time": 45.625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": 0.3065232794347138,
+      "duration": 2.4,
+      "strand": 50
+    },
+    {
+      "id": "tick.372",
+      "time": 45.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.73",
+      "time": 45.795,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.366",
+      "time": 45.9375,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 67,
+      "pan": -0.49235305230082504,
+      "duration": 2.4,
+      "strand": 51
+    },
+    {
+      "id": "pluck.367",
+      "time": 46.25,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 60,
+      "pan": -0.17964931935759723,
+      "duration": 2.4,
+      "strand": 52
+    },
+    {
+      "id": "tick.373",
+      "time": 46.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "other.156",
+      "time": 46.5625,
+      "voice": "other",
+      "amp": 0.54,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.368",
+      "time": 46.5625,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 53,
+      "pan": 0.5386467037071544,
+      "duration": 2.4,
+      "strand": 53
+    },
+    {
+      "id": "other.157",
+      "time": 46.7425,
+      "voice": "other",
+      "amp": 0.22,
+      "note": 45,
+      "pan": 0.48,
+      "duration": 0.5,
+      "source": 1
+    },
+    {
+      "id": "brush.375",
+      "time": 46.875,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.74",
+      "time": 46.875,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "pluck.369",
+      "time": 46.875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 67,
+      "pan": 0.04084599507139872,
+      "duration": 2.4,
+      "strand": 54
+    },
+    {
+      "id": "tick.374",
+      "time": 46.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.75",
+      "time": 47.045,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.370",
+      "time": 47.1875,
+      "voice": "pluck",
+      "amp": 0.25,
+      "note": 57,
+      "pan": -0.5491722668650981,
+      "duration": 2.4,
+      "strand": 55
+    },
+    {
+      "id": "pad.377",
+      "time": 47.5,
+      "voice": "pad",
+      "amp": 0.08,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "pad.378",
+      "time": 50,
+      "voice": "pad",
+      "amp": 0.08,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pad.379",
+      "time": 52.5,
+      "voice": "pad",
+      "amp": 0.08,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pad.380",
+      "time": 55,
+      "voice": "pad",
+      "amp": 0.12,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "travel.182",
+      "time": 55,
+      "voice": "travel",
+      "amp": 0.46,
+      "note": 76,
+      "pan": 0.6,
+      "duration": 2.5
+    },
+    {
+      "id": "swell.635",
+      "time": 56.7,
+      "voice": "swell",
+      "amp": 0.26,
+      "note": 64,
+      "pan": 0,
+      "duration": 0.8
+    },
+    {
+      "id": "arrival.183",
+      "time": 57.5,
+      "voice": "arrival",
+      "amp": 0.95,
+      "note": 45,
+      "pan": -0.4,
+      "duration": 2
+    },
+    {
+      "id": "bell.636",
+      "time": 57.5,
+      "voice": "bell",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0,
+      "duration": 3
+    },
+    {
+      "id": "pad.381",
+      "time": 57.5,
+      "voice": "pad",
+      "amp": 0.28,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "pluck.382",
+      "time": 57.5,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 55,
+      "pan": -0.46542122229634386,
+      "duration": 2.4,
+      "strand": 88
+    },
+    {
+      "id": "tick.390",
+      "time": 57.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.383",
+      "time": 57.8125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 62,
+      "pan": -0.23064850384027724,
+      "duration": 2.4,
+      "strand": 89
+    },
+    {
+      "id": "heart.76",
+      "time": 58.125,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.158",
+      "time": 58.125,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.384",
+      "time": 58.125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 59,
+      "pan": 0.5248568019709834,
+      "duration": 2.4,
+      "strand": 90
+    },
+    {
+      "id": "tick.391",
+      "time": 58.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.77",
+      "time": 58.295,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.385",
+      "time": 58.4375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.09539868538524067,
+      "duration": 2.4,
+      "strand": 91
+    },
+    {
+      "id": "felt.588",
+      "time": 58.75,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 64,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.386",
+      "time": 58.75,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 62,
+      "pan": -0.5494399927208222,
+      "duration": 2.4,
+      "strand": 92
+    },
+    {
+      "id": "tick.392",
+      "time": 58.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.387",
+      "time": 59.0625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 55,
+      "pan": 0.04618595063046076,
+      "duration": 2.4,
+      "strand": 93
+    },
+    {
+      "id": "bloom.600",
+      "time": 59.375,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 69,
+      "pan": 0,
+      "duration": 3.5,
+      "node": 0
+    },
+    {
+      "id": "brush.394",
+      "time": 59.375,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.78",
+      "time": 59.375,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.159",
+      "time": 59.375,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.388",
+      "time": 59.375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.5375383818157423,
+      "duration": 2.4,
+      "strand": 94
+    },
+    {
+      "id": "tick.393",
+      "time": 59.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.79",
+      "time": 59.545,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.389",
+      "time": 59.6875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 59,
+      "pan": -0.18470367256942805,
+      "duration": 2.4,
+      "strand": 95
+    },
+    {
+      "id": "bloom.601",
+      "time": 60,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 71,
+      "pan": 0.4390510673582481,
+      "duration": 3.5,
+      "node": 1
+    },
+    {
+      "id": "felt.589",
+      "time": 60,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 60,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.395",
+      "time": 60,
+      "voice": "pad",
+      "amp": 0.28,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.396",
+      "time": 60,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 57,
+      "pan": -0.49806809910364314,
+      "duration": 2.4,
+      "strand": 0
+    },
+    {
+      "id": "tick.404",
+      "time": 60,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.397",
+      "time": 60.3125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 64,
+      "pan": 0.29552719955355955,
+      "duration": 2.4,
+      "strand": 1
+    },
+    {
+      "id": "bass.409",
+      "time": 60.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 33,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "bloom.602",
+      "time": 60.625,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 76,
+      "pan": -0.6475069957432965,
+      "duration": 3.5,
+      "node": 2
+    },
+    {
+      "id": "heart.80",
+      "time": 60.625,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.160",
+      "time": 60.625,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.398",
+      "time": 60.625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": 0.4219139939495416,
+      "duration": 2.4,
+      "strand": 2
+    },
+    {
+      "id": "tick.405",
+      "time": 60.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.81",
+      "time": 60.795,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.399",
+      "time": 60.9375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.40424978992682775,
+      "duration": 2.4,
+      "strand": 3
+    },
+    {
+      "id": "bloom.603",
+      "time": 61.25,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 79,
+      "pan": 0.5158841115019492,
+      "duration": 3.5,
+      "node": 3
+    },
+    {
+      "id": "felt.590",
+      "time": 61.25,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 59,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.400",
+      "time": 61.25,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 64,
+      "pan": -0.3177432744451525,
+      "duration": 2.4,
+      "strand": 4
+    },
+    {
+      "id": "tick.406",
+      "time": 61.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.401",
+      "time": 61.5625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 57,
+      "pan": 0.4861287329502069,
+      "duration": 2.4,
+      "strand": 5
+    },
+    {
+      "id": "bloom.604",
+      "time": 61.875,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 81,
+      "pan": -0.11331240779493677,
+      "duration": 3.5,
+      "node": 4
+    },
+    {
+      "id": "brush.408",
+      "time": 61.875,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.82",
+      "time": 61.875,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.161",
+      "time": 61.875,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.402",
+      "time": 61.875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": 0.1924732529261642,
+      "duration": 2.4,
+      "strand": 6
+    },
+    {
+      "id": "tick.407",
+      "time": 61.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.83",
+      "time": 62.045,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.403",
+      "time": 62.1875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.5357269708275796,
+      "duration": 2.4,
+      "strand": 7
+    },
+    {
+      "id": "bloom.605",
+      "time": 62.5,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 83,
+      "pan": -0.3487723967002827,
+      "duration": 3.5,
+      "node": 5
+    },
+    {
+      "id": "felt.591",
+      "time": 62.5,
+      "voice": "felt",
+      "amp": 0.35,
+      "note": 57,
+      "pan": 0.042336002417960164,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.410",
+      "time": 62.5,
+      "voice": "pad",
+      "amp": 0.28,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        60,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.411",
+      "time": 62.5,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 57,
+      "pan": -0.07279346255377517,
+      "duration": 2.4,
+      "strand": 8
+    },
+    {
+      "id": "tick.419",
+      "time": 62.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.412",
+      "time": 62.8125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 64,
+      "pan": 0.5499965585713614,
+      "duration": 2.4,
+      "strand": 9
+    },
+    {
+      "id": "bloom.606",
+      "time": 63.125,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 88,
+      "pan": 0.6276775547570307,
+      "duration": 3.5,
+      "node": 6
+    },
+    {
+      "id": "heart.84",
+      "time": 63.125,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.162",
+      "time": 63.125,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.413",
+      "time": 63.125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.06893459435303602,
+      "duration": 2.4,
+      "strand": 10
+    },
+    {
+      "id": "tick.420",
+      "time": 63.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.85",
+      "time": 63.295,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.414",
+      "time": 63.4375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.5322328726735929,
+      "duration": 2.4,
+      "strand": 11
+    },
+    {
+      "id": "bloom.607",
+      "time": 63.75,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 91,
+      "pan": -0.576918571827978,
+      "duration": 3.5,
+      "node": 7
+    },
+    {
+      "id": "pluck.415",
+      "time": 63.75,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 64,
+      "pan": 0.20608514500720412,
+      "duration": 2.4,
+      "strand": 12
+    },
+    {
+      "id": "tick.421",
+      "time": 63.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.416",
+      "time": 64.0625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 57,
+      "pan": 0.47912700009304704,
+      "duration": 2.4,
+      "strand": 13
+    },
+    {
+      "id": "bloom.608",
+      "time": 64.375,
+      "voice": "bloom",
+      "amp": 0.43,
+      "note": 93,
+      "pan": 0.223154703732932,
+      "duration": 3.5,
+      "node": 8
+    },
+    {
+      "id": "brush.423",
+      "time": 64.375,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.86",
+      "time": 64.375,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.163",
+      "time": 64.375,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.417",
+      "time": 64.375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.3295508970678459,
+      "duration": 2.4,
+      "strand": 14
+    },
+    {
+      "id": "tick.422",
+      "time": 64.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.87",
+      "time": 64.545,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.418",
+      "time": 64.6875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.39420536273836165,
+      "duration": 2.4,
+      "strand": 15
+    },
+    {
+      "id": "pad.424",
+      "time": 65,
+      "voice": "pad",
+      "amp": 0.28,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "pluck.425",
+      "time": 65,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 53,
+      "pan": 0.4194071477637816,
+      "duration": 2.4,
+      "strand": 16
+    },
+    {
+      "id": "tick.433",
+      "time": 65,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.426",
+      "time": 65.3125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": 0.2988016180777363,
+      "duration": 2.4,
+      "strand": 17
+    },
+    {
+      "id": "bass.438",
+      "time": 65.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 29,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.88",
+      "time": 65.625,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.164",
+      "time": 65.625,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.427",
+      "time": 65.625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 57,
+      "pan": -0.49640503451560203,
+      "duration": 2.4,
+      "strand": 18
+    },
+    {
+      "id": "tick.434",
+      "time": 65.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.89",
+      "time": 65.795,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.428",
+      "time": 65.9375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.17088350680190473,
+      "duration": 2.4,
+      "strand": 19
+    },
+    {
+      "id": "pluck.429",
+      "time": 66.25,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": 0.5404398325502768,
+      "duration": 2.4,
+      "strand": 20
+    },
+    {
+      "id": "tick.435",
+      "time": 66.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.430",
+      "time": 66.5625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 53,
+      "pan": 0.031618112957708513,
+      "duration": 2.4,
+      "strand": 21
+    },
+    {
+      "id": "swell.637",
+      "time": 66.7,
+      "voice": "swell",
+      "amp": 0.26,
+      "note": 64,
+      "pan": 0,
+      "duration": 0.8
+    },
+    {
+      "id": "brush.437",
+      "time": 66.875,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.90",
+      "time": 66.875,
+      "voice": "heart",
+      "amp": 0.8,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.165",
+      "time": 66.875,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.431",
+      "time": 66.875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.5485874720995064,
+      "duration": 2.4,
+      "strand": 22
+    },
+    {
+      "id": "tick.436",
+      "time": 66.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "heart.91",
+      "time": 67.045,
+      "voice": "heart",
+      "amp": 0.42400000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.432",
+      "time": 67.1875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 57,
+      "pan": 0.10974683788133308,
+      "duration": 2.4,
+      "strand": 23
+    },
+    {
+      "id": "bell.638",
+      "time": 67.5,
+      "voice": "bell",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0,
+      "duration": 3
+    },
+    {
+      "id": "connect.609",
+      "time": 67.5,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 57,
+      "pan": 0,
+      "duration": 1.2,
+      "from": 0,
+      "to": 1
+    },
+    {
+      "id": "pad.439",
+      "time": 67.5,
+      "voice": "pad",
+      "amp": 0.4,
+      "note": 53,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        53,
+        57,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "pluck.440",
+      "time": 67.5,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 65,
+      "pan": 0.5260067606224768,
+      "duration": 2.4,
+      "strand": 24
+    },
+    {
+      "id": "tick.456",
+      "time": 67.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.441",
+      "time": 67.65625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.22711015208229707,
+      "duration": 2.4,
+      "strand": 25
+    },
+    {
+      "id": "pluck.442",
+      "time": 67.8125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": -0.46748297523363047,
+      "duration": 2.4,
+      "strand": 26
+    },
+    {
+      "id": "pluck.443",
+      "time": 67.96875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 79,
+      "pan": 0.34757536715378673,
+      "duration": 2.4,
+      "strand": 27
+    },
+    {
+      "id": "connect.611",
+      "time": 68.125,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 60,
+      "pan": 0.33658839392315865,
+      "duration": 1.2,
+      "from": 1,
+      "to": 2
+    },
+    {
+      "id": "heart.92",
+      "time": 68.125,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.166",
+      "time": 68.125,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.444",
+      "time": 68.125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": 0.37791663041260937,
+      "duration": 2.4,
+      "strand": 28
+    },
+    {
+      "id": "tick.457",
+      "time": 68.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.445",
+      "time": 68.28125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 65,
+      "pan": -0.4449603214165486,
+      "duration": 2.4,
+      "strand": 29
+    },
+    {
+      "id": "heart.93",
+      "time": 68.295,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.446",
+      "time": 68.4375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 79,
+      "pan": -0.26325525522362825,
+      "duration": 2.4,
+      "strand": 30
+    },
+    {
+      "id": "pluck.447",
+      "time": 68.59375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.512798301876404,
+      "duration": 2.4,
+      "strand": 31
+    },
+    {
+      "id": "connect.613",
+      "time": 68.75,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 64,
+      "pan": 0.3637189707302727,
+      "duration": 1.2,
+      "from": 2,
+      "to": 3
+    },
+    {
+      "id": "pluck.448",
+      "time": 68.75,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 65,
+      "pan": 0.13111277946189065,
+      "duration": 2.4,
+      "strand": 32
+    },
+    {
+      "id": "tick.458",
+      "time": 68.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.449",
+      "time": 68.90625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.5465846214073001,
+      "duration": 2.4,
+      "strand": 33
+    },
+    {
+      "id": "pluck.450",
+      "time": 69.0625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.009736058807977468,
+      "duration": 2.4,
+      "strand": 34
+    },
+    {
+      "id": "pluck.451",
+      "time": 69.21875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 79,
+      "pan": 0.5440757462602095,
+      "duration": 2.4,
+      "strand": 35
+    },
+    {
+      "id": "brush.460",
+      "time": 69.375,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "connect.615",
+      "time": 69.375,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 67,
+      "pan": 0.056448003223946885,
+      "duration": 1.2,
+      "from": 3,
+      "to": 4
+    },
+    {
+      "id": "heart.94",
+      "time": 69.375,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.167",
+      "time": 69.375,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.452",
+      "time": 69.375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.14993838757869057,
+      "duration": 2.4,
+      "strand": 36
+    },
+    {
+      "id": "tick.459",
+      "time": 69.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.453",
+      "time": 69.53125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 65,
+      "pan": -0.5054382748140852,
+      "duration": 2.4,
+      "strand": 37
+    },
+    {
+      "id": "heart.95",
+      "time": 69.545,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.454",
+      "time": 69.6875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 79,
+      "pan": 0.2801842654107361,
+      "duration": 2.4,
+      "strand": 38
+    },
+    {
+      "id": "pluck.455",
+      "time": 69.84375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.4332378748412649,
+      "duration": 2.4,
+      "strand": 39
+    },
+    {
+      "id": "connect.617",
+      "time": 70,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 71,
+      "pan": -0.3027209981231713,
+      "duration": 1.2,
+      "from": 4,
+      "to": 5
+    },
+    {
+      "id": "felt.592",
+      "time": 70,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 64,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.461",
+      "time": 70,
+      "voice": "pad",
+      "amp": 0.4,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pluck.462",
+      "time": 70,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": 0.14899818356932798,
+      "duration": 2.4,
+      "strand": 32
+    },
+    {
+      "id": "tick.478",
+      "time": 70,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.463",
+      "time": 70.15625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.5442178957899944,
+      "duration": 2.4,
+      "strand": 33
+    },
+    {
+      "id": "pluck.464",
+      "time": 70.3125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.00875922443005599,
+      "duration": 2.4,
+      "strand": 34
+    },
+    {
+      "id": "pluck.465",
+      "time": 70.46875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.5464750514742173,
+      "duration": 2.4,
+      "strand": 35
+    },
+    {
+      "id": "bass.483",
+      "time": 70.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 24,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "connect.619",
+      "time": 70.625,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 57,
+      "pan": -0.3835697098652554,
+      "duration": 1.2,
+      "from": 5,
+      "to": 6
+    },
+    {
+      "id": "heart.96",
+      "time": 70.625,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.168",
+      "time": 70.625,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.466",
+      "time": 70.625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.13206137887457597,
+      "duration": 2.4,
+      "strand": 36
+    },
+    {
+      "id": "tick.479",
+      "time": 70.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.467",
+      "time": 70.78125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.512444288320088,
+      "duration": 2.4,
+      "strand": 37
+    },
+    {
+      "id": "heart.97",
+      "time": 70.795,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.468",
+      "time": 70.9375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.26411262924104245,
+      "duration": 2.4,
+      "strand": 38
+    },
+    {
+      "id": "pluck.469",
+      "time": 71.09375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.44438537201684186,
+      "duration": 2.4,
+      "strand": 39
+    },
+    {
+      "id": "connect.610",
+      "time": 71.25,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 57,
+      "pan": 0,
+      "duration": 1.2,
+      "from": 0,
+      "to": 3
+    },
+    {
+      "id": "connect.621",
+      "time": 71.25,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 60,
+      "pan": -0.11176619927957035,
+      "duration": 1.2,
+      "from": 6,
+      "to": 7
+    },
+    {
+      "id": "felt.593",
+      "time": 71.25,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 60,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.470",
+      "time": 71.25,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.37862584630071877,
+      "duration": 2.4,
+      "strand": 40
+    },
+    {
+      "id": "tick.480",
+      "time": 71.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.471",
+      "time": 71.40625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.34681766062918046,
+      "duration": 2.4,
+      "strand": 41
+    },
+    {
+      "id": "pluck.472",
+      "time": 71.5625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.46799693849376517,
+      "duration": 2.4,
+      "strand": 42
+    },
+    {
+      "id": "pluck.473",
+      "time": 71.71875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.22622000288501193,
+      "duration": 2.4,
+      "strand": 43
+    },
+    {
+      "id": "brush.482",
+      "time": 71.875,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "connect.612",
+      "time": 71.875,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 60,
+      "pan": 0.33658839392315865,
+      "duration": 1.2,
+      "from": 1,
+      "to": 4
+    },
+    {
+      "id": "connect.623",
+      "time": 71.875,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 64,
+      "pan": 0.26279463948751564,
+      "duration": 1.2,
+      "from": 7,
+      "to": 8
+    },
+    {
+      "id": "heart.98",
+      "time": 71.875,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.169",
+      "time": 71.875,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.474",
+      "time": 71.875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.5262913422362683,
+      "duration": 2.4,
+      "strand": 44
+    },
+    {
+      "id": "tick.481",
+      "time": 71.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.475",
+      "time": 72.03125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.09060051919992657,
+      "duration": 2.4,
+      "strand": 45
+    },
+    {
+      "id": "heart.99",
+      "time": 72.045,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.476",
+      "time": 72.1875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.5496380983947208,
+      "duration": 2.4,
+      "strand": 46
+    },
+    {
+      "id": "pluck.477",
+      "time": 72.34375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.05103516646651978,
+      "duration": 2.4,
+      "strand": 47
+    },
+    {
+      "id": "connect.614",
+      "time": 72.5,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 64,
+      "pan": 0.3637189707302727,
+      "duration": 1.2,
+      "from": 2,
+      "to": 5
+    },
+    {
+      "id": "connect.625",
+      "time": 72.5,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 67,
+      "pan": 0.39574329864935276,
+      "duration": 1.2,
+      "from": 8,
+      "to": 0
+    },
+    {
+      "id": "felt.594",
+      "time": 72.5,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 59,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.484",
+      "time": 72.5,
+      "voice": "pad",
+      "amp": 0.4,
+      "note": 48,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        48,
+        55,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "pluck.485",
+      "time": 72.5,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.3649986363171322,
+      "duration": 2.4,
+      "strand": 40
+    },
+    {
+      "id": "tick.501",
+      "time": 72.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.486",
+      "time": 72.65625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.3609742158977847,
+      "duration": 2.4,
+      "strand": 41
+    },
+    {
+      "id": "pluck.487",
+      "time": 72.8125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.4580177169192789,
+      "duration": 2.4,
+      "strand": 42
+    },
+    {
+      "id": "pluck.488",
+      "time": 72.96875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.2429480936680731,
+      "duration": 2.4,
+      "strand": 43
+    },
+    {
+      "id": "connect.616",
+      "time": 73.125,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 67,
+      "pan": 0.056448003223946885,
+      "duration": 1.2,
+      "from": 3,
+      "to": 6
+    },
+    {
+      "id": "heart.100",
+      "time": 73.125,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.170",
+      "time": 73.125,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.489",
+      "time": 73.125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.5206227654567283,
+      "duration": 2.4,
+      "strand": 44
+    },
+    {
+      "id": "tick.502",
+      "time": 73.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.490",
+      "time": 73.28125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.10878933980005426,
+      "duration": 2.4,
+      "strand": 45
+    },
+    {
+      "id": "heart.101",
+      "time": 73.295,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.491",
+      "time": 73.4375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.5486565803992929,
+      "duration": 2.4,
+      "strand": 46
+    },
+    {
+      "id": "pluck.492",
+      "time": 73.59375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.032593419486862486,
+      "duration": 2.4,
+      "strand": 47
+    },
+    {
+      "id": "connect.618",
+      "time": 73.75,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 71,
+      "pan": -0.3027209981231713,
+      "duration": 1.2,
+      "from": 4,
+      "to": 7
+    },
+    {
+      "id": "felt.595",
+      "time": 73.75,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 57,
+      "pan": 0.042336002417960164,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.493",
+      "time": 73.75,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": -0.540257615096999,
+      "duration": 2.4,
+      "strand": 48
+    },
+    {
+      "id": "tick.503",
+      "time": 73.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.494",
+      "time": 73.90625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": 0.17181185789981993,
+      "duration": 2.4,
+      "strand": 49
+    },
+    {
+      "id": "pluck.495",
+      "time": 74.0625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.4959835912068451,
+      "duration": 2.4,
+      "strand": 50
+    },
+    {
+      "id": "pluck.496",
+      "time": 74.21875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": -0.2996213678756711,
+      "duration": 2.4,
+      "strand": 51
+    },
+    {
+      "id": "brush.505",
+      "time": 74.375,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "connect.620",
+      "time": 74.375,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 57,
+      "pan": -0.3835697098652554,
+      "duration": 1.2,
+      "from": 5,
+      "to": 8
+    },
+    {
+      "id": "heart.102",
+      "time": 74.375,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.171",
+      "time": 74.375,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.497",
+      "time": 74.375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 72,
+      "pan": -0.4187744639586975,
+      "duration": 2.4,
+      "strand": 52
+    },
+    {
+      "id": "tick.504",
+      "time": 74.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.498",
+      "time": 74.53125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 60,
+      "pan": 0.4075349359409432,
+      "duration": 2.4,
+      "strand": 53
+    },
+    {
+      "id": "heart.103",
+      "time": 74.545,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.499",
+      "time": 74.6875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.313757198500558,
+      "duration": 2.4,
+      "strand": 54
+    },
+    {
+      "id": "pluck.500",
+      "time": 74.84375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.4883867110857149,
+      "duration": 2.4,
+      "strand": 55
+    },
+    {
+      "id": "connect.622",
+      "time": 75,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 60,
+      "pan": -0.11176619927957035,
+      "duration": 1.2,
+      "from": 6,
+      "to": 0
+    },
+    {
+      "id": "pad.506",
+      "time": 75,
+      "voice": "pad",
+      "amp": 0.4,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "pluck.507",
+      "time": 75,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.5434173932510741,
+      "duration": 2.4,
+      "strand": 48
+    },
+    {
+      "id": "tick.523",
+      "time": 75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.508",
+      "time": 75.15625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": 0.15414749337296074,
+      "duration": 2.4,
+      "strand": 49
+    },
+    {
+      "id": "pluck.509",
+      "time": 75.3125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": 0.5036952815899505,
+      "duration": 2.4,
+      "strand": 50
+    },
+    {
+      "id": "pluck.510",
+      "time": 75.46875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": -0.28394422104395983,
+      "duration": 2.4,
+      "strand": 51
+    },
+    {
+      "id": "bass.528",
+      "time": 75.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 31,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "connect.624",
+      "time": 75.625,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 64,
+      "pan": 0.26279463948751564,
+      "duration": 1.2,
+      "from": 7,
+      "to": 1
+    },
+    {
+      "id": "heart.104",
+      "time": 75.625,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.172",
+      "time": 75.625,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.511",
+      "time": 75.625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": -0.43052598245285995,
+      "duration": 2.4,
+      "strand": 52
+    },
+    {
+      "id": "tick.524",
+      "time": 75.625,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.512",
+      "time": 75.78125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.3948860260244043,
+      "duration": 2.4,
+      "strand": 53
+    },
+    {
+      "id": "heart.105",
+      "time": 75.795,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.513",
+      "time": 75.9375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": 0.3287682017978902,
+      "duration": 2.4,
+      "strand": 54
+    },
+    {
+      "id": "pluck.514",
+      "time": 76.09375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.4796059714266006,
+      "duration": 2.4,
+      "strand": 55
+    },
+    {
+      "id": "connect.626",
+      "time": 76.25,
+      "voice": "connect",
+      "amp": 0.12,
+      "note": 67,
+      "pan": 0.39574329864935276,
+      "duration": 1.2,
+      "from": 8,
+      "to": 2
+    },
+    {
+      "id": "pluck.515",
+      "time": 76.25,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.20517902409874217,
+      "duration": 2.4,
+      "strand": 56
+    },
+    {
+      "id": "tick.525",
+      "time": 76.25,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.516",
+      "time": 76.40625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": 0.5324783466267041,
+      "duration": 2.4,
+      "strand": 57
+    },
+    {
+      "id": "pluck.517",
+      "time": 76.5625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": 0.06796521750987321,
+      "duration": 2.4,
+      "strand": 58
+    },
+    {
+      "id": "pluck.518",
+      "time": 76.71875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": -0.5499922347861945,
+      "duration": 2.4,
+      "strand": 59
+    },
+    {
+      "id": "brush.527",
+      "time": 76.875,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.106",
+      "time": 76.875,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.173",
+      "time": 76.875,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.519",
+      "time": 76.875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": 0.07376172520511143,
+      "duration": 2.4,
+      "strand": 60
+    },
+    {
+      "id": "tick.526",
+      "time": 76.875,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.520",
+      "time": 77.03125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.530984650421359,
+      "duration": 2.4,
+      "strand": 61
+    },
+    {
+      "id": "heart.107",
+      "time": 77.045,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.521",
+      "time": 77.1875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": -0.21059062272956247,
+      "duration": 2.4,
+      "strand": 62
+    },
+    {
+      "id": "pluck.522",
+      "time": 77.34375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.47671776584341763,
+      "duration": 2.4,
+      "strand": 63
+    },
+    {
+      "id": "pad.529",
+      "time": 77.5,
+      "voice": "pad",
+      "amp": 0.4,
+      "note": 55,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        55,
+        59,
+        62,
+        69
+      ]
+    },
+    {
+      "id": "pluck.530",
+      "time": 77.5,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": -0.22222070492768578,
+      "duration": 2.4,
+      "strand": 56
+    },
+    {
+      "id": "tick.546",
+      "time": 77.5,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.531",
+      "time": 77.65625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": 0.5275467081241942,
+      "duration": 2.4,
+      "strand": 57
+    },
+    {
+      "id": "pluck.532",
+      "time": 77.8125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": 0.08627772727662551,
+      "duration": 2.4,
+      "strand": 58
+    },
+    {
+      "id": "pluck.533",
+      "time": 77.96875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": -0.5497795284040417,
+      "duration": 2.4,
+      "strand": 59
+    },
+    {
+      "id": "heart.108",
+      "time": 78.125,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.174",
+      "time": 78.125,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.534",
+      "time": 78.125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": 0.055394403345875295,
+      "duration": 2.4,
+      "strand": 60
+    },
+    {
+      "id": "tick.547",
+      "time": 78.125,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.535",
+      "time": 78.28125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.5355050006322379,
+      "duration": 2.4,
+      "strand": 61
+    },
+    {
+      "id": "heart.109",
+      "time": 78.295,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.536",
+      "time": 78.4375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": -0.19338814534424897,
+      "duration": 2.4,
+      "strand": 62
+    },
+    {
+      "id": "pluck.537",
+      "time": 78.59375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.4856710050529804,
+      "duration": 2.4,
+      "strand": 63
+    },
+    {
+      "id": "pluck.538",
+      "time": 78.75,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.318540215424349,
+      "duration": 2.4,
+      "strand": 64
+    },
+    {
+      "id": "tick.548",
+      "time": 78.75,
+      "voice": "tick",
+      "amp": 0.085,
+      "note": 76,
+      "pan": 0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.539",
+      "time": 78.90625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": 0.4035866991147058,
+      "duration": 2.4,
+      "strand": 65
+    },
+    {
+      "id": "pluck.540",
+      "time": 79.0625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.4225400637280168,
+      "duration": 2.4,
+      "strand": 66
+    },
+    {
+      "id": "swell.639",
+      "time": 79.2,
+      "voice": "swell",
+      "amp": 0.26,
+      "note": 64,
+      "pan": 0,
+      "duration": 0.8
+    },
+    {
+      "id": "pluck.541",
+      "time": 79.21875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": -0.2947027774534332,
+      "duration": 2.4,
+      "strand": 67
+    },
+    {
+      "id": "brush.550",
+      "time": 79.375,
+      "voice": "brush",
+      "amp": 0.12,
+      "note": 62,
+      "pan": 0.1,
+      "duration": 0.32
+    },
+    {
+      "id": "heart.110",
+      "time": 79.375,
+      "voice": "heart",
+      "amp": 0.88,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.175",
+      "time": 79.375,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.542",
+      "time": 79.375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 74,
+      "pan": 0.4984817243849651,
+      "duration": 2.4,
+      "strand": 68
+    },
+    {
+      "id": "tick.549",
+      "time": 79.375,
+      "voice": "tick",
+      "amp": 0.14,
+      "note": 76,
+      "pan": -0.4,
+      "duration": 0.15
+    },
+    {
+      "id": "pluck.543",
+      "time": 79.53125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 67,
+      "pan": 0.16624952606555352,
+      "duration": 2.4,
+      "strand": 69
+    },
+    {
+      "id": "heart.111",
+      "time": 79.545,
+      "voice": "heart",
+      "amp": 0.46640000000000004,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.544",
+      "time": 79.6875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 81,
+      "pan": -0.5413223966105382,
+      "duration": 2.4,
+      "strand": 70
+    },
+    {
+      "id": "pluck.545",
+      "time": 79.84375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 71,
+      "pan": -0.026756705181297996,
+      "duration": 2.4,
+      "strand": 71
+    },
+    {
+      "id": "bell.640",
+      "time": 80,
+      "voice": "bell",
+      "amp": 0.27,
+      "note": 73,
+      "pan": 0,
+      "duration": 3
+    },
+    {
+      "id": "pad.551",
+      "time": 80,
+      "voice": "pad",
+      "amp": 0.24,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        61,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.552",
+      "time": 80,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.30328467468292986,
+      "duration": 2.4,
+      "strand": 64
+    },
+    {
+      "id": "bass.556",
+      "time": 80.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 33,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.112",
+      "time": 80.625,
+      "voice": "heart",
+      "amp": 0.54,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.176",
+      "time": 80.625,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.553",
+      "time": 80.625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": 0.41592191233233466,
+      "duration": 2.4,
+      "strand": 65
+    },
+    {
+      "id": "heart.113",
+      "time": 80.795,
+      "voice": "heart",
+      "amp": 0.2862,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.596",
+      "time": 81.25,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 64,
+      "pan": 0,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.554",
+      "time": 81.25,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 73,
+      "pan": -0.410463171604704,
+      "duration": 2.4,
+      "strand": 66
+    },
+    {
+      "id": "heart.114",
+      "time": 81.875,
+      "voice": "heart",
+      "amp": 0.54,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.177",
+      "time": 81.875,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.555",
+      "time": 81.875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 83,
+      "pan": -0.3101500727876444,
+      "duration": 2.4,
+      "strand": 67
+    },
+    {
+      "id": "heart.115",
+      "time": 82.045,
+      "voice": "heart",
+      "amp": 0.2862,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.597",
+      "time": 82.5,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 60,
+      "pan": 0.25244129544236893,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.557",
+      "time": 82.5,
+      "voice": "pad",
+      "amp": 0.24,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        61,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.558",
+      "time": 82.5,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.549951523058997,
+      "duration": 2.4,
+      "strand": 72
+    },
+    {
+      "id": "heart.116",
+      "time": 83.125,
+      "voice": "heart",
+      "amp": 0.54,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.178",
+      "time": 83.125,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.559",
+      "time": 83.125,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": -0.07809957153570093,
+      "duration": 2.4,
+      "strand": 73
+    },
+    {
+      "id": "heart.117",
+      "time": 83.295,
+      "voice": "heart",
+      "amp": 0.2862,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.598",
+      "time": 83.75,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 59,
+      "pan": 0.2727892280477045,
+      "duration": 4.5
+    },
+    {
+      "id": "pluck.560",
+      "time": 83.75,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 73,
+      "pan": -0.5298261234605686,
+      "duration": 2.4,
+      "strand": 74
+    },
+    {
+      "id": "heart.118",
+      "time": 84.375,
+      "voice": "heart",
+      "amp": 0.54,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.179",
+      "time": 84.375,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.561",
+      "time": 84.375,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 83,
+      "pan": 0.2146299294193704,
+      "duration": 2.4,
+      "strand": 75
+    },
+    {
+      "id": "heart.119",
+      "time": 84.545,
+      "voice": "heart",
+      "amp": 0.2862,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "felt.599",
+      "time": 85,
+      "voice": "felt",
+      "amp": 0.44,
+      "note": 57,
+      "pan": 0.042336002417960164,
+      "duration": 4.5
+    },
+    {
+      "id": "pad.562",
+      "time": 85,
+      "voice": "pad",
+      "amp": 0.24,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        61,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "pluck.563",
+      "time": 85,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 69,
+      "pan": 0.29099547736601317,
+      "duration": 2.4,
+      "strand": 80
+    },
+    {
+      "id": "bass.567",
+      "time": 85.625,
+      "voice": "bass",
+      "amp": 0.32,
+      "note": 33,
+      "pan": 0,
+      "duration": 3.4
+    },
+    {
+      "id": "heart.120",
+      "time": 85.625,
+      "voice": "heart",
+      "amp": 0.54,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.180",
+      "time": 85.625,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.564",
+      "time": 85.625,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 76,
+      "pan": -0.5003166695084406,
+      "duration": 2.4,
+      "strand": 81
+    },
+    {
+      "id": "heart.121",
+      "time": 85.795,
+      "voice": "heart",
+      "amp": 0.2862,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "pluck.565",
+      "time": 86.25,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 73,
+      "pan": -0.16206938082514166,
+      "duration": 2.4,
+      "strand": 82
+    },
+    {
+      "id": "heart.122",
+      "time": 86.875,
+      "voice": "heart",
+      "amp": 0.54,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "other.181",
+      "time": 86.875,
+      "voice": "other",
+      "amp": 0.4,
+      "note": 45,
+      "pan": 0.36,
+      "duration": 0.7,
+      "source": 1
+    },
+    {
+      "id": "pluck.566",
+      "time": 86.875,
+      "voice": "pluck",
+      "amp": 0.27,
+      "note": 83,
+      "pan": 0.5420801643348482,
+      "duration": 2.4,
+      "strand": 83
+    },
+    {
+      "id": "heart.123",
+      "time": 87.045,
+      "voice": "heart",
+      "amp": 0.2862,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    },
+    {
+      "id": "bell.641",
+      "time": 87.5,
+      "voice": "bell",
+      "amp": 0.25,
+      "note": 81,
+      "pan": 0,
+      "duration": 2.5
+    },
+    {
+      "id": "pad.568",
+      "time": 87.5,
+      "voice": "pad",
+      "amp": 0.24,
+      "note": 57,
+      "pan": 0,
+      "duration": 3.8,
+      "notes": [
+        57,
+        61,
+        64,
+        71
+      ]
+    },
+    {
+      "id": "heart.124",
+      "time": 88.125,
+      "voice": "heart",
+      "amp": 0.54,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.7,
+      "source": 0
+    },
+    {
+      "id": "heart.125",
+      "time": 88.295,
+      "voice": "heart",
+      "amp": 0.2862,
+      "note": 38,
+      "pan": -0.28,
+      "duration": 0.5,
+      "source": 0
+    }
+  ]
+}

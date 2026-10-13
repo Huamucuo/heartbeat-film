@@ -1,0 +1,36 @@
+{
+  "edition": "v14",
+  "seconds": 161.7,
+  "fps": 30,
+  "maze": {
+    "source": [
+      63,
+      130.8
+    ],
+    "playback": [
+      63,
+      92
+    ]
+  },
+  "newBridge": [
+    88.4,
+    100
+  ],
+  "blackAndSilence": [
+    95.9,
+    98
+  ],
+  "lifeEntry": 98,
+  "audio": "Recomposed v14 master, natural instrument pitch",
+  "review": "Not performed, per user request. User is final reviewer.",
+  "files": [
+    {
+      "file": "heartbeat-v14-4k.mp4",
+      "bytes": 648430173
+    },
+    {
+      "file": "heartbeat-v14-1080p.mp4",
+      "bytes": 149078907
+    }
+  ]
+}

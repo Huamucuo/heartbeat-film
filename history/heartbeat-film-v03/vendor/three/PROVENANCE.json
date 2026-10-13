@@ -1,0 +1,21 @@
+{
+  "package": "three",
+  "version": "0.180.0",
+  "license": "MIT",
+  "files": [
+    "build/three.module.js",
+    "build/three.core.js",
+    "examples/jsm/postprocessing/EffectComposer.js",
+    "examples/jsm/shaders/CopyShader.js",
+    "examples/jsm/postprocessing/ShaderPass.js",
+    "examples/jsm/postprocessing/Pass.js",
+    "examples/jsm/postprocessing/MaskPass.js",
+    "examples/jsm/postprocessing/RenderPass.js",
+    "examples/jsm/postprocessing/UnrealBloomPass.js",
+    "examples/jsm/shaders/LuminosityHighPassShader.js",
+    "examples/jsm/postprocessing/BokehPass.js",
+    "examples/jsm/shaders/BokehShader.js",
+    "examples/jsm/postprocessing/OutputPass.js",
+    "examples/jsm/shaders/OutputShader.js"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "rate": 48000,
+  "sourceDuration": 92,
+  "gain": 1.45,
+  "seed": 241011,
+  "clips": [
+    {
+      "id": "01-emergence",
+      "samples": 240000,
+      "seconds": 5.0,
+      "peakDbFS": -6.180761439133622,
+      "rmsDbFS": -21.534840544071365
+    },
+    {
+      "id": "02-answer",
+      "samples": 480000,
+      "seconds": 10.0,
+      "peakDbFS": -5.418417655337419,
+      "rmsDbFS": -22.546923475572783
+    }
+  ]
+}

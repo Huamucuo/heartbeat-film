@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "theme": "活着的意义",
+  "events": 600,
+  "chapters": 9,
+  "deterministic": [
+    {
+      "time": 0,
+      "sha256": "9473b38fcafd8a9a5425049b6baddbe91978331e0bb842d931272b3053ac4963",
+      "repeatIdentical": true
+    },
+    {
+      "time": 12,
+      "sha256": "4b4aee53b7f98dbf9d085ec0bb8deca52035ae80dd1eea4dc95a6db4ae901620",
+      "repeatIdentical": true
+    },
+    {
+      "time": 24,
+      "sha256": "e4182e0720eaf9e8ee242d6a0a79c5de7d55b8d802d340b7c995c92e35df4c8d",
+      "repeatIdentical": true
+    },
+    {
+      "time": 31,
+      "sha256": "095edf14edc7c0b3c036c209a200677ac31120531cce59a59ebed1ea6ae709cb",
+      "repeatIdentical": true
+    },
+    {
+      "time": 51,
+      "sha256": "8914e8ce4532c7f6e18467e2c658e496fca3884438fa69a3344d4e16e1e6f10a",
+      "repeatIdentical": true
+    },
+    {
+      "time": 62,
+      "sha256": "0b5522119d15d8ef3e832dab8fa49d43af7a92f6937de6be4d6e07e7ee5b6797",
+      "repeatIdentical": true
+    },
+    {
+      "time": 73,
+      "sha256": "f2dfffd777254e6879f71c8b2678fc1b0bfbb2ee193664cb199ad65ddcac91fd",
+      "repeatIdentical": true
+    },
+    {
+      "time": 78.5,
+      "sha256": "a9148a7ad25930634e8f45a0aa69233b548e9ce29c23255059ddb087e1a12e64",
+      "repeatIdentical": true
+    },
+    {
+      "time": 86,
+      "sha256": "14b6fc0d177f21b7d4968c761a535445fff0ebbc5152df3aa38e872517f47f84",
+      "repeatIdentical": true
+    }
+  ],
+  "handoffs": [
+    {
+      "time": 7.5,
+      "maxPixelJump": 0.000022766674156590014,
+      "cameraJump": 3.5853362863654124e-12
+    },
+    {
+      "time": 17.5,
+      "maxPixelJump": 0.000003544737329964065,
+      "cameraJump": 1.2421175199506251e-12
+    },
+    {
+      "time": 27.5,
+      "maxPixelJump": 0.00022198201831199078,
+      "cameraJump": 3.2365221613872563e-12
+    },
+    {
+      "time": 37.5,
+      "maxPixelJump": 0.00001727919066060636,
+      "cameraJump": 1.549330131030346e-12
+    },
+    {
+      "time": 47.5,
+      "maxPixelJump": 0.000007816349064115968,
+      "cameraJump": 3.241629187300532e-12
+    },
+    {
+      "time": 57.5,
+      "maxPixelJump": 0.001124369047101659,
+      "cameraJump": 1.8598456108520622e-12
+    },
+    {
+      "time": 67.5,
+      "maxPixelJump": 0.00003228722726852305,
+      "cameraJump": 1.7763568394002505e-12
+    },
+    {
+      "time": 80,
+      "maxPixelJump": 0.000004761408013751698,
+      "cameraJump": 1.0311751452718454e-12
+    }
+  ],
+  "connectionsAnchored": true,
+  "connectionsReleased": true,
+  "info": {
+    "width": 1920,
+    "height": 1080,
+    "drawCalls": 1,
+    "triangles": 1,
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+  },
+  "pageErrors": []
+}

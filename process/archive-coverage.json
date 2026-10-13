@@ -1,0 +1,17 @@
+{
+  "files": {
+    "text_files": 1498,
+    "binary_paths": 2456,
+    "old_bundles_replaced_by_expanded_files": 9,
+    "reference_learning": 551,
+    "reference_helpers_excluded": 30,
+    "incomplete_export": 6,
+    "legacy_text_encoding_converted": 2
+  },
+  "uniqueBinaryObjects": 1991,
+  "uniqueBinaryBytes": 19028741224,
+  "conversationMessages": 382,
+  "toolCalls": 570,
+  "releaseBytes": 17891845601,
+  "releaseAssets": 17
+}

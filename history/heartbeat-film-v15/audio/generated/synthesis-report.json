@@ -1,0 +1,22 @@
+{
+  "seconds": 161.7,
+  "sampleRate": 48000,
+  "samples": 7761600,
+  "channels": 2,
+  "events": 676,
+  "gain": 2.5,
+  "seed": 261012,
+  "stems": [
+    "pulse",
+    "melody",
+    "harmony",
+    "percussion",
+    "detail",
+    "build",
+    "bridge"
+  ],
+  "sampleLibrary": "Salamander Grand Piano v3 / Alexander Holm / CC BY 3.0",
+  "processing": "Spacious 96\u2013116 BPM maze phrases; complete music and reverb release 88.4\u201392.2 s. One dry isolated lub-dub at 94.25 / 94.41 s; exact silent black pause 95.8\u201398 s, soft life-piano entry, fixed 1000 Hz terminal flatline with 8 ms release. Original retuned acoustic pitches; life and ending retain natural acoustic lengths.",
+  "scoreSha256": "ae2f72c982890c3c3ad2c0ddc91ccf81a471acc19066c81d1dc365443be812ef",
+  "listening": "Not reviewed or auditioned, per user instruction."
+}

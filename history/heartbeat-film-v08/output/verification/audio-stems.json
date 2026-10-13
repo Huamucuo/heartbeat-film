@@ -1,0 +1,275 @@
+{
+  "passed": true,
+  "duration": 340,
+  "tempoSections": [
+    {
+      "start": 0,
+      "end": 63,
+      "bpm": 96,
+      "meter": "4/4",
+      "name": "原来的主题"
+    },
+    {
+      "start": 63,
+      "end": 85,
+      "bpm": 96,
+      "meter": "5/4",
+      "name": "第一次迷途：缺少落点"
+    },
+    {
+      "start": 85,
+      "end": 104,
+      "bpm": 112,
+      "meter": "7/8",
+      "name": "第二次迷途：错位"
+    },
+    {
+      "start": 104,
+      "end": 118.5,
+      "bpm": 132,
+      "meter": "3/4",
+      "name": "第三次迷途：加速"
+    },
+    {
+      "start": 118.5,
+      "end": 131,
+      "bpm": 64,
+      "meter": "free",
+      "name": "回到原点后的余响"
+    },
+    {
+      "start": 131,
+      "end": 141,
+      "bpm": 88,
+      "meter": "4/4",
+      "name": "日子的展开"
+    },
+    {
+      "start": 141,
+      "end": 162,
+      "bpm": 88,
+      "meter": "4/4",
+      "name": "联系：独立主题变奏"
+    },
+    {
+      "start": 162,
+      "end": 180,
+      "bpm": 100,
+      "meter": "4/4",
+      "name": "读书与工作：独立主题变奏"
+    },
+    {
+      "start": 180,
+      "end": 198,
+      "bpm": 80,
+      "meter": "4/4",
+      "name": "住处：独立主题变奏"
+    },
+    {
+      "start": 198,
+      "end": 216,
+      "bpm": 112,
+      "meter": "4/4",
+      "name": "通勤：独立主题变奏"
+    },
+    {
+      "start": 216,
+      "end": 239,
+      "bpm": 76,
+      "meter": "4/4",
+      "name": "相伴：独立主题变奏"
+    },
+    {
+      "start": 239,
+      "end": 259,
+      "bpm": 84,
+      "meter": "4/4",
+      "name": "成长：独立主题变奏"
+    },
+    {
+      "start": 259,
+      "end": 279,
+      "bpm": 68,
+      "meter": "4/4",
+      "name": "身体：独立主题变奏"
+    },
+    {
+      "start": 279,
+      "end": 297,
+      "bpm": 72,
+      "meter": "4/4",
+      "name": "生日：独立主题变奏"
+    },
+    {
+      "start": 297,
+      "end": 315,
+      "bpm": 64,
+      "meter": "4/4",
+      "name": "远行：独立主题变奏"
+    },
+    {
+      "start": 315,
+      "end": 326,
+      "bpm": 64,
+      "meter": "free",
+      "name": "回忆退远"
+    },
+    {
+      "start": 326,
+      "end": 340,
+      "bpm": 76,
+      "meter": "4/4",
+      "name": "没有解决的尾声"
+    }
+  ],
+  "stems": {
+    "pulse": {
+      "peakDBFS": -5.597924782139248,
+      "rmsDBFS": -23.7241366155771,
+      "seconds": 340,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "melody": {
+      "peakDBFS": -8.206291946942923,
+      "rmsDBFS": -26.03903461053291,
+      "seconds": 340,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "harmony": {
+      "peakDBFS": -23.127474178009102,
+      "rmsDBFS": -39.024732148795465,
+      "seconds": 340,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "percussion": {
+      "peakDBFS": -22.8250335406127,
+      "rmsDBFS": -53.07141605189888,
+      "seconds": 340,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "detail": {
+      "peakDBFS": -10.669004416596792,
+      "rmsDBFS": -40.38382757973803,
+      "seconds": 340,
+      "sampleRate": 48000,
+      "channels": 2
+    }
+  },
+  "preMasterSections": [
+    {
+      "title": "发生",
+      "start": 0,
+      "end": 9,
+      "rmsDBFS": -20.37681778884465
+    },
+    {
+      "title": "日子",
+      "start": 9,
+      "end": 29,
+      "rmsDBFS": -20.296064884821142
+    },
+    {
+      "title": "奔赴",
+      "start": 29,
+      "end": 47,
+      "rmsDBFS": -19.99224336884231
+    },
+    {
+      "title": "彼此",
+      "start": 47,
+      "end": 63,
+      "rmsDBFS": -18.38350681335109
+    },
+    {
+      "title": "迷途",
+      "start": 63,
+      "end": 121,
+      "rmsDBFS": -19.146208540860467
+    },
+    {
+      "title": "空白",
+      "start": 121,
+      "end": 131,
+      "rmsDBFS": -33.20411471164946
+    },
+    {
+      "title": "日常",
+      "start": 131,
+      "end": 141,
+      "rmsDBFS": -26.355146772478633
+    },
+    {
+      "title": "联系",
+      "start": 141,
+      "end": 162,
+      "rmsDBFS": -21.43416990643511
+    },
+    {
+      "title": "读书与工作",
+      "start": 162,
+      "end": 180,
+      "rmsDBFS": -22.92455830456701
+    },
+    {
+      "title": "住处",
+      "start": 180,
+      "end": 198,
+      "rmsDBFS": -22.84944236345693
+    },
+    {
+      "title": "通勤",
+      "start": 198,
+      "end": 216,
+      "rmsDBFS": -23.292660931278085
+    },
+    {
+      "title": "相伴",
+      "start": 216,
+      "end": 239,
+      "rmsDBFS": -21.73851476761441
+    },
+    {
+      "title": "成长",
+      "start": 239,
+      "end": 259,
+      "rmsDBFS": -24.162574987829068
+    },
+    {
+      "title": "身体",
+      "start": 259,
+      "end": 279,
+      "rmsDBFS": -22.81691964589273
+    },
+    {
+      "title": "生日",
+      "start": 279,
+      "end": 297,
+      "rmsDBFS": -23.630821054456067
+    },
+    {
+      "title": "远行",
+      "start": 297,
+      "end": 315,
+      "rmsDBFS": -22.748248313242097
+    },
+    {
+      "title": "留下",
+      "start": 315,
+      "end": 326,
+      "rmsDBFS": -29.21841889959701
+    },
+    {
+      "title": "心跳",
+      "start": 326,
+      "end": 340,
+      "rmsDBFS": -26.085116896152027
+    }
+  ],
+  "quietToMazeCrescendoRMSDifferenceDB": 13.126799306861454,
+  "stemSumMaxAbsoluteDifference": 0.000274658203125,
+  "note": "Signal and alignment checks only; no claim of subjective music listening."
+}

@@ -1,0 +1,67 @@
+{
+  "lives": [
+    {
+      "t": 134.6,
+      "equal": true
+    },
+    {
+      "t": 140,
+      "equal": true
+    },
+    {
+      "t": 156,
+      "equal": true
+    },
+    {
+      "t": 170,
+      "equal": true
+    },
+    {
+      "t": 172.999,
+      "equal": true
+    },
+    {
+      "t": 173,
+      "equal": true
+    },
+    {
+      "t": 179,
+      "equal": true
+    },
+    {
+      "t": 186.999,
+      "equal": true
+    },
+    {
+      "t": 187,
+      "equal": true
+    }
+  ],
+  "city": [
+    {
+      "t": 188,
+      "equal": true,
+      "dimming": 0.147120178518239
+    },
+    {
+      "t": 191,
+      "equal": true,
+      "dimming": 0.7437869339792531
+    },
+    {
+      "t": 193.5,
+      "equal": true,
+      "dimming": 0.9982324216123349
+    },
+    {
+      "t": 194.5,
+      "equal": true,
+      "dimming": 1
+    }
+  ],
+  "freeze": {
+    "equal": true,
+    "sha256": "98649f0a44c4b3d33ec7537c0b68c93f01529d95b7652dabc19ba4f834546e53"
+  },
+  "errors": []
+}

@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "theme": "活着的意义",
+  "videos": [
+    {
+      "file": "heartbeat-v06-4k.mp4",
+      "bytes": 621207837,
+      "sha256": "46bfd4644b0db2910f07641948993b82e99ebf9a254a0df3042e9c2fb282bc38",
+      "width": 3840,
+      "height": 2160,
+      "frames": 2700,
+      "fps": 30,
+      "uniqueFrameHashes": 2700,
+      "maxRepeatedFrames": 1
+    },
+    {
+      "file": "heartbeat-v06-1080p.mp4",
+      "bytes": 163627134,
+      "sha256": "d4bd636783e97f25364d1520dd91d96681a2cc8b60ab6ab231b16eab0bc92f69",
+      "width": 1920,
+      "height": 1080,
+      "frames": 2700,
+      "fps": 30,
+      "uniqueFrameHashes": 2700,
+      "maxRepeatedFrames": 1
+    }
+  ],
+  "duration": 90,
+  "video": "H.264 / yuv420p / limited BT.709",
+  "audio": {
+    "codec": "AAC",
+    "sampleRate": 48000,
+    "channels": 2,
+    "integratedLUFS": -15.62,
+    "truePeakDBTP": -1.9,
+    "loudnessRangeLU": 10.9
+  },
+  "extractedNative4KFrames": 67,
+  "offlineFilePlayer": true,
+  "playback": {
+    "advancedToSeconds": 2.505101,
+    "totalVideoFrames": 81,
+    "droppedVideoFrames": 2
+  },
+  "native4KSeek": true,
+  "chapterSeeks": [
+    {
+      "chapter": "发生",
+      "seek": 0,
+      "passed": true
+    },
+    {
+      "chapter": "重复",
+      "seek": 7.5,
+      "passed": true
+    },
+    {
+      "chapter": "奔赴",
+      "seek": 17.5,
+      "passed": true
+    },
+    {
+      "chapter": "彼此",
+      "seek": 27.5,
+      "passed": true
+    },
+    {
+      "chapter": "循环",
+      "seek": 37.5,
+      "passed": true
+    },
+    {
+      "chapter": "空白",
+      "seek": 47.5,
+      "passed": true
+    },
+    {
+      "chapter": "追问",
+      "seek": 57.5,
+      "passed": true
+    },
+    {
+      "chapter": "回声",
+      "seek": 67.5,
+      "passed": true
+    },
+    {
+      "chapter": "心跳",
+      "seek": 80,
+      "passed": true
+    }
+  ],
+  "pageErrors": [],
+  "note": "Technical validation and decoded visual samples; does not certify artistic quality or subjective listening."
+}

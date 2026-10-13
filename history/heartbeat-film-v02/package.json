@@ -1,0 +1,1 @@
+{"name":"heartbeat-film-v02","private":true,"version":"2.0.0","type":"module","scripts":{"preview":"node tools/serve.mjs","contact":"node tools/capture.mjs","render":"node tools/render.mjs","verify":"node tools/verify.mjs"},"devDependencies":{"playwright":"1.58.2"}}

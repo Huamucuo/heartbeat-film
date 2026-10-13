@@ -1,0 +1,25 @@
+{
+  "output": "heartbeat-v04-4k.mp4",
+  "width": 3840,
+  "height": 2160,
+  "crf": 15,
+  "fps": 30,
+  "frames": 2700,
+  "start": 0,
+  "end": 90,
+  "seconds": 90,
+  "samples": 2,
+  "workers": 3,
+  "sourceHashes": {
+    "src/drawing.mjs": "09a338194ce01b17446ca1875736843b42c4f707bfa5d01b7979f0cc5593c5ac",
+    "src/scenes.mjs": "192f6921cb382964bd32547fd896cdd76353e36f1c1287d11ef45eb567586ebe",
+    "src/film.mjs": "7e6a3fbe61dc00848e565845c24c64e30ff6bf8fce8ba03e12e5f788d9ebb28b",
+    "src/score.mjs": "b4eb6cbf1fda464cfe283bd558eeb90b6150cbf797f4f7a30180a35919ed239d",
+    "audio/generated/master.wav": "26e5d04798103d51857e3c4f475b98b40e7c79033eb381731150d0ae59bbc9da"
+  },
+  "frameTransfer": "lossless PNG; bounded ordered batches",
+  "shutter": "half-frame / display-space Canvas accumulation",
+  "renderSeconds": 807.276,
+  "bytes": 236351772,
+  "errors": []
+}

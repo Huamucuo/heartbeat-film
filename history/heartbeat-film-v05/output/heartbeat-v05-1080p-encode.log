@@ -1,0 +1,65 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '${WORKSPACE}\heartbeat-film-v05\output\heartbeat-v05-4k.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : 心跳 / Heartbeat — 活着的意义
+    encoder         : Lavf61.7.100
+    comment         : Original graphic film and original instrumental score.
+  Duration: 00:01:30.00, start: 0.000000, bitrate: 19059 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 3840x2160, 18741 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 309 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+[libx264 @ 000001d277a8da80] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000001d277a8da80] profile High, level 5.0, 4:2:0, 8-bit
+[libx264 @ 000001d277a8da80] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=5 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=8 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=2 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=30 lookahead_threads=5 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=3 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=50 rc=crf mbtree=1 crf=17.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '${WORKSPACE}\heartbeat-film-v05\output\heartbeat-v05-1080p.rendering.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : 心跳 / Heartbeat — 活着的意义
+    comment         : Original graphic film and original instrumental score.
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, q=2-31, 30 fps, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 309 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    frame=   53 fps= 51 q=23.0 size=     256KiB time=00:00:01.70 bitrate=1233.8kbits/s speed=1.64x    frame=  109 fps= 70 q=23.0 size=     768KiB time=00:00:03.56 bitrate=1764.1kbits/s speed= 2.3x    frame=  161 fps= 78 q=23.0 size=    1280KiB time=00:00:05.33 bitrate=1966.2kbits/s speed=2.58x    frame=  199 fps= 77 q=23.0 size=    1792KiB time=00:00:06.56 bitrate=2235.6kbits/s speed=2.54x    frame=  231 fps= 75 q=23.0 size=    2560KiB time=00:00:07.63 bitrate=2747.4kbits/s speed=2.47x    frame=  266 fps= 74 q=23.0 size=    3840KiB time=00:00:08.80 bitrate=3574.7kbits/s speed=2.43x    frame=  299 fps= 73 q=23.0 size=    4864KiB time=00:00:09.90 bitrate=4024.9kbits/s speed= 2.4x    frame=  335 fps= 72 q=23.0 size=    5632KiB time=00:00:11.10 bitrate=4156.6kbits/s speed=2.39x    frame=  371 fps= 72 q=23.0 size=    6656KiB time=00:00:12.30 bitrate=4433.0kbits/s speed=2.38x    frame=  407 fps= 72 q=23.0 size=    7680KiB time=00:00:13.50 bitrate=4660.4kbits/s speed=2.38x    frame=  443 fps= 72 q=23.0 size=    8448KiB time=00:00:14.70 bitrate=4707.9kbits/s speed=2.37x    frame=  476 fps= 71 q=23.0 size=    9472KiB time=00:00:15.80 bitrate=4911.1kbits/s speed=2.35x    frame=  509 fps= 70 q=23.0 size=   10496KiB time=00:00:16.90 bitrate=5087.8kbits/s speed=2.34x    frame=  544 fps= 70 q=23.0 size=   11776KiB time=00:00:18.06 bitrate=5339.6kbits/s speed=2.33x    frame=  580 fps= 70 q=23.0 size=   13056KiB time=00:00:19.26 bitrate=5551.3kbits/s speed=2.33x    frame=  626 fps= 71 q=23.0 size=   14080KiB time=00:00:20.80 bitrate=5545.4kbits/s speed=2.37x    frame=  672 fps= 72 q=23.0 size=   15104KiB time=00:00:22.33 bitrate=5540.3kbits/s speed= 2.4x    frame=  713 fps= 73 q=23.0 size=   15872KiB time=00:00:23.70 bitrate=5486.2kbits/s speed=2.42x    frame=  750 fps= 73 q=23.0 size=   16640KiB time=00:00:24.93 bitrate=5467.2kbits/s speed=2.42x    frame=  787 fps= 73 q=23.0 size=   17664KiB time=00:00:26.16 bitrate=5530.1kbits/s speed=2.42x    frame=  815 fps= 72 q=23.0 size=   18688KiB time=00:00:27.10 bitrate=5649.2kbits/s speed=2.39x    frame=  835 fps= 70 q=23.0 size=   20224KiB time=00:00:27.76 bitrate=5966.7kbits/s speed=2.34x    frame=  859 fps= 69 q=23.0 size=   22528KiB time=00:00:28.56 bitrate=6460.3kbits/s speed=2.31x    frame=  880 fps= 68 q=23.0 size=   24064KiB time=00:00:29.26 bitrate=6735.7kbits/s speed=2.27x    frame=  903 fps= 67 q=23.0 size=   25088KiB time=00:00:30.03 bitrate=6843.1kbits/s speed=2.24x    frame=  931 fps= 67 q=23.0 size=   26624KiB time=00:00:30.96 bitrate=7043.2kbits/s speed=2.22x    frame=  959 fps= 66 q=23.0 size=   28160KiB time=00:00:31.90 bitrate=7231.6kbits/s speed=2.21x    frame=  983 fps= 66 q=23.0 size=   29440KiB time=00:00:32.70 bitrate=7375.3kbits/s speed=2.18x    frame= 1014 fps= 65 q=23.0 size=   31232KiB time=00:00:33.73 bitrate=7584.6kbits/s speed=2.18x    frame= 1039 fps= 65 q=23.0 size=   32768KiB time=00:00:34.56 bitrate=7765.7kbits/s speed=2.16x    frame= 1067 fps= 65 q=23.0 size=   34048KiB time=00:00:35.50 bitrate=7856.9kbits/s speed=2.15x    frame= 1094 fps= 64 q=23.0 size=   35584KiB time=00:00:36.40 bitrate=8008.4kbits/s speed=2.14x    frame= 1122 fps= 64 q=23.0 size=   37120KiB time=00:00:37.33 bitrate=8145.2kbits/s speed=2.13x    frame= 1150 fps= 64 q=23.0 size=   38656KiB time=00:00:38.26 bitrate=8275.4kbits/s speed=2.12x    frame= 1195 fps= 64 q=23.0 size=   39936KiB time=00:00:39.76 bitrate=8226.9kbits/s speed=2.14x    frame= 1250 fps= 65 q=23.0 size=   40448KiB time=00:00:41.60 bitrate=7965.2kbits/s speed=2.18x    frame= 1312 fps= 67 q=23.0 size=   40960KiB time=00:00:43.66 bitrate=7684.2kbits/s speed=2.23x    frame= 1374 fps= 68 q=23.0 size=   41728KiB time=00:00:45.73 bitrate=7474.6kbits/s speed=2.27x    frame= 1432 fps= 69 q=23.0 size=   42240KiB time=00:00:47.66 bitrate=7259.4kbits/s speed=2.31x    frame= 1488 fps= 70 q=23.0 size=   42752KiB time=00:00:49.53 bitrate=7070.5kbits/s speed=2.34x    frame= 1549 fps= 71 q=23.0 size=   43264KiB time=00:00:51.56 bitrate=6873.0kbits/s speed=2.38x    frame= 1630 fps= 73 q=23.0 size=   43520KiB time=00:00:54.30 bitrate=6565.7kbits/s speed=2.45x    frame= 1689 fps= 74 q=23.0 size=   44032KiB time=00:00:56.23 bitrate=6414.5kbits/s speed=2.48x    frame= 1750 fps= 75 q=23.0 size=   44288KiB time=00:00:58.26 bitrate=6226.7kbits/s speed=2.51x    frame= 1809 fps= 76 q=23.0 size=   44544KiB time=00:01:00.23 bitrate=6058.2kbits/s speed=2.54x    frame= 1876 fps= 77 q=23.0 size=   45312KiB time=00:01:02.46 bitrate=5942.3kbits/s speed=2.58x    frame= 1935 fps= 78 q=23.0 size=   45824KiB time=00:01:04.43 bitrate=5826.0kbits/s speed= 2.6x    frame= 1984 fps= 78 q=23.0 size=   46592KiB time=00:01:06.06 bitrate=5777.2kbits/s speed=2.61x    frame= 2040 fps= 79 q=23.0 size=   47360KiB time=00:01:07.93 bitrate=5711.1kbits/s speed=2.63x    frame= 2093 fps= 80 q=23.0 size=   48128KiB time=00:01:09.70 bitrate=5656.6kbits/s speed=2.65x    frame= 2141 fps= 80 q=23.0 size=   49152KiB time=00:01:11.30 bitrate=5647.3kbits/s speed=2.66x    frame= 2189 fps= 80 q=23.0 size=   49920KiB time=00:01:12.90 bitrate=5609.7kbits/s speed=2.67x    frame= 2237 fps= 80 q=23.0 size=   50944KiB time=00:01:14.50 bitrate=5601.8kbits/s speed=2.67x    frame= 2274 fps= 80 q=23.0 size=   51968KiB time=00:01:15.73 bitrate=5621.3kbits/s speed=2.67x    frame= 2316 fps= 80 q=23.0 size=   52992KiB time=00:01:17.13 bitrate=5628.1kbits/s speed=2.67x    frame= 2371 fps= 81 q=23.0 size=   53760KiB time=00:01:18.96 bitrate=5577.1kbits/s speed=2.69x    frame= 2422 fps= 81 q=23.0 size=   54528KiB time=00:01:20.66 bitrate=5537.5kbits/s speed= 2.7x    frame= 2475 fps= 81 q=23.0 size=   55040KiB time=00:01:22.43 bitrate=5469.7kbits/s speed=2.71x    frame= 2542 fps= 82 q=23.0 size=   55808KiB time=00:01:24.70 bitrate=5397.6kbits/s speed=2.74x    frame= 2620 fps= 83 q=23.0 size=   56320KiB time=00:01:27.26 bitrate=5286.9kbits/s speed=2.77x    [mp4 @ 000001d277ac2440] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001d277a82100] video:53365KiB audio:3399KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.172718%
+frame= 2700 fps= 85 q=-1.0 Lsize=   56862KiB time=00:01:29.93 bitrate=5179.6kbits/s speed=2.83x    
+[libx264 @ 000001d277a8da80] frame I:11    Avg QP: 7.35  size:211115
+[libx264 @ 000001d277a8da80] frame P:731   Avg QP:11.25  size: 40924
+[libx264 @ 000001d277a8da80] frame B:1958  Avg QP:19.05  size: 11444
+[libx264 @ 000001d277a8da80] consecutive B-frames:  2.5%  2.1%  0.9% 94.5%
+[libx264 @ 000001d277a8da80] mb I  I16..4: 32.9% 35.3% 31.8%
+[libx264 @ 000001d277a8da80] mb P  I16..4:  1.6%  1.9%  1.7%  P16..4: 18.7%  9.6%  7.4%  0.0%  0.0%    skip:59.1%
+[libx264 @ 000001d277a8da80] mb B  I16..4:  0.2%  0.1%  0.2%  B16..8: 15.0%  5.3%  2.0%  direct: 1.7%  skip:75.6%  L0:35.7% L1:47.7% BI:16.5%
+[libx264 @ 000001d277a8da80] 8x8 transform intra:33.0% inter:37.3%
+[libx264 @ 000001d277a8da80] direct mvs  spatial:99.2% temporal:0.8%
+[libx264 @ 000001d277a8da80] coded y,uvDC,uvAC intra: 48.4% 72.3% 56.0% inter: 6.8% 7.7% 2.0%
+[libx264 @ 000001d277a8da80] i16 v,h,dc,p: 47% 44%  5%  4%
+[libx264 @ 000001d277a8da80] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 25% 34%  4%  5%  4%  6%  4%  7%
+[libx264 @ 000001d277a8da80] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 31% 14%  5%  7%  4% 10%  4% 10%
+[libx264 @ 000001d277a8da80] i8c dc,h,v,p: 45% 37% 14%  5%
+[libx264 @ 000001d277a8da80] Weighted P-Frames: Y:8.8% UV:3.0%
+[libx264 @ 000001d277a8da80] ref P L0: 64.7%  6.5% 15.1%  7.4%  5.8%  0.4%  0.0%
+[libx264 @ 000001d277a8da80] ref B L0: 76.6% 15.1%  6.7%  1.6%
+[libx264 @ 000001d277a8da80] ref B L1: 94.6%  5.4%
+[libx264 @ 000001d277a8da80] kb/s:4857.35

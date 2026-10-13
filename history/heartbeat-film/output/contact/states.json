@@ -1,0 +1,429 @@
+{
+  "errors": [],
+  "states": [
+    {
+      "sourceTime": 17.5,
+      "state": {
+        "time": 17.5,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 0,
+        "camera": {
+          "position": [
+            0.35,
+            7.8,
+            9.2
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": false,
+        "originImpulse": 0.20217935209926824,
+        "replyImpulse": 0,
+        "echoProgress": 0,
+        "echoActive": false,
+        "responseAge": -1,
+        "exposure": 0.9,
+        "breath": 1.2001538631644061e-17
+      },
+      "origin": [
+        771.5348125138024,
+        549.5787623180674
+      ],
+      "reply": [
+        1293.502090620188,
+        502.13543492581783
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 4,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    },
+    {
+      "sourceTime": 20,
+      "state": {
+        "time": 20,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 0.5,
+        "camera": {
+          "position": [
+            0.22499999999999998,
+            6.3,
+            9.75
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": false,
+        "originImpulse": 0.20217935209926824,
+        "replyImpulse": 0,
+        "echoProgress": 0,
+        "echoActive": false,
+        "responseAge": -1,
+        "exposure": 1,
+        "breath": -1.3716044150450356e-17
+      },
+      "origin": [
+        764.1746975019074,
+        552.5809002085792
+      ],
+      "reply": [
+        1304.456721001382,
+        496.60200013237727
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 6,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    },
+    {
+      "sourceTime": 22.4667,
+      "state": {
+        "time": 22.4667,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 0.9998675240165921,
+        "camera": {
+          "position": [
+            0.10003311899585199,
+            4.800397427950223,
+            10.299854276418252
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": false,
+        "originImpulse": 0.0007193589073650219,
+        "replyImpulse": 0,
+        "echoProgress": 0,
+        "echoActive": false,
+        "responseAge": -1,
+        "exposure": 1.0999735048033186,
+        "breath": 0.0005856732354653162
+      },
+      "origin": [
+        759.864124213013,
+        554.1784127643106
+      ],
+      "reply": [
+        1309.4308684475538,
+        493.9246700179751
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 8,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    },
+    {
+      "sourceTime": 55,
+      "state": {
+        "time": 55,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 1,
+        "camera": {
+          "position": [
+            0.6,
+            4.4,
+            8.7
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": true,
+        "originImpulse": 0.00035864653764225126,
+        "replyImpulse": 0,
+        "echoProgress": 0,
+        "echoActive": false,
+        "responseAge": -1,
+        "exposure": 0.28,
+        "breath": 6.175686159267555e-17
+      },
+      "origin": [
+        727.2144097403326,
+        551.2227010538244
+      ],
+      "reply": [
+        1374.2428685437383,
+        492.5329191734294
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 10,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    },
+    {
+      "sourceTime": 57.2,
+      "state": {
+        "time": 57.2,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 1,
+        "camera": {
+          "position": [
+            0.6,
+            4.4,
+            8.7
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": true,
+        "originImpulse": 0,
+        "replyImpulse": 0.07014244504083829,
+        "echoProgress": 0.5200000000000046,
+        "echoActive": true,
+        "responseAge": -1,
+        "exposure": 0.28,
+        "breath": 0.005153743737585453
+      },
+      "origin": [
+        727.0325401702139,
+        548.6580020861701
+      ],
+      "reply": [
+        1373.7514463519638,
+        496.4968685288757
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 12,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    },
+    {
+      "sourceTime": 57.5,
+      "state": {
+        "time": 57.5,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 1,
+        "camera": {
+          "position": [
+            0.6,
+            4.4,
+            8.7
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": true,
+        "originImpulse": 0.216,
+        "replyImpulse": 0.0099794512469938,
+        "echoProgress": 1,
+        "echoActive": false,
+        "responseAge": 0,
+        "exposure": 0.28,
+        "breath": -1.0978034757707628e-16
+      },
+      "origin": [
+        727.0018269112529,
+        548.2248880501103
+      ],
+      "reply": [
+        1373.6620349823247,
+        497.21808573677527
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 14,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    },
+    {
+      "sourceTime": 59,
+      "state": {
+        "time": 59,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 1,
+        "camera": {
+          "position": [
+            0.5861516034985422,
+            4.510787172011662,
+            8.816326530612244
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": true,
+        "originImpulse": 0.38537822287202933,
+        "replyImpulse": 0,
+        "echoProgress": 1,
+        "echoActive": false,
+        "responseAge": 1.5,
+        "exposure": 0.6900000000000001,
+        "breath": -0.013314791228132193
+      },
+      "origin": [
+        730.4276668697969,
+        546.1233260349162
+      ],
+      "reply": [
+        1366.6301261741041,
+        501.24942140807485
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 16,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    },
+    {
+      "sourceTime": 64.9667,
+      "state": {
+        "time": 64.9667,
+        "ids": [
+          "pulse.origin",
+          "pulse.reply",
+          "trace.main",
+          "membrane.main"
+        ],
+        "growth": 1,
+        "camera": {
+          "position": [
+            0.3500169189780801,
+            6.39986464817536,
+            10.799857880584128
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 36
+        },
+        "second": true,
+        "originImpulse": 0.0007193589073649958,
+        "replyImpulse": 0,
+        "echoProgress": 1,
+        "echoActive": false,
+        "responseAge": 7.466700000000003,
+        "exposure": 1.1,
+        "breath": -0.0005856732354652458
+      },
+      "origin": [
+        778.583341811217,
+        543.1430409874299
+      ],
+      "reply": [
+        1278.4166104596738,
+        513.32672698583
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "renderer": {
+        "frame": 18,
+        "calls": 1,
+        "triangles": 2,
+        "points": 0,
+        "lines": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,997 @@
+{
+  "errors": [],
+  "determinism": [
+    {
+      "time": 3.5,
+      "sha256": "5f4e1f12b6e9108dbc24de84fc3e56501e811375e0a19022e2d525d6060c6d63"
+    },
+    {
+      "time": 5.2,
+      "sha256": "68b652eb50469aa037c28a514abba7221f7dac39ebfee26be00fbd6c99eafe73"
+    },
+    {
+      "time": 14,
+      "sha256": "9c040d4d3bd14e8cc45f095f88d8b621e60a78ed416f9c3e3477a7fb8a44c51a"
+    },
+    {
+      "time": 24,
+      "sha256": "db4e503cd1de8beecf4f3452e052aa4e0d31c3d2e0b29853009b666851d5c269"
+    },
+    {
+      "time": 35,
+      "sha256": "e6a546833867fad7b08c57ba490b79d0a710bd9f8992cfb84b9356b95d3d618a"
+    },
+    {
+      "time": 54,
+      "sha256": "396e11eeb0c7f7089c1ee376b21a10e4cf02b683f246f7d25ff2bc032a2af3e2"
+    },
+    {
+      "time": 68,
+      "sha256": "ec11b4161c3a62e65881d234a85b0677db87304978da0b7ee582b8f3da74a8ac"
+    },
+    {
+      "time": 82,
+      "sha256": "e5b216fdcb09f6467d33d494cd66d3373b364dd0d1086dfb9d3d2187ffd7e3d6"
+    },
+    {
+      "time": 95,
+      "sha256": "6abd70bc43600c16d6adc8230f818eed75bfe2bc3c5b4c7d6d85243803fd1d7d"
+    },
+    {
+      "time": 110,
+      "sha256": "e8f93b3f2016899dd6facd668192e7303d38fb197ae9aa3e6fc9bc1b4827ccf0"
+    },
+    {
+      "time": 118.5,
+      "sha256": "af0c79db24f65fdee15780b42a16da59c71f9740f5d4b4f5de54fe65a5c460f9"
+    },
+    {
+      "time": 127,
+      "sha256": "636b58cd21ebe89579e440826ebe0b94b6f48239e9c80c719f355cc92f8e60c6"
+    },
+    {
+      "time": 132,
+      "sha256": "2143dad39c811f2e2bbedeff52236e357b0150dfb426467549b0d20bd075dfab"
+    },
+    {
+      "time": 136,
+      "sha256": "5b9aa7192cee6691479575f076a81c5180ed94598b8baca0958996ca13eca760"
+    },
+    {
+      "time": 141,
+      "sha256": "d8c63f12aa9814ddcee6f3a1e40e995bce78d328963e1f567cdffd0bfd4f3ac8"
+    },
+    {
+      "time": 143,
+      "sha256": "97aa4a9d8bb34d7e19597068252e06c44a4b1d74ea2d3b5a41bc1ee93ce5ee91"
+    },
+    {
+      "time": 144.5,
+      "sha256": "54c0802fce7f19cc13f8b8e730a636ad6bf6f8afeafb4288a004668d50d6267d"
+    },
+    {
+      "time": 147,
+      "sha256": "d1db1cc4e29cf277dd90dd09e480c50ebe048b3b564703ac93f8cfa89ecc2b10"
+    },
+    {
+      "time": 148,
+      "sha256": "f256f34e7d2440e63cb618c71ef184700eb824fd3ba7c248a7f39829ea5eebff"
+    },
+    {
+      "time": 151,
+      "sha256": "bcf03366176e004f95b516bb5130d0d7792bdef46696dadf40c46930dc3b0378"
+    },
+    {
+      "time": 156,
+      "sha256": "469d7be6d7a6539af8a74ed238312bd4d27908a9d5cb7c558fbd7a193710644e"
+    },
+    {
+      "time": 158,
+      "sha256": "6401e3578316f8bce62f5405b898ff9f0572e1f5a66009cc460379881e235308"
+    },
+    {
+      "time": 160,
+      "sha256": "3e9981aab6aec665f88526d98106586cb937f283e8b2bf5d296f6e290ae798fe"
+    },
+    {
+      "time": 161.5,
+      "sha256": "3ae196ea32de4559454c08cb9a532c164eae1f4c49be3401c8eb7ea65c6d980d"
+    },
+    {
+      "time": 164,
+      "sha256": "cd7d74605fa58ff0d156df58bdec402cb5f2bc57e35299636ae3f05d8fe97752"
+    },
+    {
+      "time": 168,
+      "sha256": "7fcc392d53cd130d0cfb9dcee32e373f0001e5d22ff131bd70553109c6607b14"
+    },
+    {
+      "time": 171,
+      "sha256": "5de08bf53a03d67627ffce501cf316b1fa7d30e158290c9a1e296542088bcb2e"
+    },
+    {
+      "time": 175,
+      "sha256": "6de142bfecc706f0f23200813837fd36a09a0de53dde6fd1388fc7b1b2a2ae39"
+    },
+    {
+      "time": 179,
+      "sha256": "2874828085065cd2a32a9161c09f2be5cbded0f027705b88be659cb7ab277162"
+    },
+    {
+      "time": 182,
+      "sha256": "8e9ef9f9413b1f9f94a83991305d6d11d60585c1c1db7668c9ebd8b4882b4d1d"
+    },
+    {
+      "time": 186,
+      "sha256": "700ad5c9c536f701cc3f8204b19065cffbb751c763064c0ecc421f2d802a44eb"
+    },
+    {
+      "time": 191,
+      "sha256": "1f637e1cee3558fe23c76c152012f98dcb2ee0931601666bd8d62e337ca57574"
+    },
+    {
+      "time": 195,
+      "sha256": "f6be8d6e8c0a97397194ed6421b28e3b2aa138b46244f3b2811cdc93b05b7fd4"
+    }
+  ],
+  "boundaries": [
+    {
+      "time": 2,
+      "infinitesimal": {
+        "mean": 0.0008796296296296296,
+        "max": 6
+      },
+      "frameStep": {
+        "mean": 0.41991319444444447,
+        "max": 241
+      }
+    },
+    {
+      "time": 4,
+      "infinitesimal": {
+        "mean": 0.002216435185185185,
+        "max": 11
+      },
+      "frameStep": {
+        "mean": 0.8444502314814815,
+        "max": 241
+      }
+    },
+    {
+      "time": 7.56,
+      "infinitesimal": {
+        "mean": 0.0069791666666666665,
+        "max": 15
+      },
+      "frameStep": {
+        "mean": 2.4981655092592594,
+        "max": 240
+      }
+    },
+    {
+      "time": 9,
+      "infinitesimal": {
+        "mean": 0.01310763888888889,
+        "max": 17
+      },
+      "frameStep": {
+        "mean": 5.570590277777778,
+        "max": 241
+      }
+    },
+    {
+      "time": 10,
+      "infinitesimal": {
+        "mean": 0.011765046296296296,
+        "max": 22
+      },
+      "frameStep": {
+        "mean": 5.034733796296297,
+        "max": 223
+      }
+    },
+    {
+      "time": 14,
+      "infinitesimal": {
+        "mean": 0.006724537037037037,
+        "max": 12
+      },
+      "frameStep": {
+        "mean": 2.617609953703704,
+        "max": 215
+      }
+    },
+    {
+      "time": 14.625,
+      "infinitesimal": {
+        "mean": 0.007118055555555555,
+        "max": 13
+      },
+      "frameStep": {
+        "mean": 2.6895023148148147,
+        "max": 219
+      }
+    },
+    {
+      "time": 23,
+      "infinitesimal": {
+        "mean": 0.005590277777777777,
+        "max": 9
+      },
+      "frameStep": {
+        "mean": 2.6958738425925928,
+        "max": 239
+      }
+    },
+    {
+      "time": 29,
+      "infinitesimal": {
+        "mean": 0.010960648148148148,
+        "max": 29
+      },
+      "frameStep": {
+        "mean": 4.439039351851852,
+        "max": 215
+      }
+    },
+    {
+      "time": 33,
+      "infinitesimal": {
+        "mean": 0.018819444444444444,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 4.6805613425925925,
+        "max": 135
+      }
+    },
+    {
+      "time": 39,
+      "infinitesimal": {
+        "mean": 0.00816550925925926,
+        "max": 4
+      },
+      "frameStep": {
+        "mean": 1.6099016203703704,
+        "max": 113
+      }
+    },
+    {
+      "time": 43,
+      "infinitesimal": {
+        "mean": 0.009438657407407408,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 2.156082175925926,
+        "max": 116
+      }
+    },
+    {
+      "time": 47,
+      "infinitesimal": {
+        "mean": 0.012511574074074074,
+        "max": 8
+      },
+      "frameStep": {
+        "mean": 3.3000231481481483,
+        "max": 129
+      }
+    },
+    {
+      "time": 55,
+      "infinitesimal": {
+        "mean": 0.005133101851851852,
+        "max": 16
+      },
+      "frameStep": {
+        "mean": 2.516915509259259,
+        "max": 160
+      }
+    },
+    {
+      "time": 61.5,
+      "infinitesimal": {
+        "mean": 0.00583912037037037,
+        "max": 21
+      },
+      "frameStep": {
+        "mean": 2.689525462962963,
+        "max": 162
+      }
+    },
+    {
+      "time": 63,
+      "infinitesimal": {
+        "mean": 0.00634837962962963,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 2.2483912037037035,
+        "max": 85
+      }
+    },
+    {
+      "time": 66,
+      "infinitesimal": {
+        "mean": 0.02554398148148148,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 6.8451967592592595,
+        "max": 164
+      }
+    },
+    {
+      "time": 74,
+      "infinitesimal": {
+        "mean": 0.015225694444444444,
+        "max": 6
+      },
+      "frameStep": {
+        "mean": 4.569288194444445,
+        "max": 174
+      }
+    },
+    {
+      "time": 82,
+      "infinitesimal": {
+        "mean": 0.014392361111111111,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 2.3335648148148147,
+        "max": 125
+      }
+    },
+    {
+      "time": 83,
+      "infinitesimal": {
+        "mean": 0.012164351851851852,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 1.8695775462962962,
+        "max": 127
+      }
+    },
+    {
+      "time": 85,
+      "infinitesimal": {
+        "mean": 0.022708333333333334,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 4.241707175925926,
+        "max": 149
+      }
+    },
+    {
+      "time": 100,
+      "infinitesimal": {
+        "mean": 0.0060648148148148145,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 2.6262731481481483,
+        "max": 131
+      }
+    },
+    {
+      "time": 102,
+      "infinitesimal": {
+        "mean": 0.014525462962962962,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 2.295931712962963,
+        "max": 141
+      }
+    },
+    {
+      "time": 104,
+      "infinitesimal": {
+        "mean": 0.036493055555555556,
+        "max": 3
+      },
+      "frameStep": {
+        "mean": 9.552766203703703,
+        "max": 159
+      }
+    },
+    {
+      "time": 107,
+      "infinitesimal": {
+        "mean": 0.014085648148148147,
+        "max": 8
+      },
+      "frameStep": {
+        "mean": 2.6075810185185184,
+        "max": 168
+      }
+    },
+    {
+      "time": 114,
+      "infinitesimal": {
+        "mean": 0.013258101851851853,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 2.6874131944444444,
+        "max": 166
+      }
+    },
+    {
+      "time": 118.5,
+      "infinitesimal": {
+        "mean": 0.0026215277777777777,
+        "max": 3
+      },
+      "frameStep": {
+        "mean": 0.4218576388888889,
+        "max": 138
+      }
+    },
+    {
+      "time": 119,
+      "infinitesimal": {
+        "mean": 0.002054398148148148,
+        "max": 7
+      },
+      "frameStep": {
+        "mean": 0.4679918981481481,
+        "max": 21
+      }
+    },
+    {
+      "time": 121,
+      "infinitesimal": {
+        "mean": 0.0010532407407407407,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.1816550925925926,
+        "max": 28
+      }
+    },
+    {
+      "time": 122,
+      "infinitesimal": {
+        "mean": 0.0012210648148148148,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.20328703703703704,
+        "max": 104
+      }
+    },
+    {
+      "time": 125,
+      "infinitesimal": {
+        "mean": 0.01363425925925926,
+        "max": 107
+      },
+      "frameStep": {
+        "mean": 0.3390972222222222,
+        "max": 106
+      }
+    },
+    {
+      "time": 130.5,
+      "infinitesimal": {
+        "mean": 0.0005497685185185186,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.6511400462962963,
+        "max": 105
+      }
+    },
+    {
+      "time": 131,
+      "infinitesimal": {
+        "mean": 0.11112268518518519,
+        "max": 3
+      },
+      "frameStep": {
+        "mean": 0.7978298611111111,
+        "max": 72
+      }
+    },
+    {
+      "time": 132,
+      "infinitesimal": {
+        "mean": 0.00016782407407407406,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.5553877314814815,
+        "max": 101
+      }
+    },
+    {
+      "time": 134,
+      "infinitesimal": {
+        "mean": 0.0013657407407407407,
+        "max": 9
+      },
+      "frameStep": {
+        "mean": 0.26391782407407405,
+        "max": 50
+      }
+    },
+    {
+      "time": 136,
+      "infinitesimal": {
+        "mean": 0.00013310185185185186,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.07478587962962963,
+        "max": 93
+      }
+    },
+    {
+      "time": 137.5,
+      "infinitesimal": {
+        "mean": 0.00016782407407407406,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.05402199074074074,
+        "max": 128
+      }
+    },
+    {
+      "time": 139,
+      "infinitesimal": {
+        "mean": 0.00017361111111111112,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.05482638888888889,
+        "max": 114
+      }
+    },
+    {
+      "time": 140,
+      "infinitesimal": {
+        "mean": 0.00015046296296296297,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.0833912037037037,
+        "max": 187
+      }
+    },
+    {
+      "time": 141,
+      "infinitesimal": {
+        "mean": 0.018836805555555555,
+        "max": 79
+      },
+      "frameStep": {
+        "mean": 0.12188078703703703,
+        "max": 149
+      }
+    },
+    {
+      "time": 142,
+      "infinitesimal": {
+        "mean": 0.0006712962962962962,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.1730150462962963,
+        "max": 77
+      }
+    },
+    {
+      "time": 143,
+      "infinitesimal": {
+        "mean": 0.0039004629629629628,
+        "max": 9
+      },
+      "frameStep": {
+        "mean": 0.42027199074074073,
+        "max": 162
+      }
+    },
+    {
+      "time": 144,
+      "infinitesimal": {
+        "mean": 0.0013020833333333333,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 0.35083333333333333,
+        "max": 163
+      }
+    },
+    {
+      "time": 144.5,
+      "infinitesimal": {
+        "mean": 0.004288194444444444,
+        "max": 3
+      },
+      "frameStep": {
+        "mean": 0.36822916666666666,
+        "max": 121
+      }
+    },
+    {
+      "time": 145,
+      "infinitesimal": {
+        "mean": 0.0002951388888888889,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.0744675925925926,
+        "max": 100
+      }
+    },
+    {
+      "time": 146,
+      "infinitesimal": {
+        "mean": 0.0011863425925925926,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.20987847222222222,
+        "max": 165
+      }
+    },
+    {
+      "time": 147,
+      "infinitesimal": {
+        "mean": 0.000630787037037037,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.12049189814814815,
+        "max": 58
+      }
+    },
+    {
+      "time": 148,
+      "infinitesimal": {
+        "mean": 0.028350694444444446,
+        "max": 63
+      },
+      "frameStep": {
+        "mean": 0.10248842592592593,
+        "max": 207
+      }
+    },
+    {
+      "time": 150,
+      "infinitesimal": {
+        "mean": 0.0005324074074074074,
+        "max": 16
+      },
+      "frameStep": {
+        "mean": 0.07232638888888888,
+        "max": 200
+      }
+    },
+    {
+      "time": 152,
+      "infinitesimal": {
+        "mean": 0.0005150462962962963,
+        "max": 11
+      },
+      "frameStep": {
+        "mean": 0.05255208333333333,
+        "max": 119
+      }
+    },
+    {
+      "time": 153,
+      "infinitesimal": {
+        "mean": 0.00020833333333333335,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.07442129629629629,
+        "max": 36
+      }
+    },
+    {
+      "time": 154,
+      "infinitesimal": {
+        "mean": 0.0005960648148148148,
+        "max": 15
+      },
+      "frameStep": {
+        "mean": 0.1354861111111111,
+        "max": 39
+      }
+    },
+    {
+      "time": 155,
+      "infinitesimal": {
+        "mean": 0.0006712962962962962,
+        "max": 16
+      },
+      "frameStep": {
+        "mean": 0.07164930555555556,
+        "max": 45
+      }
+    },
+    {
+      "time": 156,
+      "infinitesimal": {
+        "mean": 0.043333333333333335,
+        "max": 130
+      },
+      "frameStep": {
+        "mean": 0.39685763888888886,
+        "max": 136
+      }
+    },
+    {
+      "time": 157,
+      "infinitesimal": {
+        "mean": 0.0037094907407407406,
+        "max": 8
+      },
+      "frameStep": {
+        "mean": 0.5384780092592593,
+        "max": 112
+      }
+    },
+    {
+      "time": 158,
+      "infinitesimal": {
+        "mean": 0.007239583333333333,
+        "max": 5
+      },
+      "frameStep": {
+        "mean": 0.6058912037037038,
+        "max": 164
+      }
+    },
+    {
+      "time": 159,
+      "infinitesimal": {
+        "mean": 0.0022453703703703702,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 0.554224537037037,
+        "max": 161
+      }
+    },
+    {
+      "time": 160,
+      "infinitesimal": {
+        "mean": 0.007008101851851852,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 0.22870370370370371,
+        "max": 164
+      }
+    },
+    {
+      "time": 161,
+      "infinitesimal": {
+        "mean": 0.0007465277777777778,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.2585474537037037,
+        "max": 173
+      }
+    },
+    {
+      "time": 162,
+      "infinitesimal": {
+        "mean": 0.001869212962962963,
+        "max": 2
+      },
+      "frameStep": {
+        "mean": 0.4341261574074074,
+        "max": 200
+      }
+    },
+    {
+      "time": 163,
+      "infinitesimal": {
+        "mean": 0.0006018518518518519,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.15534143518518517,
+        "max": 62
+      }
+    },
+    {
+      "time": 164,
+      "infinitesimal": {
+        "mean": 0.04429398148148148,
+        "max": 28
+      },
+      "frameStep": {
+        "mean": 0.25331597222222224,
+        "max": 92
+      }
+    },
+    {
+      "time": 166,
+      "infinitesimal": {
+        "mean": 0.0002777777777777778,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.07165509259259259,
+        "max": 56
+      }
+    },
+    {
+      "time": 168,
+      "infinitesimal": {
+        "mean": 0.0002199074074074074,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.060162037037037035,
+        "max": 44
+      }
+    },
+    {
+      "time": 170,
+      "infinitesimal": {
+        "mean": 0.0001388888888888889,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.05372685185185185,
+        "max": 35
+      }
+    },
+    {
+      "time": 172,
+      "infinitesimal": {
+        "mean": 0.00008101851851851852,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.033443287037037035,
+        "max": 81
+      }
+    },
+    {
+      "time": 173,
+      "infinitesimal": {
+        "mean": 0.00009837962962962963,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.026469907407407407,
+        "max": 27
+      }
+    },
+    {
+      "time": 176,
+      "infinitesimal": {
+        "mean": 0.0009201388888888889,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.25871527777777775,
+        "max": 29
+      }
+    },
+    {
+      "time": 179,
+      "infinitesimal": {
+        "mean": 0.0002546296296296296,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.14221064814814816,
+        "max": 12
+      }
+    },
+    {
+      "time": 181,
+      "infinitesimal": {
+        "mean": 0.000005787037037037037,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.02269675925925926,
+        "max": 2
+      }
+    },
+    {
+      "time": 182,
+      "infinitesimal": {
+        "mean": 0.000005787037037037037,
+        "max": 1
+      },
+      "frameStep": {
+        "mean": 0.5775347222222222,
+        "max": 3
+      }
+    },
+    {
+      "time": 183,
+      "infinitesimal": {
+        "mean": 0.00017361111111111112,
+        "max": 3
+      },
+      "frameStep": {
+        "mean": 0.04496527777777778,
+        "max": 30
+      }
+    },
+    {
+      "time": 185,
+      "infinitesimal": {
+        "mean": 0.0006770833333333334,
+        "max": 10
+      },
+      "frameStep": {
+        "mean": 0.25085069444444447,
+        "max": 207
+      }
+    },
+    {
+      "time": 188,
+      "infinitesimal": {
+        "mean": 0.001105324074074074,
+        "max": 9
+      },
+      "frameStep": {
+        "mean": 0.3425578703703704,
+        "max": 218
+      }
+    },
+    {
+      "time": 191,
+      "infinitesimal": {
+        "mean": 0.0010474537037037037,
+        "max": 8
+      },
+      "frameStep": {
+        "mean": 0.3109664351851852,
+        "max": 216
+      }
+    },
+    {
+      "time": 194,
+      "infinitesimal": {
+        "mean": 0.0008043981481481482,
+        "max": 18
+      },
+      "frameStep": {
+        "mean": 0.24508101851851852,
+        "max": 224
+      }
+    },
+    {
+      "time": 195.5,
+      "infinitesimal": {
+        "mean": 0.000925925925925926,
+        "max": 17
+      },
+      "frameStep": {
+        "mean": 0.27067708333333335,
+        "max": 219
+      }
+    }
+  ],
+  "notes": [
+    "Continuity metrics do not replace viewing the moving shots."
+  ],
+  "info": {
+    "width": 1920,
+    "height": 1080,
+    "renderer": "Canvas 2D with depth projection; native resolution; no PBR",
+    "samples": "half-frame exposure in display color space",
+    "eventCount": 807
+  },
+  "passed": true
+}

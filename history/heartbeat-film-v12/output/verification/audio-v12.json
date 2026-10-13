@@ -1,0 +1,815 @@
+{
+  "passed": true,
+  "edition": "v12",
+  "duration": 196.0,
+  "sampleRate": 48000,
+  "channels": 2,
+  "eventCount": 968,
+  "stems": {
+    "pulse": {
+      "peakDbFS": -3.481891201920257,
+      "rmsDbFS": -25.17016584514392,
+      "terminalNonzeroSamples": 0
+    },
+    "melody": {
+      "peakDbFS": -4.5431197034700235,
+      "rmsDbFS": -24.236075147569135,
+      "terminalNonzeroSamples": 0
+    },
+    "harmony": {
+      "peakDbFS": -5.307432939601458,
+      "rmsDbFS": -26.510887441091086,
+      "terminalNonzeroSamples": 0
+    },
+    "percussion": {
+      "peakDbFS": -29.926672890252902,
+      "rmsDbFS": -58.85808542053185,
+      "terminalNonzeroSamples": 0
+    },
+    "detail": {
+      "peakDbFS": -24.548487991427102,
+      "rmsDbFS": -56.96453385441215,
+      "terminalNonzeroSamples": 0
+    }
+  },
+  "stemSumMaxAbsoluteDifference": 6.103515625e-05,
+  "retainedMasterPCM": {
+    "start": 0,
+    "end": 63,
+    "bitIdentical": true,
+    "bits": 24,
+    "bytes": 18144000,
+    "crossfadeAfter63Seconds": 0.04
+  },
+  "mazeHeart": {
+    "start": 98,
+    "end": 131,
+    "count": 31,
+    "firstBeatSeconds": 98.46068508181988,
+    "lastBeatSeconds": 130.78207835778483,
+    "firstEightMedianPeakFrequencyHz": 54.19921875,
+    "lastEightMedianPeakFrequencyHz": 43.212890625,
+    "lastVsFirstEightRmsDb": 5.251065613249722,
+    "maximumOnsetDelaySeconds": 0.0005625,
+    "sectionPulseRmsDbFS": -25.891017941673905,
+    "sectionMasterRmsDbFS": -19.300956370266466
+  },
+  "lifeHeart": {
+    "start": 131,
+    "end": 182,
+    "count": 47,
+    "firstEightMedianPeakFrequencyHz": 59.6923828125,
+    "lastEightMedianPeakFrequencyHz": 33.69140625,
+    "lastVsFirstEightRmsDb": 10.409326903183473
+  },
+  "endingHeart": {
+    "count": 11,
+    "lastVsFirstThreeRmsDb": -14.611671012057599,
+    "intervalsSeconds": [
+      0.8400000000000034,
+      0.8599999999999852,
+      0.9000000000000057,
+      0.9799999999999898,
+      1.1000000000000227,
+      1.2399999999999807,
+      1.3600000000000136,
+      1.509999999999991,
+      1.6100000000000136,
+      1.2800000000000011
+    ]
+  },
+  "returnAccentCount": 72,
+  "glitchCount": 3,
+  "resonance": {
+    "start": 194.5,
+    "end": 195.92,
+    "voice": "resonance",
+    "peakDbFS": -25.42865839334781,
+    "dominantFrequencyHz": 1760.009765625,
+    "lastVsFirst200msRmsDb": -34.58389889579696,
+    "heartStemAfterStopNonzeroSamples": 0
+  },
+  "terminalSilence": {
+    "from": 195.92,
+    "to": 196,
+    "masterNonzeroSamples": 0,
+    "allStemsNonzeroSamples": 0
+  },
+  "masterPeakDbFS": -1.9979786848814567,
+  "masterSHA256": "ba2a39761770851946451957fc26c04d5ec91fd111a6b12f88ca57b881de88b8",
+  "measuredPrimaryBeats": [
+    {
+      "time": 98.46068508181988,
+      "authoredFrequencyHz": 53.98963868481169,
+      "authoredStrength": 0.2654634186975587,
+      "renderedPrimaryRmsDbFS": -21.945379677654955,
+      "renderedPeakFrequencyHz": 54.931640625,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 99.62924004236066,
+      "authoredFrequencyHz": 53.87419058832042,
+      "authoredStrength": 0.22752348631083233,
+      "renderedPrimaryRmsDbFS": -23.283692058832536,
+      "renderedPeakFrequencyHz": 54.931640625,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 100.7080068747245,
+      "authoredFrequencyHz": 53.66207581794959,
+      "authoredStrength": 0.2344282725232545,
+      "renderedPrimaryRmsDbFS": -23.023410629385907,
+      "renderedPeakFrequencyHz": 54.931640625,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 101.69671391835688,
+      "authoredFrequencyHz": 53.38674904653425,
+      "authoredStrength": 0.2800408393756618,
+      "renderedPrimaryRmsDbFS": -21.4819236780024,
+      "renderedPeakFrequencyHz": 54.19921875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 102.59703788435105,
+      "authoredFrequencyHz": 53.0748622647696,
+      "authoredStrength": 0.26814860521900286,
+      "renderedPrimaryRmsDbFS": -21.866281350278488,
+      "renderedPeakFrequencyHz": 54.19921875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 103.61009383922729,
+      "authoredFrequencyHz": 52.66106343455075,
+      "authoredStrength": 0.23835303394944582,
+      "renderedPrimaryRmsDbFS": -22.90240967615194,
+      "renderedPeakFrequencyHz": 53.466796875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 104.7392507276518,
+      "authoredFrequencyHz": 52.13037178165086,
+      "authoredStrength": 0.30757064387895827,
+      "renderedPrimaryRmsDbFS": -20.69719055605725,
+      "renderedPeakFrequencyHz": 53.466796875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 105.87607117601846,
+      "authoredFrequencyHz": 51.53239594886339,
+      "authoredStrength": 0.3368228713278644,
+      "renderedPrimaryRmsDbFS": -19.89695100272592,
+      "renderedPeakFrequencyHz": 52.734375,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 106.89512639788245,
+      "authoredFrequencyHz": 50.9508537574175,
+      "authoredStrength": 0.3140502037013193,
+      "renderedPrimaryRmsDbFS": -20.49004446762742,
+      "renderedPeakFrequencyHz": 52.001953125,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 107.88427945947507,
+      "authoredFrequencyHz": 50.35284294219666,
+      "authoredStrength": 0.26553784748424597,
+      "renderedPrimaryRmsDbFS": -21.95448439957108,
+      "renderedPeakFrequencyHz": 51.26953125,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 109.07872484801962,
+      "authoredFrequencyHz": 49.596875215531995,
+      "authoredStrength": 0.28475584657434655,
+      "renderedPrimaryRmsDbFS": -21.37365420379421,
+      "renderedPeakFrequencyHz": 50.537109375,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 110.28163079946053,
+      "authoredFrequencyHz": 48.810040889512265,
+      "authoredStrength": 0.32357297074341346,
+      "renderedPrimaryRmsDbFS": -20.263255727386323,
+      "renderedPeakFrequencyHz": 49.8046875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 111.55175818376054,
+      "authoredFrequencyHz": 47.96549471322594,
+      "authoredStrength": 0.3633874942395525,
+      "renderedPrimaryRmsDbFS": -19.22880990453319,
+      "renderedPeakFrequencyHz": 49.072265625,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 112.71386009549583,
+      "authoredFrequencyHz": 47.192940786625016,
+      "authoredStrength": 0.30410798413736556,
+      "renderedPrimaryRmsDbFS": -20.764085996999334,
+      "renderedPeakFrequencyHz": 48.33984375,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 113.64907212778263,
+      "authoredFrequencyHz": 46.579387687753915,
+      "authoredStrength": 0.4240226347505663,
+      "renderedPrimaryRmsDbFS": -17.890538885735122,
+      "renderedPeakFrequencyHz": 47.607421875,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 114.5166523759156,
+      "authoredFrequencyHz": 46.02237150184449,
+      "authoredStrength": 0.32278921846616293,
+      "renderedPrimaryRmsDbFS": -20.27898119412078,
+      "renderedPeakFrequencyHz": 46.875,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 115.74689393178238,
+      "authoredFrequencyHz": 45.26213465106433,
+      "authoredStrength": 0.510550631576878,
+      "renderedPrimaryRmsDbFS": -16.293955842412203,
+      "renderedPeakFrequencyHz": 46.142578125,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 117.00888809332152,
+      "authoredFrequencyHz": 44.531258446722,
+      "authoredStrength": 0.46166413429018405,
+      "renderedPrimaryRmsDbFS": -17.145922778158642,
+      "renderedPeakFrequencyHz": 45.41015625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 117.92636288383636,
+      "authoredFrequencyHz": 44.03936342238329,
+      "authoredStrength": 0.40227619980120977,
+      "renderedPrimaryRmsDbFS": -18.34599091212855,
+      "renderedPeakFrequencyHz": 44.677734375,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 119.09507654570601,
+      "authoredFrequencyHz": 43.470831050189915,
+      "authoredStrength": 0.386982401785602,
+      "renderedPrimaryRmsDbFS": -18.705643625825758,
+      "renderedPeakFrequencyHz": 44.677734375,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 120.20706348475692,
+      "authoredFrequencyHz": 43.00017832372851,
+      "authoredStrength": 0.4595805586147943,
+      "renderedPrimaryRmsDbFS": -17.226914605855157,
+      "renderedPeakFrequencyHz": 43.9453125,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 121.07238384316196,
+      "authoredFrequencyHz": 42.687909479686766,
+      "authoredStrength": 0.3928572331301971,
+      "renderedPrimaryRmsDbFS": -18.590830303815725,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 122.05733355641995,
+      "authoredFrequencyHz": 42.396548922520736,
+      "authoredStrength": 0.4803868337539844,
+      "renderedPrimaryRmsDbFS": -16.838872998849432,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 123.31809509678027,
+      "authoredFrequencyHz": 42.133892744031506,
+      "authoredStrength": 0.6095038801752375,
+      "renderedPrimaryRmsDbFS": -14.763056275714892,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 124.58241772877233,
+      "authoredFrequencyHz": 42.008522322472,
+      "authoredStrength": 0.5416066551070654,
+      "renderedPrimaryRmsDbFS": -15.784285360712495,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 125.66426101669158,
+      "authoredFrequencyHz": 42,
+      "authoredStrength": 0.4675383308529854,
+      "renderedPrimaryRmsDbFS": -17.061293196555617,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 126.62369299173066,
+      "authoredFrequencyHz": 42,
+      "authoredStrength": 0.5363107615476475,
+      "renderedPrimaryRmsDbFS": -15.869306508255974,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 127.66632467080207,
+      "authoredFrequencyHz": 42,
+      "authoredStrength": 0.3966912450653035,
+      "renderedPrimaryRmsDbFS": -18.4885955829865,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 128.7219918927764,
+      "authoredFrequencyHz": 42,
+      "authoredStrength": 0.39571735241683204,
+      "renderedPrimaryRmsDbFS": -18.509933531871724,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 129.7106814337242,
+      "authoredFrequencyHz": 42,
+      "authoredStrength": 0.46090061461203735,
+      "renderedPrimaryRmsDbFS": -17.185502682205968,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 130.78207835778483,
+      "authoredFrequencyHz": 42,
+      "authoredStrength": 0.5134174816869199,
+      "renderedPrimaryRmsDbFS": -16.248236604878375,
+      "renderedPeakFrequencyHz": 43.212890625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 131.87958218759485,
+      "authoredFrequencyHz": 58.97614474621668,
+      "authoredStrength": 0.24489849969172953,
+      "renderedPrimaryRmsDbFS": -22.667192721755058,
+      "renderedPeakFrequencyHz": 60.05859375,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 132.84564461162267,
+      "authoredFrequencyHz": 58.896335590867686,
+      "authoredStrength": 0.25313088882918217,
+      "renderedPrimaryRmsDbFS": -22.38167668008923,
+      "renderedPeakFrequencyHz": 60.05859375,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 133.73766268399345,
+      "authoredFrequencyHz": 58.774697916507385,
+      "authoredStrength": 0.32282634048863973,
+      "renderedPrimaryRmsDbFS": -20.27125214834035,
+      "renderedPeakFrequencyHz": 60.05859375,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 134.92836247564117,
+      "authoredFrequencyHz": 58.54373961730594,
+      "authoredStrength": 0.26906874230732325,
+      "renderedPrimaryRmsDbFS": -21.854853049171084,
+      "renderedPeakFrequencyHz": 60.05859375,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 136.10650639283833,
+      "authoredFrequencyHz": 58.24181037094012,
+      "authoredStrength": 0.2686445733969216,
+      "renderedPrimaryRmsDbFS": -21.865416342499756,
+      "renderedPeakFrequencyHz": 59.326171875,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 137.10499213621594,
+      "authoredFrequencyHz": 57.93180312671687,
+      "authoredStrength": 0.3505284113061761,
+      "renderedPrimaryRmsDbFS": -19.546773851449853,
+      "renderedPeakFrequencyHz": 59.326171875,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 138.23213328501592,
+      "authoredFrequencyHz": 57.5254823073662,
+      "authoredStrength": 0.33046865172065637,
+      "renderedPrimaryRmsDbFS": -20.04827055634229,
+      "renderedPeakFrequencyHz": 58.59375,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 139.09652609547032,
+      "authoredFrequencyHz": 57.17551860400968,
+      "authoredStrength": 0.3768974608751978,
+      "renderedPrimaryRmsDbFS": -18.90378622889965,
+      "renderedPeakFrequencyHz": 58.59375,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 140.3664363584702,
+      "authoredFrequencyHz": 56.60465491305223,
+      "authoredStrength": 0.39769211905219937,
+      "renderedPrimaryRmsDbFS": -18.44960989444459,
+      "renderedPeakFrequencyHz": 57.861328125,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 141.35107221589132,
+      "authoredFrequencyHz": 56.11845547841167,
+      "authoredStrength": 0.4104128920820821,
+      "renderedPrimaryRmsDbFS": -18.191507002702586,
+      "renderedPeakFrequencyHz": 57.12890625,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 142.55351291525633,
+      "authoredFrequencyHz": 55.47686714892406,
+      "authoredStrength": 0.34643151344398926,
+      "renderedPrimaryRmsDbFS": -19.668768488547922,
+      "renderedPeakFrequencyHz": 56.396484375,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 143.60808525997783,
+      "authoredFrequencyHz": 54.87408840238982,
+      "authoredStrength": 0.3347734462438239,
+      "renderedPrimaryRmsDbFS": -19.953046936565617,
+      "renderedPeakFrequencyHz": 55.6640625,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 144.6219326488031,
+      "authoredFrequencyHz": 54.26212064851888,
+      "authoredStrength": 0.485601713973243,
+      "renderedPrimaryRmsDbFS": -16.70499856234817,
+      "renderedPeakFrequencyHz": 55.6640625,
+      "onsetDelaySeconds": 0.0005
+    },
+    {
+      "time": 145.63335174662149,
+      "authoredFrequencyHz": 53.62252973329121,
+      "authoredStrength": 0.4356941990015362,
+      "renderedPrimaryRmsDbFS": -17.640119958348947,
+      "renderedPeakFrequencyHz": 54.931640625,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 146.55515414005686,
+      "authoredFrequencyHz": 53.01648789594909,
+      "authoredStrength": 0.3464610059390518,
+      "renderedPrimaryRmsDbFS": -19.642422186467144,
+      "renderedPeakFrequencyHz": 54.19921875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 147.73000209038568,
+      "authoredFrequencyHz": 52.21530508619461,
+      "authoredStrength": 0.5102826615939462,
+      "renderedPrimaryRmsDbFS": -16.29954586139977,
+      "renderedPeakFrequencyHz": 53.466796875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 148.85895991513678,
+      "authoredFrequencyHz": 51.41852343660779,
+      "authoredStrength": 0.5781748373940936,
+      "renderedPrimaryRmsDbFS": -15.200151476509072,
+      "renderedPeakFrequencyHz": 52.734375,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 149.88631747730767,
+      "authoredFrequencyHz": 50.67361145534788,
+      "authoredStrength": 0.5163363530088432,
+      "renderedPrimaryRmsDbFS": -16.17131576930722,
+      "renderedPeakFrequencyHz": 52.001953125,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 151.01957201271628,
+      "authoredFrequencyHz": 49.83334208967956,
+      "authoredStrength": 0.4433826922707831,
+      "renderedPrimaryRmsDbFS": -17.520485378876504,
+      "renderedPeakFrequencyHz": 50.537109375,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 152.1752931044078,
+      "authoredFrequencyHz": 48.95999647945106,
+      "authoredStrength": 0.5916114427090661,
+      "renderedPrimaryRmsDbFS": -15.02486173334631,
+      "renderedPeakFrequencyHz": 49.8046875,
+      "onsetDelaySeconds": 0.0005208333333333333
+    },
+    {
+      "time": 153.22553916841363,
+      "authoredFrequencyHz": 48.155195027744014,
+      "authoredStrength": 0.4699863301181382,
+      "renderedPrimaryRmsDbFS": -17.000606772430725,
+      "renderedPeakFrequencyHz": 49.072265625,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 154.48382451668303,
+      "authoredFrequencyHz": 47.18116696466767,
+      "authoredStrength": 0.5134521117592217,
+      "renderedPrimaryRmsDbFS": -16.214721099196623,
+      "renderedPeakFrequencyHz": 48.33984375,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 155.65989262390357,
+      "authoredFrequencyHz": 46.2652673873953,
+      "authoredStrength": 0.666669422626941,
+      "renderedPrimaryRmsDbFS": -13.971622138215174,
+      "renderedPeakFrequencyHz": 46.875,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 156.7836061642367,
+      "authoredFrequencyHz": 45.38898735630583,
+      "authoredStrength": 0.5012576942592686,
+      "renderedPrimaryRmsDbFS": -16.456961582956776,
+      "renderedPeakFrequencyHz": 46.142578125,
+      "onsetDelaySeconds": 0.0005416666666666666
+    },
+    {
+      "time": 157.9254042374416,
+      "authoredFrequencyHz": 44.50115402913271,
+      "authoredStrength": 0.7297483328503501,
+      "renderedPrimaryRmsDbFS": -13.168602126070628,
+      "renderedPeakFrequencyHz": 45.41015625,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 159.04698888841764,
+      "authoredFrequencyHz": 43.63511675597458,
+      "authoredStrength": 0.701175524169602,
+      "renderedPrimaryRmsDbFS": -13.53573445519386,
+      "renderedPeakFrequencyHz": 44.677734375,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 160.0844283703616,
+      "authoredFrequencyHz": 42.84249157089707,
+      "authoredStrength": 0.7969918358452419,
+      "renderedPrimaryRmsDbFS": -12.446686949209838,
+      "renderedPeakFrequencyHz": 43.9453125,
+      "onsetDelaySeconds": 0.0005625
+    },
+    {
+      "time": 161.34086012690983,
+      "authoredFrequencyHz": 41.89750541014455,
+      "authoredStrength": 0.8602624814459927,
+      "renderedPrimaryRmsDbFS": -11.761046349170268,
+      "renderedPeakFrequencyHz": 42.48046875,
+      "onsetDelaySeconds": 0.0005833333333333334
+    },
+    {
+      "time": 162.20691775055263,
+      "authoredFrequencyHz": 41.25808083906901,
+      "authoredStrength": 0.8105545747991073,
+      "renderedPrimaryRmsDbFS": -12.255875137736847,
+      "renderedPeakFrequencyHz": 41.748046875,
+      "onsetDelaySeconds": 0.0005833333333333334
+    },
+    {
+      "time": 163.33884779733248,
+      "authoredFrequencyHz": 40.440127171943686,
+      "authoredStrength": 0.8743755814716773,
+      "renderedPrimaryRmsDbFS": -11.598322424337962,
+      "renderedPeakFrequencyHz": 41.015625,
+      "onsetDelaySeconds": 0.0005833333333333334
+    },
+    {
+      "time": 164.44244839069444,
+      "authoredFrequencyHz": 39.66521199813931,
+      "authoredStrength": 0.814275326329129,
+      "renderedPrimaryRmsDbFS": -12.247155863262101,
+      "renderedPeakFrequencyHz": 40.283203125,
+      "onsetDelaySeconds": 0.0005833333333333334
+    },
+    {
+      "time": 165.61725412945333,
+      "authoredFrequencyHz": 38.86858001933899,
+      "authoredStrength": 0.6857730405294991,
+      "renderedPrimaryRmsDbFS": -13.739884044336591,
+      "renderedPeakFrequencyHz": 39.55078125,
+      "onsetDelaySeconds": 0.0006041666666666667
+    },
+    {
+      "time": 166.7456503766241,
+      "authoredFrequencyHz": 38.134561148636756,
+      "authoredStrength": 0.7411889579294084,
+      "renderedPrimaryRmsDbFS": -13.038329008796612,
+      "renderedPeakFrequencyHz": 38.818359375,
+      "onsetDelaySeconds": 0.0006041666666666667
+    },
+    {
+      "time": 167.71446478521182,
+      "authoredFrequencyHz": 37.53146267727739,
+      "authoredStrength": 0.7699796192997702,
+      "renderedPrimaryRmsDbFS": -12.714360556649568,
+      "renderedPeakFrequencyHz": 38.0859375,
+      "onsetDelaySeconds": 0.0006041666666666667
+    },
+    {
+      "time": 168.86681175423158,
+      "authoredFrequencyHz": 36.850034648850645,
+      "authoredStrength": 0.926805885566793,
+      "renderedPrimaryRmsDbFS": -11.13718768528013,
+      "renderedPeakFrequencyHz": 37.353515625,
+      "onsetDelaySeconds": 0.0006041666666666667
+    },
+    {
+      "time": 170.09118883917313,
+      "authoredFrequencyHz": 36.1728278272041,
+      "authoredStrength": 0.9984891790186733,
+      "renderedPrimaryRmsDbFS": -10.499545883044519,
+      "renderedPeakFrequencyHz": 36.62109375,
+      "onsetDelaySeconds": 0.000625
+    },
+    {
+      "time": 171.22347645889718,
+      "authoredFrequencyHz": 35.59338010375371,
+      "authoredStrength": 0.8649039038520928,
+      "renderedPrimaryRmsDbFS": -11.728169483025395,
+      "renderedPeakFrequencyHz": 36.62109375,
+      "onsetDelaySeconds": 0.000625
+    },
+    {
+      "time": 172.3283414540543,
+      "authoredFrequencyHz": 35.07489825817466,
+      "authoredStrength": 0.994856627497929,
+      "renderedPrimaryRmsDbFS": -10.48911800679656,
+      "renderedPeakFrequencyHz": 35.888671875,
+      "onsetDelaySeconds": 0.000625
+    },
+    {
+      "time": 173.46502412873136,
+      "authoredFrequencyHz": 34.59344010091624,
+      "authoredStrength": 0.7205309328317026,
+      "renderedPrimaryRmsDbFS": -13.277677824876818,
+      "renderedPeakFrequencyHz": 35.15625,
+      "onsetDelaySeconds": 0.000625
+    },
+    {
+      "time": 174.5271555148352,
+      "authoredFrequencyHz": 34.19439061309832,
+      "authoredStrength": 0.7162013298862167,
+      "renderedPrimaryRmsDbFS": -13.331155151321973,
+      "renderedPeakFrequencyHz": 35.15625,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 175.67996328747444,
+      "authoredFrequencyHz": 33.820409163191165,
+      "authoredStrength": 1.0897487034726785,
+      "renderedPrimaryRmsDbFS": -9.697765459644618,
+      "renderedPeakFrequencyHz": 34.423828125,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 176.5377494561899,
+      "authoredFrequencyHz": 33.584282437085506,
+      "authoredStrength": 1.080286029722465,
+      "renderedPrimaryRmsDbFS": -9.785218843250568,
+      "renderedPeakFrequencyHz": 34.423828125,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 177.69861097852615,
+      "authoredFrequencyHz": 33.325085409749576,
+      "authoredStrength": 0.9831814176296996,
+      "renderedPrimaryRmsDbFS": -10.616473469703882,
+      "renderedPeakFrequencyHz": 33.69140625,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 178.86232355335298,
+      "authoredFrequencyHz": 33.138509732806696,
+      "authoredStrength": 0.8418840553463189,
+      "renderedPrimaryRmsDbFS": -11.971773879337544,
+      "renderedPeakFrequencyHz": 33.69140625,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 180.11801867687478,
+      "authoredFrequencyHz": 33.02398478937681,
+      "authoredStrength": 0.9454227683126407,
+      "renderedPrimaryRmsDbFS": -10.967598185768782,
+      "renderedPeakFrequencyHz": 33.69140625,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 181.01182485304545,
+      "authoredFrequencyHz": 33,
+      "authoredStrength": 1.08283394612493,
+      "renderedPrimaryRmsDbFS": -9.789410708313609,
+      "renderedPeakFrequencyHz": 33.69140625,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 181.9866534642619,
+      "authoredFrequencyHz": 33,
+      "authoredStrength": 0.9760764119390397,
+      "renderedPrimaryRmsDbFS": -10.690977921440608,
+      "renderedPeakFrequencyHz": 33.69140625,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 182.18,
+      "authoredFrequencyHz": 33,
+      "authoredStrength": 0.93,
+      "renderedPrimaryRmsDbFS": -16.495308381576603,
+      "renderedPeakFrequencyHz": 32.2265625,
+      "onsetDelaySeconds": 0.0003333333333333333
+    },
+    {
+      "time": 183.02,
+      "authoredFrequencyHz": 32.55,
+      "authoredStrength": 0.8715286298513278,
+      "renderedPrimaryRmsDbFS": -11.67285205139845,
+      "renderedPeakFrequencyHz": 32.958984375,
+      "onsetDelaySeconds": 0.0006458333333333333
+    },
+    {
+      "time": 183.88,
+      "authoredFrequencyHz": 32.1,
+      "authoredStrength": 0.7975174540148069,
+      "renderedPrimaryRmsDbFS": -12.423711875153781,
+      "renderedPeakFrequencyHz": 32.958984375,
+      "onsetDelaySeconds": 0.0006666666666666666
+    },
+    {
+      "time": 184.78,
+      "authoredFrequencyHz": 31.65,
+      "authoredStrength": 0.7162301998295084,
+      "renderedPrimaryRmsDbFS": -13.340603919052231,
+      "renderedPeakFrequencyHz": 32.2265625,
+      "onsetDelaySeconds": 0.0006666666666666666
+    },
+    {
+      "time": 185.76,
+      "authoredFrequencyHz": 31.2,
+      "authoredStrength": 0.6298253171408301,
+      "renderedPrimaryRmsDbFS": -14.46245093230073,
+      "renderedPeakFrequencyHz": 31.494140625,
+      "onsetDelaySeconds": 0.0006666666666666666
+    },
+    {
+      "time": 186.86,
+      "authoredFrequencyHz": 30.75,
+      "authoredStrength": 0.5394039241413853,
+      "renderedPrimaryRmsDbFS": -15.833457005653742,
+      "renderedPeakFrequencyHz": 31.494140625,
+      "onsetDelaySeconds": 0.0006666666666666666
+    },
+    {
+      "time": 188.1,
+      "authoredFrequencyHz": 30.3,
+      "authoredStrength": 0.4456472764478939,
+      "renderedPrimaryRmsDbFS": -17.51680653244914,
+      "renderedPeakFrequencyHz": 30.76171875,
+      "onsetDelaySeconds": 0.0006666666666666666
+    },
+    {
+      "time": 189.46,
+      "authoredFrequencyHz": 29.85,
+      "authoredStrength": 0.34902297559257367,
+      "renderedPrimaryRmsDbFS": -19.647118398636277,
+      "renderedPeakFrequencyHz": 30.76171875,
+      "onsetDelaySeconds": 0.0006875
+    },
+    {
+      "time": 190.97,
+      "authoredFrequencyHz": 29.4,
+      "authoredStrength": 0.24987387803013883,
+      "renderedPrimaryRmsDbFS": -22.537239177050697,
+      "renderedPeakFrequencyHz": 30.029296875,
+      "onsetDelaySeconds": 0.0006875
+    },
+    {
+      "time": 192.58,
+      "authoredFrequencyHz": 28.95,
+      "authoredStrength": 0.14846320090090082,
+      "renderedPrimaryRmsDbFS": -27.03538288721138,
+      "renderedPeakFrequencyHz": 29.296875,
+      "onsetDelaySeconds": 0.0006875
+    },
+    {
+      "time": 193.86,
+      "authoredFrequencyHz": 28.5,
+      "authoredStrength": 0.04500000000000004,
+      "renderedPrimaryRmsDbFS": -37.38044564486681,
+      "renderedPeakFrequencyHz": 29.296875,
+      "onsetDelaySeconds": 0.0006875
+    }
+  ],
+  "scope": "Rendered waveform, event alignment, frequency and loudness trend, clipping and PCM checks only. No subjective listening claim."
+}

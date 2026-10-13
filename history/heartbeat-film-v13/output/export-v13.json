@@ -1,0 +1,25 @@
+{
+  "edition": "v13",
+  "seconds": 196,
+  "fps": 30,
+  "retainedPicture": [
+    0,
+    124
+  ],
+  "newPicture": [
+    124,
+    196
+  ],
+  "audio": "Complete v13 master",
+  "review": "Not performed, per user request. User is final reviewer.",
+  "files": [
+    {
+      "file": "heartbeat-v13-4k.mp4",
+      "bytes": 691982965
+    },
+    {
+      "file": "heartbeat-v13-1080p.mp4",
+      "bytes": 160182153
+    }
+  ]
+}

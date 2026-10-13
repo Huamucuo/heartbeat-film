@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "dimensions": {
+    "width": 1920,
+    "height": 1080,
+    "events": 642
+  },
+  "deterministicSeek": [
+    {
+      "time": 0,
+      "sha256": "a4327a5c8a1c42ad4c8139bedd210d56a896841e75ce77b1dae3d4922174b774",
+      "repeatIdentical": true
+    },
+    {
+      "time": 12,
+      "sha256": "0cb0f0c921e04d39e93d31480cedf00c87ab2eea9cf4ac531c95da062bc01326",
+      "repeatIdentical": true
+    },
+    {
+      "time": 18.5,
+      "sha256": "8e713a2756abf5fab5bbfe53819cd471c96ba822b2a0c88b76aef8480ee8522c",
+      "repeatIdentical": true
+    },
+    {
+      "time": 31,
+      "sha256": "8519befd3b75dc932c74e64a0fa1c2bfecae7594cf9f058a2728f827ac47c17b",
+      "repeatIdentical": true
+    },
+    {
+      "time": 57.5,
+      "sha256": "e6a00114385c891f0393a291bcb4afc2c570d298ad27bacc281a4627744ebe0d",
+      "repeatIdentical": true
+    },
+    {
+      "time": 62,
+      "sha256": "1276820d408974b7fa441b45ace4d7a6eec86ac7115b2119c4daed66f410a325",
+      "repeatIdentical": true
+    },
+    {
+      "time": 73,
+      "sha256": "39378e52a478780529950954e0c698c0f9bcd633d389facb43805bd470f96976",
+      "repeatIdentical": true
+    },
+    {
+      "time": 86,
+      "sha256": "c7ae74d816f7b7ad31d89d42ee2b68c121d2bc3619b3d06fc4144041ea8889b0",
+      "repeatIdentical": true
+    },
+    {
+      "time": 89.9666666667,
+      "sha256": "a4327a5c8a1c42ad4c8139bedd210d56a896841e75ce77b1dae3d4922174b774",
+      "repeatIdentical": true
+    }
+  ],
+  "pageErrors": []
+}

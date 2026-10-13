@@ -1,0 +1,16 @@
+Three.js 0.180.0 — MIT License.
+https://github.com/mrdoob/three.js/tree/r180
+Bundled unchanged: vendor/three.module.min.js, vendor/three.core.min.js.
+License: vendor/LICENSE.
+
+Playwright 1.58.2 — Apache-2.0; development/export dependency only.
+https://github.com/microsoft/playwright
+
+FFmpeg 7.1 (imageio-ffmpeg 0.6.0 Windows package) — development/export tool only;
+not included in the portable delivery archive. The local build's configuration
+and licensing are available via ffmpeg -L and imageio_ffmpeg package records.
+
+All film geometry, animation, shaders (excluding Three.js), composition,
+sound synthesis and music in this project were authored for this task.
+No code, sound samples, songs, footage or assets from the three reference
+repositories have been copied into this project.

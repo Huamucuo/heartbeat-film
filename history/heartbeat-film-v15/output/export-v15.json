@@ -1,0 +1,39 @@
+{
+  "edition": "v15",
+  "seconds": 161.7,
+  "fps": 30,
+  "newPicture": [
+    61.5,
+    100
+  ],
+  "pullback": [
+    66,
+    92.3
+  ],
+  "firstBlack": [
+    92.3,
+    93.3
+  ],
+  "measuredECGSweep": [
+    93.3,
+    95.5
+  ],
+  "heartbeat": 94.25,
+  "secondBlack": [
+    95.8,
+    98
+  ],
+  "lifeEntry": 98,
+  "audio": "Recomposed 96–116 BPM maze, one isolated heartbeat",
+  "review": "Not performed, per user request. User is final reviewer.",
+  "files": [
+    {
+      "file": "heartbeat-v15-4k.mp4",
+      "bytes": 665354285
+    },
+    {
+      "file": "heartbeat-v15-1080p.mp4",
+      "bytes": 153249403
+    }
+  ]
+}

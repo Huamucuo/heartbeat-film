@@ -1,0 +1,16 @@
+{
+  "name": "heartbeat-film",
+  "version": "16.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "Heartbeat: complete production archive and editable graphic music film",
+  "scripts": {
+    "preview": "node tools/serve.mjs",
+    "sample": "node tools/render.mjs --from 93.9 --to 95.1 --width 1920 --samples 2 --out heartbeat-sample.mp4",
+    "render": "node tools/render.mjs --width 3840 --out heartbeat-redrawn-4k.mp4",
+    "reproduce": "node tools/reassemble-release.mjs"
+  },
+  "devDependencies": {"playwright": "1.58.2"},
+  "engines": {"node": ">=20"}
+}
